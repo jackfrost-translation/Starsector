@@ -1,0 +1,506 @@
+[
+  {
+    "key": "special_items.csv#modspec$name",
+    "original": "Base ModSpec",
+    "translation": "",
+    "stage": -1,
+    "context": "special_items.csv row 0001\n[original data]\n{'name': 'Base ModSpec',\n 'id': 'modspec',\n 'tags': 'modspec',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '1',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/modspec2.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_modspec_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.ModSpecItemPlugin',\n 'plugin params': '',\n 'desc': 'A collection of notes, guidelines, and practical examples that '\n         'enable one to adapt and apply this modification to various hulls.',\n 'order': '50'}"
+  },
+  {
+    "key": "special_items.csv#modspec$desc",
+    "original": "A collection of notes, guidelines, and practical examples that enable one to adapt and apply this modification to various hulls.",
+    "translation": "이 수정 사항을 다양한 선체에 적용하고 적응할 수 있도록 하는 참고 사항, 지침 및 실제 예제 모음입니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0001\n[original data]\n{'name': 'Base ModSpec',\n 'id': 'modspec',\n 'tags': 'modspec',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '1',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/modspec2.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_modspec_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.ModSpecItemPlugin',\n 'plugin params': '',\n 'desc': 'A collection of notes, guidelines, and practical examples that '\n         'enable one to adapt and apply this modification to various hulls.',\n 'order': '50'}"
+  },
+  {
+    "key": "special_items.csv#corrupted_nanoforge$name",
+    "original": "Corrupted Nanoforge",
+    "translation": "손상된 나노공장",
+    "stage": 1,
+    "context": "special_items.csv row 0004\n[original data]\n{'name': 'Corrupted Nanoforge',\n 'id': 'corrupted_nanoforge',\n 'tags': 'nanoforge, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '50000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'HIGH',\n 'icon': 'graphics/icons/cargo/nanoforge_corrupted.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one has seen better days, and is incapable of reliably '\n         'producing defect-free components. Nonetheless, having access to a '\n         'nanoforge at all is a step up as far as starship construction goes.',\n 'order': '139'}"
+  },
+  {
+    "key": "special_items.csv#corrupted_nanoforge$tech/manufacturer",
+    "original": "Domain Restricted",
+    "translation": "도메인 제한",
+    "stage": 1,
+    "context": "special_items.csv row 0004\n[original data]\n{'name': 'Corrupted Nanoforge',\n 'id': 'corrupted_nanoforge',\n 'tags': 'nanoforge, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '50000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'HIGH',\n 'icon': 'graphics/icons/cargo/nanoforge_corrupted.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one has seen better days, and is incapable of reliably '\n         'producing defect-free components. Nonetheless, having access to a '\n         'nanoforge at all is a step up as far as starship construction goes.',\n 'order': '139'}"
+  },
+  {
+    "key": "special_items.csv#corrupted_nanoforge$desc",
+    "original": "A powerful and versatile manufacturing \"black box\", capable of building itself out to an industrial scale, given the necessary raw materials and human assistance.\\n\\nThis one has seen better days, and is incapable of reliably producing defect-free components. Nonetheless, having access to a nanoforge at all is a step up as far as starship construction goes.",
+    "translation": "강력하고 유연한 제조 \"블랙박스\"입니다. 원자재와 인간의 도움을 받아 스스로를 산업적 규모로 성장시킬 수 있습니다.\\n\\n이 나노공장은 손상되었으며, 결함 없는 부품들을 안정적으로 생산할 수 없습니다. 그렇더라도 나노공장을 가지고 있다는 것만으로도 우주선 건조가 크게 향상됩니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0004\n[original data]\n{'name': 'Corrupted Nanoforge',\n 'id': 'corrupted_nanoforge',\n 'tags': 'nanoforge, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '50000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'HIGH',\n 'icon': 'graphics/icons/cargo/nanoforge_corrupted.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one has seen better days, and is incapable of reliably '\n         'producing defect-free components. Nonetheless, having access to a '\n         'nanoforge at all is a step up as far as starship construction goes.',\n 'order': '139'}"
+  },
+  {
+    "key": "special_items.csv#pristine_nanoforge$name",
+    "original": "Pristine Nanoforge",
+    "translation": "온전한 나노공장",
+    "stage": 1,
+    "context": "special_items.csv row 0005\n[original data]\n{'name': 'Pristine Nanoforge',\n 'id': 'pristine_nanoforge',\n 'tags': 'nanoforge, hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/nanoforge_pristine.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one is good as new, at least according to its on-board '\n         'diagnostics. In practice, getting defect-free starship components is '\n         'still a challenge given the overall state of manufacturing in the '\n         'Sector, but this nanoforge is as good as it gets.',\n 'order': '139.1'}"
+  },
+  {
+    "key": "special_items.csv#pristine_nanoforge$tech/manufacturer",
+    "original": "Domain Restricted",
+    "translation": "도메인 제한",
+    "stage": 1,
+    "context": "special_items.csv row 0005\n[original data]\n{'name': 'Pristine Nanoforge',\n 'id': 'pristine_nanoforge',\n 'tags': 'nanoforge, hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/nanoforge_pristine.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one is good as new, at least according to its on-board '\n         'diagnostics. In practice, getting defect-free starship components is '\n         'still a challenge given the overall state of manufacturing in the '\n         'Sector, but this nanoforge is as good as it gets.',\n 'order': '139.1'}"
+  },
+  {
+    "key": "special_items.csv#pristine_nanoforge$desc",
+    "original": "A powerful and versatile manufacturing \"black box\", capable of building itself out to an industrial scale, given the necessary raw materials and human assistance.\\n\\nThis one is good as new, at least according to its on-board diagnostics. In practice, getting defect-free starship components is still a challenge given the overall state of manufacturing in the Sector, but this nanoforge is as good as it gets.",
+    "translation": "강력하고 유연한 제조 \"블랙박스\"입니다. 원자재와 인간의 도움을 받아 스스로를 산업적 규모로 성장시킬 수 있습니다.\\n\\n이 나노공장은 신품이나 다름없습니다. 최소한 자가진단 결과는 그렇습니다. 섹터의 공업 사정을 생각하면 현실적으로 완전히 결함 없는 우주선 부품들을 만드는 데는 여전히 넘어야 할 난관들이 있지만, 이 나노공장보다 더 나은 것은 바랄 수 없습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0005\n[original data]\n{'name': 'Pristine Nanoforge',\n 'id': 'pristine_nanoforge',\n 'tags': 'nanoforge, hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/nanoforge_pristine.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'heavyindustry, orbitalworks',\n 'desc': 'A powerful and versatile manufacturing \"black box\", capable of '\n         'building itself out to an industrial scale, given the necessary raw '\n         'materials and human assistance.\n'\n         '\n'\n         'This one is good as new, at least according to its on-board '\n         'diagnostics. In practice, getting defect-free starship components is '\n         'still a challenge given the overall state of manufacturing in the '\n         'Sector, but this nanoforge is as good as it gets.',\n 'order': '139.1'}"
+  },
+  {
+    "key": "special_items.csv#synchrotron$name",
+    "original": "Synchrotron Core",
+    "translation": "입자가속기 코어",
+    "stage": 1,
+    "context": "special_items.csv row 0006\n[original data]\n{'name': 'Synchrotron Core',\n 'id': 'synchrotron',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/synchrotron_core.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'fuelprod',\n 'desc': 'A specialized nanoforge, loaded with firmware and seed nano-tech to '\n         'build itself out into a Synchrotron that allows industrial-scale '\n         'antimatter production.',\n 'order': '139.2'}"
+  },
+  {
+    "key": "special_items.csv#synchrotron$tech/manufacturer",
+    "original": "Domain Restricted",
+    "translation": "도메인 제한",
+    "stage": 1,
+    "context": "special_items.csv row 0006\n[original data]\n{'name': 'Synchrotron Core',\n 'id': 'synchrotron',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/synchrotron_core.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'fuelprod',\n 'desc': 'A specialized nanoforge, loaded with firmware and seed nano-tech to '\n         'build itself out into a Synchrotron that allows industrial-scale '\n         'antimatter production.',\n 'order': '139.2'}"
+  },
+  {
+    "key": "special_items.csv#synchrotron$desc",
+    "original": "A specialized nanoforge, loaded with firmware and seed nano-tech to build itself out into a Synchrotron that allows industrial-scale antimatter production.",
+    "translation": "산업 규모의 반물질 생산을 위한 입자가속기 건설에 특화된 나노공장입니다. 자가 성장에 필요한 펌웨어와 나노기술을 포함하고 있습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0006\n[original data]\n{'name': 'Synchrotron Core',\n 'id': 'synchrotron',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '250000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/synchrotron_core.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'fuelprod',\n 'desc': 'A specialized nanoforge, loaded with firmware and seed nano-tech to '\n         'build itself out into a Synchrotron that allows industrial-scale '\n         'antimatter production.',\n 'order': '139.2'}"
+  },
+  {
+    "key": "special_items.csv#orbital_fusion_lamp$name",
+    "original": "Orbital Fusion Lamp",
+    "translation": "궤도 핵융합 조명",
+    "stage": 1,
+    "context": "special_items.csv row 0007\n[original data]\n{'name': 'Orbital Fusion Lamp',\n 'id': 'orbital_fusion_lamp',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fusion_lamp.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized, variable-output fusion reactor capable of providing '\n         'ample light and heat to a planet.\n'\n         '\n'\n         'Safe operation requires prodigious quantities of volatiles. If the '\n         'demand is not met, the reactor suffers from potentially hazardous '\n         'instability, which may lead to an uncontrolled surge in output. '\n         'Litigation over whether this device is of inherently unsafe design '\n         'or simply used unsafely were ongoing in Domain courts at the time of '\n         'the Collapse.',\n 'order': '135'}"
+  },
+  {
+    "key": "special_items.csv#orbital_fusion_lamp$tech/manufacturer",
+    "original": "Fabrique Orbitale",
+    "translation": "Fabrique Orbitale",
+    "stage": 1,
+    "context": "special_items.csv row 0007\n[original data]\n{'name': 'Orbital Fusion Lamp',\n 'id': 'orbital_fusion_lamp',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fusion_lamp.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized, variable-output fusion reactor capable of providing '\n         'ample light and heat to a planet.\n'\n         '\n'\n         'Safe operation requires prodigious quantities of volatiles. If the '\n         'demand is not met, the reactor suffers from potentially hazardous '\n         'instability, which may lead to an uncontrolled surge in output. '\n         'Litigation over whether this device is of inherently unsafe design '\n         'or simply used unsafely were ongoing in Domain courts at the time of '\n         'the Collapse.',\n 'order': '135'}"
+  },
+  {
+    "key": "special_items.csv#orbital_fusion_lamp$desc",
+    "original": "A minituarized, variable-output fusion reactor capable of providing ample light and heat to a planet.\\n\\nSafe operation requires prodigious quantities of volatiles. If the demand is not met, the reactor suffers from potentially hazardous instability, which may lead to an uncontrolled surge in output. Litigation over whether this device is of inherently unsafe design or simply used unsafely were ongoing in Domain courts at the time of the Collapse.",
+    "translation": "행성에 충분한 빛과 열을 제공할 수 있는 소형, 가변 출력 핵융합로입니다.\\n\\n안전한 가동을 위해서는 대량의 기체가 필요합니다. 수요가 충족되지 않으면 반응로가 불안정해져, 제어 불가능한 과출력을 낼 수도 있습니다. 설계가 근본적으로 불안정한지 아니면 안전 수칙을 따르지 않은 사용자의 과실인지는 대붕괴 당시 도메인의 법정에서 논의중이었습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0007\n[original data]\n{'name': 'Orbital Fusion Lamp',\n 'id': 'orbital_fusion_lamp',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fusion_lamp.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized, variable-output fusion reactor capable of providing '\n         'ample light and heat to a planet.\n'\n         '\n'\n         'Safe operation requires prodigious quantities of volatiles. If the '\n         'demand is not met, the reactor suffers from potentially hazardous '\n         'instability, which may lead to an uncontrolled surge in output. '\n         'Litigation over whether this device is of inherently unsafe design '\n         'or simply used unsafely were ongoing in Domain courts at the time of '\n         'the Collapse.',\n 'order': '135'}"
+  },
+  {
+    "key": "special_items.csv#coronal_portal$name",
+    "original": "Hypershunt Tap",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0008\n[original data]\n{'name': 'Hypershunt Tap',\n 'id': 'coronal_portal',\n 'tags': 'hist3t, pather8',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '300000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/hypershunt_tap.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized wormhole interface which can be activated to tap into '\n         'a nearby coronal hypershunt, providing a colony with virtually '\n         'unlimited power.\n'\n         '\n'\n         'Operation requires industrial quantities of transplutonics, which '\n         'are at first used to open the wormhole, and then - once the power '\n         'drawn becomes self-sustaining - is consumed in a complicated '\n         'ablative process which maintains wormhole stability. Any '\n         'interruption in supply requires a full shutdown of the tap.',\n 'order': '137'}"
+  },
+  {
+    "key": "special_items.csv#coronal_portal$tech/manufacturer",
+    "original": "Domain Restricted",
+    "translation": "도메인 제한",
+    "stage": 1,
+    "context": "special_items.csv row 0008\n[original data]\n{'name': 'Hypershunt Tap',\n 'id': 'coronal_portal',\n 'tags': 'hist3t, pather8',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '300000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/hypershunt_tap.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized wormhole interface which can be activated to tap into '\n         'a nearby coronal hypershunt, providing a colony with virtually '\n         'unlimited power.\n'\n         '\n'\n         'Operation requires industrial quantities of transplutonics, which '\n         'are at first used to open the wormhole, and then - once the power '\n         'drawn becomes self-sustaining - is consumed in a complicated '\n         'ablative process which maintains wormhole stability. Any '\n         'interruption in supply requires a full shutdown of the tap.',\n 'order': '137'}"
+  },
+  {
+    "key": "special_items.csv#coronal_portal$desc",
+    "original": "A minituarized wormhole interface which can be activated to tap into a nearby coronal hypershunt, providing a colony with virtually unlimited power.\\n\\nOperation requires industrial quantities of transplutonics, which are at first used to open the wormhole, and then - once the power drawn becomes self-sustaining - is consumed in a complicated ablative process which maintains wormhole stability. Any interruption in supply requires a full shutdown of the tap.",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0008\n[original data]\n{'name': 'Hypershunt Tap',\n 'id': 'coronal_portal',\n 'tags': 'hist3t, pather8',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '300000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/hypershunt_tap.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'population',\n 'desc': 'A minituarized wormhole interface which can be activated to tap into '\n         'a nearby coronal hypershunt, providing a colony with virtually '\n         'unlimited power.\n'\n         '\n'\n         'Operation requires industrial quantities of transplutonics, which '\n         'are at first used to open the wormhole, and then - once the power '\n         'drawn becomes self-sustaining - is consumed in a complicated '\n         'ablative process which maintains wormhole stability. Any '\n         'interruption in supply requires a full shutdown of the tap.',\n 'order': '137'}"
+  },
+  {
+    "key": "special_items.csv#mantle_bore$name",
+    "original": "Autonomous Mantle Bore",
+    "translation": "자동 맨틀 굴착기",
+    "stage": 1,
+    "context": "special_items.csv row 0009\n[original data]\n{'name': 'Autonomous Mantle Bore',\n 'id': 'mantle_bore',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '80000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/terraforming_bore.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'While it is believed there are no functional control override units '\n         'remaining in the Sector, the bore itself is capable of independent - '\n         'if sometimes unpredictable - operation. Automatic-mode failsafes '\n         'preclude its use on habitable worlds.',\n 'order': '140'}"
+  },
+  {
+    "key": "special_items.csv#mantle_bore$tech/manufacturer",
+    "original": "Eridani-Utopia Terraforming",
+    "translation": "Eridani-Utopia Terraforming",
+    "stage": 1,
+    "context": "special_items.csv row 0009\n[original data]\n{'name': 'Autonomous Mantle Bore',\n 'id': 'mantle_bore',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '80000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/terraforming_bore.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'While it is believed there are no functional control override units '\n         'remaining in the Sector, the bore itself is capable of independent - '\n         'if sometimes unpredictable - operation. Automatic-mode failsafes '\n         'preclude its use on habitable worlds.',\n 'order': '140'}"
+  },
+  {
+    "key": "special_items.csv#mantle_bore$desc",
+    "original": "While it is believed there are no functional control override units remaining in the Sector, the bore itself is capable of independent - if sometimes unpredictable - operation. Automatic-mode failsafes preclude its use on habitable worlds.",
+    "translation": "섹터에 남은 수동제어 유닛은 없는 것으로 믿어지고 있지만, 굴착기 자체도 자율적으로 가동할 수 있습니다. 간혹 예측 불가능한 활동을 할 수도 있습니다. 자율운행 상태에서는 안전을 위해 거주 가능 행성에서는 작동하지 않습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0009\n[original data]\n{'name': 'Autonomous Mantle Bore',\n 'id': 'mantle_bore',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '80000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/terraforming_bore.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'While it is believed there are no functional control override units '\n         'remaining in the Sector, the bore itself is capable of independent - '\n         'if sometimes unpredictable - operation. Automatic-mode failsafes '\n         'preclude its use on habitable worlds.',\n 'order': '140'}"
+  },
+  {
+    "key": "special_items.csv#catalytic_core$name",
+    "original": "Catalytic Core",
+    "translation": "촉매 코어",
+    "stage": 1,
+    "context": "special_items.csv row 0010\n[original data]\n{'name': 'Catalytic Core',\n 'id': 'catalytic_core',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/catalytic_core.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'refining',\n 'desc': 'Vastly improves the effectiveness of refining operations by way of a '\n         'surprising quirk of osmosis physics. Operation requires access to '\n         'vacuum on a scale difficult to achieve on planets with significant '\n         'atmospheric pressure.',\n 'order': '145'}"
+  },
+  {
+    "key": "special_items.csv#catalytic_core$tech/manufacturer",
+    "original": "Ko Combine",
+    "translation": "Ko Combine",
+    "stage": 1,
+    "context": "special_items.csv row 0010\n[original data]\n{'name': 'Catalytic Core',\n 'id': 'catalytic_core',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/catalytic_core.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'refining',\n 'desc': 'Vastly improves the effectiveness of refining operations by way of a '\n         'surprising quirk of osmosis physics. Operation requires access to '\n         'vacuum on a scale difficult to achieve on planets with significant '\n         'atmospheric pressure.',\n 'order': '145'}"
+  },
+  {
+    "key": "special_items.csv#catalytic_core$desc",
+    "original": "Vastly improves the effectiveness of refining operations by way of a surprising quirk of osmosis physics. Operation requires access to vacuum on a scale difficult to achieve on planets with significant atmospheric pressure.",
+    "translation": "삼투 물리학의 놀라운 특징을 통해 금속 정제 공정의 효율을 대폭 높입니다. 작동을 위해 대규모의 진공을 필요로 하여, 무시할 수 없는 대기압이 있는 행성에서는 사용하기 어렵습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0010\n[original data]\n{'name': 'Catalytic Core',\n 'id': 'catalytic_core',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/catalytic_core.png',\n 'sound id': 'ui_cargo_special_industrial_pickup',\n 'sound id drop': 'ui_cargo_special_industrial_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'refining',\n 'desc': 'Vastly improves the effectiveness of refining operations by way of a '\n         'surprising quirk of osmosis physics. Operation requires access to '\n         'vacuum on a scale difficult to achieve on planets with significant '\n         'atmospheric pressure.',\n 'order': '145'}"
+  },
+  {
+    "key": "special_items.csv#soil_nanites$name",
+    "original": "Soil Nanites",
+    "translation": "토양 나노머신",
+    "stage": 1,
+    "context": "special_items.csv row 0011\n[original data]\n{'name': 'Soil Nanites',\n 'id': 'soil_nanites',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/soil_nanites.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'farming',\n 'desc': 'Enables soil enrichment and recovery at a rate far beyond that at '\n         'which unaided natural processes perform. Domain Nanite Safety '\n         'Regulation 4324, subsection 81 prohibits use on worlds with '\n         'transplutonic ore or volatiles deposits, and unfortunately the '\n         'built-in failsafe appears to be functional.',\n 'order': '150'}"
+  },
+  {
+    "key": "special_items.csv#soil_nanites$tech/manufacturer",
+    "original": "Eridani-Utopia Terraforming",
+    "translation": "Eridani-Utopia Terraforming",
+    "stage": 1,
+    "context": "special_items.csv row 0011\n[original data]\n{'name': 'Soil Nanites',\n 'id': 'soil_nanites',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/soil_nanites.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'farming',\n 'desc': 'Enables soil enrichment and recovery at a rate far beyond that at '\n         'which unaided natural processes perform. Domain Nanite Safety '\n         'Regulation 4324, subsection 81 prohibits use on worlds with '\n         'transplutonic ore or volatiles deposits, and unfortunately the '\n         'built-in failsafe appears to be functional.',\n 'order': '150'}"
+  },
+  {
+    "key": "special_items.csv#soil_nanites$desc",
+    "original": "Enables soil enrichment and recovery at a rate far beyond that at which unaided natural processes perform. Domain Nanite Safety Regulation 4324, subsection 81 prohibits use on worlds with transplutonic ore or volatiles deposits, and unfortunately the built-in failsafe appears to be functional.",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0011\n[original data]\n{'name': 'Soil Nanites',\n 'id': 'soil_nanites',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Eridani-Utopia Terraforming',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/soil_nanites.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'farming',\n 'desc': 'Enables soil enrichment and recovery at a rate far beyond that at '\n         'which unaided natural processes perform. Domain Nanite Safety '\n         'Regulation 4324, subsection 81 prohibits use on worlds with '\n         'transplutonic ore or volatiles deposits, and unfortunately the '\n         'built-in failsafe appears to be functional.',\n 'order': '150'}"
+  },
+  {
+    "key": "special_items.csv#biofactory_embryo$name",
+    "original": "Biofactory Embryo",
+    "translation": "생체공장 배아",
+    "stage": 1,
+    "context": "special_items.csv row 0012\n[original data]\n{'name': 'Biofactory Embryo',\n 'id': 'biofactory_embryo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Exodyne Biotech',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/biofactory_embryo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_bio_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'lightindustry',\n 'desc': 'A dizzying array of consumer goods can be grown rather than '\n         'manufactured. The fully-extruded biofactory only thrives in the '\n         'delicate balance of sunlight, soil nutrients, and atmospheric '\n         'conditions a habitable world can provide. Attempts to mimic these '\n         'conditions in artificial environments always fail, causing the '\n         'factory to sicken, presumably due to a genetically encoded failsafe.',\n 'order': '155'}"
+  },
+  {
+    "key": "special_items.csv#biofactory_embryo$tech/manufacturer",
+    "original": "Exodyne Biotech",
+    "translation": "Exodyne Biotech",
+    "stage": 1,
+    "context": "special_items.csv row 0012\n[original data]\n{'name': 'Biofactory Embryo',\n 'id': 'biofactory_embryo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Exodyne Biotech',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/biofactory_embryo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_bio_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'lightindustry',\n 'desc': 'A dizzying array of consumer goods can be grown rather than '\n         'manufactured. The fully-extruded biofactory only thrives in the '\n         'delicate balance of sunlight, soil nutrients, and atmospheric '\n         'conditions a habitable world can provide. Attempts to mimic these '\n         'conditions in artificial environments always fail, causing the '\n         'factory to sicken, presumably due to a genetically encoded failsafe.',\n 'order': '155'}"
+  },
+  {
+    "key": "special_items.csv#biofactory_embryo$desc",
+    "original": "A dizzying array of consumer goods can be grown rather than manufactured. The fully-extruded biofactory only thrives in the delicate balance of sunlight, soil nutrients, and atmospheric conditions a habitable world can provide. Attempts to mimic these conditions in artificial environments always fail, causing the factory to sicken, presumably due to a genetically encoded failsafe.",
+    "translation": "수많은 종류의 소비재들이 제조가 아니라 배양될 수 있습니다. 완전히 성장한 생체공장은 거주 가능 행성만이 제공할 수 있는 태양광, 토양 양분과 대기 조성의 섬세한 균형 속에서만 건강하게 활동합니다. 인공적 환경에서 이런 조건들을 모방하려는 시도는 항상 실패하며 공장에게 질병을 유발합니다. 유전적 안전장치가 있는 것으로 추정됩니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0012\n[original data]\n{'name': 'Biofactory Embryo',\n 'id': 'biofactory_embryo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Exodyne Biotech',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/biofactory_embryo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_bio_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'lightindustry',\n 'desc': 'A dizzying array of consumer goods can be grown rather than '\n         'manufactured. The fully-extruded biofactory only thrives in the '\n         'delicate balance of sunlight, soil nutrients, and atmospheric '\n         'conditions a habitable world can provide. Attempts to mimic these '\n         'conditions in artificial environments always fail, causing the '\n         'factory to sicken, presumably due to a genetically encoded failsafe.',\n 'order': '155'}"
+  },
+  {
+    "key": "special_items.csv#fullerene_spool$name",
+    "original": "Fullerene Spool",
+    "translation": "풀러렌 케이블",
+    "stage": 1,
+    "context": "special_items.csv row 0013\n[original data]\n{'name': 'Fullerene Spool',\n 'id': 'fullerene_spool',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fullerene_spool.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'spaceport, megaport',\n 'desc': 'An ultra-strong carbon nanomesh cable that is key to the '\n         'construction of a space elevator. Greatly improves the efficiency of '\n         'logistics between the surface of a planet and low orbit.',\n 'order': '160'}"
+  },
+  {
+    "key": "special_items.csv#fullerene_spool$tech/manufacturer",
+    "original": "Fabrique Orbitale",
+    "translation": "Fabrique Orbitale",
+    "stage": 1,
+    "context": "special_items.csv row 0013\n[original data]\n{'name': 'Fullerene Spool',\n 'id': 'fullerene_spool',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fullerene_spool.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'spaceport, megaport',\n 'desc': 'An ultra-strong carbon nanomesh cable that is key to the '\n         'construction of a space elevator. Greatly improves the efficiency of '\n         'logistics between the surface of a planet and low orbit.',\n 'order': '160'}"
+  },
+  {
+    "key": "special_items.csv#fullerene_spool$desc",
+    "original": "An ultra-strong carbon nanomesh cable that is key to the construction of a space elevator. Greatly improves the efficiency of logistics between the surface of a planet and low orbit.",
+    "translation": "우주 엘리베이터 건설의 핵심이 되는 매우 강인한 탄소나노그물 케이블입니다. 행성 표면과 저궤도간 운송 효율을 대폭 향상시킵니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0013\n[original data]\n{'name': 'Fullerene Spool',\n 'id': 'fullerene_spool',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '150000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/fullerene_spool.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'spaceport, megaport',\n 'desc': 'An ultra-strong carbon nanomesh cable that is key to the '\n         'construction of a space elevator. Greatly improves the efficiency of '\n         'logistics between the surface of a planet and low orbit.',\n 'order': '160'}"
+  },
+  {
+    "key": "special_items.csv#plasma_dynamo$name",
+    "original": "Plasma Dynamo",
+    "translation": "플라즈마 발전기",
+    "stage": 1,
+    "context": "special_items.csv row 0014\n[original data]\n{'name': 'Plasma Dynamo',\n 'id': 'plasma_dynamo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/plasma_dynamo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'The superconductor-flanged centerpiece of an industrial system which '\n         'creates a planetary-scale plasma net that enables efficient, '\n         'spectacular extraction of volatiles from the atmosphere of a '\n         'suitable gas giant.',\n 'order': '165'}"
+  },
+  {
+    "key": "special_items.csv#plasma_dynamo$tech/manufacturer",
+    "original": "Fabrique Orbitale",
+    "translation": "Fabrique Orbitale",
+    "stage": 1,
+    "context": "special_items.csv row 0014\n[original data]\n{'name': 'Plasma Dynamo',\n 'id': 'plasma_dynamo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/plasma_dynamo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'The superconductor-flanged centerpiece of an industrial system which '\n         'creates a planetary-scale plasma net that enables efficient, '\n         'spectacular extraction of volatiles from the atmosphere of a '\n         'suitable gas giant.',\n 'order': '165'}"
+  },
+  {
+    "key": "special_items.csv#plasma_dynamo$desc",
+    "original": "The superconductor-flanged centerpiece of an industrial system which creates a planetary-scale plasma net that enables efficient, spectacular extraction of volatiles from the atmosphere of a suitable gas giant.",
+    "translation": "행성 규모의 플라즈마 그물을 만들어내는 기계의 핵심 장치입니다. 가스 행성의 대기로부터 효율적으로 기체를 추출하며 장관을 연출합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0014\n[original data]\n{'name': 'Plasma Dynamo',\n 'id': 'plasma_dynamo',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Fabrique Orbitale',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/plasma_dynamo.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'mining',\n 'desc': 'The superconductor-flanged centerpiece of an industrial system which '\n         'creates a planetary-scale plasma net that enables efficient, '\n         'spectacular extraction of volatiles from the atmosphere of a '\n         'suitable gas giant.',\n 'order': '165'}"
+  },
+  {
+    "key": "special_items.csv#cryoarithmetic_engine$name",
+    "original": "Cryoarithmetic Engine",
+    "translation": "냉동연산장치",
+    "stage": 1,
+    "context": "special_items.csv row 0015\n[original data]\n{'name': 'Cryoarithmetic Engine',\n 'id': 'cryoarithmetic_engine',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '200000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/cryoarithmetic_engine.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'patrolhq, militarybase, highcommand',\n 'desc': 'A quantum computer that violates the second law of thermodynamics by '\n         'getting colder instead of hotter while performing computations.\n'\n         '\n'\n         'A massive, planet-wide network of tendrils - ending in heatsinks - '\n         'extrudes itself, using heat to fuel growth and continued '\n         'computation. The hotter the planet surface, the more effective the '\n         'computation engine. The unrivaled processing capacity is a boon to '\n         'logistical and strategic planning.',\n 'order': '170'}"
+  },
+  {
+    "key": "special_items.csv#cryoarithmetic_engine$tech/manufacturer",
+    "original": "Domain Restricted",
+    "translation": "도메인 제한",
+    "stage": 1,
+    "context": "special_items.csv row 0015\n[original data]\n{'name': 'Cryoarithmetic Engine',\n 'id': 'cryoarithmetic_engine',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '200000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/cryoarithmetic_engine.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'patrolhq, militarybase, highcommand',\n 'desc': 'A quantum computer that violates the second law of thermodynamics by '\n         'getting colder instead of hotter while performing computations.\n'\n         '\n'\n         'A massive, planet-wide network of tendrils - ending in heatsinks - '\n         'extrudes itself, using heat to fuel growth and continued '\n         'computation. The hotter the planet surface, the more effective the '\n         'computation engine. The unrivaled processing capacity is a boon to '\n         'logistical and strategic planning.',\n 'order': '170'}"
+  },
+  {
+    "key": "special_items.csv#cryoarithmetic_engine$desc",
+    "original": "A quantum computer that violates the second law of thermodynamics by getting colder instead of hotter while performing computations.\\n\\nA massive, planet-wide network of tendrils - ending in heatsinks - extrudes itself, using heat to fuel growth and continued computation. The hotter the planet surface, the more effective the computation engine. The unrivaled processing capacity is a boon to logistical and strategic planning.",
+    "translation": "연산을 진행하며 뜨거워지는 대신 차가워짐으로서 열역학 제2법칙을 위배하는 양자컴퓨터입니다.\\n\\n열교환기로 이어지는 거대한 촉수들이 행성 전체에 퍼져나갑니다. 열에너지는 촉수들을 늘리고 연산을 계속하는 데 사용됩니다. 행성 표면이 뜨거울수록 더 효과적입니다. 비교 불가능한 연산능력은 병참과 전략적 계획을 세우는 데 사용됩니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0015\n[original data]\n{'name': 'Cryoarithmetic Engine',\n 'id': 'cryoarithmetic_engine',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Domain Restricted',\n 'rarity': '',\n 'base price': '200000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/cryoarithmetic_engine.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'patrolhq, militarybase, highcommand',\n 'desc': 'A quantum computer that violates the second law of thermodynamics by '\n         'getting colder instead of hotter while performing computations.\n'\n         '\n'\n         'A massive, planet-wide network of tendrils - ending in heatsinks - '\n         'extrudes itself, using heat to fuel growth and continued '\n         'computation. The hotter the planet surface, the more effective the '\n         'computation engine. The unrivaled processing capacity is a boon to '\n         'logistical and strategic planning.',\n 'order': '170'}"
+  },
+  {
+    "key": "special_items.csv#drone_replicator$name",
+    "original": "Combat Drone Replicator",
+    "translation": "전투 드론 복제기",
+    "stage": 1,
+    "context": "special_items.csv row 0016\n[original data]\n{'name': 'Combat Drone Replicator',\n 'id': 'drone_replicator',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/combat_drone_replicator.png',\n 'sound id': 'ui_cargo_special_military_pickup',\n 'sound id drop': 'ui_cargo_special_military_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'grounddefenses, heavybatteries',\n 'desc': 'Mass-produces a number of drone variants, all suited to various '\n         'tasks related to planetary defense against raids and invasions, as '\n         'well as local security actions.\n'\n         '\n'\n         'Its use was banned by the Domain many cycles prior to the Collapse, '\n         \"so it's surprising to find a working example in the Persean Sector.\",\n 'order': '175'}"
+  },
+  {
+    "key": "special_items.csv#drone_replicator$tech/manufacturer",
+    "original": "Ko Combine",
+    "translation": "Ko Combine",
+    "stage": 1,
+    "context": "special_items.csv row 0016\n[original data]\n{'name': 'Combat Drone Replicator',\n 'id': 'drone_replicator',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/combat_drone_replicator.png',\n 'sound id': 'ui_cargo_special_military_pickup',\n 'sound id drop': 'ui_cargo_special_military_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'grounddefenses, heavybatteries',\n 'desc': 'Mass-produces a number of drone variants, all suited to various '\n         'tasks related to planetary defense against raids and invasions, as '\n         'well as local security actions.\n'\n         '\n'\n         'Its use was banned by the Domain many cycles prior to the Collapse, '\n         \"so it's surprising to find a working example in the Persean Sector.\",\n 'order': '175'}"
+  },
+  {
+    "key": "special_items.csv#drone_replicator$desc",
+    "original": "Mass-produces a number of drone variants, all suited to various tasks related to planetary defense against raids and invasions, as well as local security actions.\\n\\nIts use was banned by the Domain many cycles prior to the Collapse, so it's surprising to find a working example in the Persean Sector.",
+    "translation": "습격이나 침공에 대한 행성 방어, 그리고 치안 활동에 적합한 여러 종류의 드론을 대량 생산합니다.\\n\\n대붕괴가 일어나기 수 년 전에 도메인에서 사용이 금지되었습니다. 작동 가능한 복제기를 섹터에서 발견한 것은 상당히 의외입니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0016\n[original data]\n{'name': 'Combat Drone Replicator',\n 'id': 'drone_replicator',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Ko Combine',\n 'rarity': '',\n 'base price': '60000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/combat_drone_replicator.png',\n 'sound id': 'ui_cargo_special_military_pickup',\n 'sound id drop': 'ui_cargo_special_military_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'grounddefenses, heavybatteries',\n 'desc': 'Mass-produces a number of drone variants, all suited to various '\n         'tasks related to planetary defense against raids and invasions, as '\n         'well as local security actions.\n'\n         '\n'\n         'Its use was banned by the Domain many cycles prior to the Collapse, '\n         \"so it's surprising to find a working example in the Persean Sector.\",\n 'order': '175'}"
+  },
+  {
+    "key": "special_items.csv#dealmaker_holosuite$name",
+    "original": "Dealmaker Holosuite",
+    "translation": "홀로그램 교섭실",
+    "stage": 1,
+    "context": "special_items.csv row 0017\n[original data]\n{'name': 'Dealmaker Holosuite',\n 'id': 'dealmaker_holosuite',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Mbaye-Gogol',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/holosuite.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'commerce',\n 'desc': 'Generates an interactive environment designed to simulate '\n         'negotiations with prospective business partners. Additionally, the '\n         'self-adapting microemotion smart sensor systems built into such '\n         'high-end VR suites  allow real-time tracking of the veracity of '\n         'expression, providing a technically ethical advantage in business '\n         'dealings to the facility operator.  \n'\n         '\n'\n         'The built-in marketing materials are keen to emphasize that this is '\n         'not an AI, but merely a sophisticated weighted network in full '\n         'compliance with the relevant Domain regulations.',\n 'order': '180'}"
+  },
+  {
+    "key": "special_items.csv#dealmaker_holosuite$tech/manufacturer",
+    "original": "Mbaye-Gogol",
+    "translation": "Mbaye-Gogol",
+    "stage": 1,
+    "context": "special_items.csv row 0017\n[original data]\n{'name': 'Dealmaker Holosuite',\n 'id': 'dealmaker_holosuite',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Mbaye-Gogol',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/holosuite.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'commerce',\n 'desc': 'Generates an interactive environment designed to simulate '\n         'negotiations with prospective business partners. Additionally, the '\n         'self-adapting microemotion smart sensor systems built into such '\n         'high-end VR suites  allow real-time tracking of the veracity of '\n         'expression, providing a technically ethical advantage in business '\n         'dealings to the facility operator.  \n'\n         '\n'\n         'The built-in marketing materials are keen to emphasize that this is '\n         'not an AI, but merely a sophisticated weighted network in full '\n         'compliance with the relevant Domain regulations.',\n 'order': '180'}"
+  },
+  {
+    "key": "special_items.csv#dealmaker_holosuite$desc",
+    "original": "Generates an interactive environment designed to simulate negotiations with prospective business partners. Additionally, the self-adapting microemotion smart sensor systems built into such high-end VR suites  allow real-time tracking of the veracity of expression, providing a technically ethical advantage in business dealings to the facility operator.  \\n\\nThe built-in marketing materials are keen to emphasize that this is not an AI, but merely a sophisticated weighted network in full compliance with the relevant Domain regulations.",
+    "translation": "잠재적인 사업 동반자와의 협상을 모의 실험할 수 있는 상호작용 가능한 환경을 만들어냅니다. 또, 고급 가상현실 생성기에 기본적으로 탑재된 자기적응성 지능형 감정 센서 체계는 표정의 진실성을 실시간으로 확인할 수 있게 해 주어, 사업적인 협상중에 시설 운영자에게 우위를 줍니다. 이런 사용법은 명문상으로는 윤리적입니다.\\n\\n동봉된 홍보물은 이 장치가 인공지능이 아니며, 도메인 규제에 완전히 부합하는 정교한 가중치 네트워크에 불과함을 강조합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0017\n[original data]\n{'name': 'Dealmaker Holosuite',\n 'id': 'dealmaker_holosuite',\n 'tags': 'hist3t, pather4',\n 'tech/manufacturer': 'Mbaye-Gogol',\n 'rarity': '',\n 'base price': '120000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': 'EXTREME',\n 'icon': 'graphics/icons/cargo/holosuite.png',\n 'sound id': 'ui_cargo_special_biotech_pickup',\n 'sound id drop': 'ui_cargo_special_tech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.GenericSpecialItemPlugin',\n 'plugin params': 'commerce',\n 'desc': 'Generates an interactive environment designed to simulate '\n         'negotiations with prospective business partners. Additionally, the '\n         'self-adapting microemotion smart sensor systems built into such '\n         'high-end VR suites  allow real-time tracking of the veracity of '\n         'expression, providing a technically ethical advantage in business '\n         'dealings to the facility operator.  \n'\n         '\n'\n         'The built-in marketing materials are keen to emphasize that this is '\n         'not an AI, but merely a sophisticated weighted network in full '\n         'compliance with the relevant Domain regulations.',\n 'order': '180'}"
+  },
+  {
+    "key": "special_items.csv#low_tech_package$name",
+    "original": "Low Tech Blueprint Package",
+    "translation": "초기형 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0021\n[original data]\n{'name': 'Low Tech Blueprint Package',\n 'id': 'low_tech_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_lowtech.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'lowtech_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"low tech\" school of design.',\n 'order': '200'}"
+  },
+  {
+    "key": "special_items.csv#low_tech_package$desc",
+    "original": "Enables heavy industry to construct the more common ship hulls, weapons, and fighter LPCs from the \"low tech\" school of design.",
+    "translation": "중공업 시설에서 \"초기형\" 설계의 흔한 함선, 무기와 함재기 칩을 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0021\n[original data]\n{'name': 'Low Tech Blueprint Package',\n 'id': 'low_tech_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_lowtech.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'lowtech_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"low tech\" school of design.',\n 'order': '200'}"
+  },
+  {
+    "key": "special_items.csv#midline_package$name",
+    "original": "Midline Blueprint Package",
+    "translation": "중기형 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0022\n[original data]\n{'name': 'Midline Blueprint Package',\n 'id': 'midline_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '25000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_midline.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'midline_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"midline\" school of design.',\n 'order': '210'}"
+  },
+  {
+    "key": "special_items.csv#midline_package$desc",
+    "original": "Enables heavy industry to construct the more common ship hulls, weapons, and fighter LPCs from the \"midline\" school of design.",
+    "translation": "중공업 시설에서 \"중기형\" 설계의 흔한 함선, 무기와 함재기 칩을 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0022\n[original data]\n{'name': 'Midline Blueprint Package',\n 'id': 'midline_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '25000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_midline.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'midline_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"midline\" school of design.',\n 'order': '210'}"
+  },
+  {
+    "key": "special_items.csv#high_tech_package$name",
+    "original": "High Tech Blueprint Package",
+    "translation": "후기형 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0023\n[original data]\n{'name': 'High Tech Blueprint Package',\n 'id': 'high_tech_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '30000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_hightech.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'hightech_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"high tech\" school of design.',\n 'order': '220'}"
+  },
+  {
+    "key": "special_items.csv#high_tech_package$desc",
+    "original": "Enables heavy industry to construct the more common ship hulls, weapons, and fighter LPCs from the \"high tech\" school of design.",
+    "translation": "중공업 시설에서 \"후기형\" 설계의 흔한 함선, 무기와 함재기 칩을 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0023\n[original data]\n{'name': 'High Tech Blueprint Package',\n 'id': 'high_tech_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '30000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_hightech.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'hightech_bp',\n 'desc': 'Enables heavy industry to construct the more common ship hulls, '\n         'weapons, and fighter LPCs from the \"high tech\" school of design.',\n 'order': '220'}"
+  },
+  {
+    "key": "special_items.csv#missile_package$name",
+    "original": "Missile Blueprint Package",
+    "translation": "미사일 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0024\n[original data]\n{'name': 'Missile Blueprint Package',\n 'id': 'missile_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_missile.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'missile_bp',\n 'desc': 'Enables heavy industry to construct a range of the more common '\n         'missile weapons.',\n 'order': '230'}"
+  },
+  {
+    "key": "special_items.csv#missile_package$desc",
+    "original": "Enables heavy industry to construct a range of the more common missile weapons.",
+    "translation": "중공업 시설에서 다양한 종류의 흔한 미사일 병기를 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0024\n[original data]\n{'name': 'Missile Blueprint Package',\n 'id': 'missile_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_missile.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'missile_bp',\n 'desc': 'Enables heavy industry to construct a range of the more common '\n         'missile weapons.',\n 'order': '230'}"
+  },
+  {
+    "key": "special_items.csv#pirate_package$name",
+    "original": "Pirate Blueprint Package",
+    "translation": "해적선 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0025\n[original data]\n{'name': 'Pirate Blueprint Package',\n 'id': 'pirate_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '15000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'pirate_bp',\n 'desc': 'A collection of hacks, after-market modification specs, and '\n         'partially successful attempts at corrupted blueprint recovery. '\n         'Enables heavy industry to construct the low quality but '\n         'combat-capable hulls more commonly used by pirates and other '\n         'undesirables.',\n 'order': '240'}"
+  },
+  {
+    "key": "special_items.csv#pirate_package$desc",
+    "original": "A collection of hacks, after-market modification specs, and partially successful attempts at corrupted blueprint recovery. Enables heavy industry to construct the low quality but combat-capable hulls more commonly used by pirates and other undesirables.",
+    "translation": "해킹하여 수정된 설계도, 2차 개조 계획서, 복구에 부분적으로 성공한 파손된 설계도 등의 모음집입니다. 중공업 시설에서 주로 해적이나 기타 범죄자들이 쓰는 품질은 낮지만 전투 가능한 함선들을 생산하게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0025\n[original data]\n{'name': 'Pirate Blueprint Package',\n 'id': 'pirate_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '15000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'pirate_bp',\n 'desc': 'A collection of hacks, after-market modification specs, and '\n         'partially successful attempts at corrupted blueprint recovery. '\n         'Enables heavy industry to construct the low quality but '\n         'combat-capable hulls more commonly used by pirates and other '\n         'undesirables.',\n 'order': '240'}"
+  },
+  {
+    "key": "special_items.csv#LP_package$name",
+    "original": "Luddic Path Blueprint Package",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0026\n[original data]\n{'name': 'Luddic Path Blueprint Package',\n 'id': 'LP_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '18000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'LP_bp',\n 'desc': 'A collection of hacks and after-market modification specs that '\n         'enables heavy industry to construct the hulls more commonly used by '\n         'members of the Luddic Path.',\n 'order': '250'}"
+  },
+  {
+    "key": "special_items.csv#LP_package$desc",
+    "original": "A collection of hacks and after-market modification specs that enables heavy industry to construct the hulls more commonly used by members of the Luddic Path.",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0026\n[original data]\n{'name': 'Luddic Path Blueprint Package',\n 'id': 'LP_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '18000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'LP_bp',\n 'desc': 'A collection of hacks and after-market modification specs that '\n         'enables heavy industry to construct the hulls more commonly used by '\n         'members of the Luddic Path.',\n 'order': '250'}"
+  },
+  {
+    "key": "special_items.csv#LC_package$name",
+    "original": "Luddic Church Blueprint Package",
+    "translation": "은하구원교회 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0027\n[original data]\n{'name': 'Luddic Church Blueprint Package',\n 'id': 'LC_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '15000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'LC_bp',\n 'desc': 'A collection of hacks and after-market modification specs that '\n         'enables heavy industry to construct hulls bearing Luddic Church '\n         'markings. Since the modifications are cosmetic in nature, the hulls '\n         'produced are otherwise pristine.',\n 'order': '260'}"
+  },
+  {
+    "key": "special_items.csv#LC_package$desc",
+    "original": "A collection of hacks and after-market modification specs that enables heavy industry to construct hulls bearing Luddic Church markings. Since the modifications are cosmetic in nature, the hulls produced are otherwise pristine.",
+    "translation": "중공업 시설에서 은하구원교회 도색을 추가한 함선들을 생산할 수 있게 하는 변조 설계도들입니다. 외형만 변경한 것이기 때문에, 결함률을 늘리지는 않습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0027\n[original data]\n{'name': 'Luddic Church Blueprint Package',\n 'id': 'LC_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '15000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'LC_bp',\n 'desc': 'A collection of hacks and after-market modification specs that '\n         'enables heavy industry to construct hulls bearing Luddic Church '\n         'markings. Since the modifications are cosmetic in nature, the hulls '\n         'produced are otherwise pristine.',\n 'order': '260'}"
+  },
+  {
+    "key": "special_items.csv#XIV_package$name",
+    "original": "XIV Battlegroup Blueprint Package",
+    "translation": "14군단 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0028\n[original data]\n{'name': 'XIV Battlegroup Blueprint Package',\n 'id': 'XIV_package',\n 'tags': 'package_bp, no_drop',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '1000000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'XIV_bp',\n 'desc': 'A set of blueprints that enable heavy industry to produce the '\n         'near-legendary hulls employed by the Hegemony-founding XIV '\n         'Battlegroup. The continued existence - and location - of these '\n         'blueprints is subject of many rumors.',\n 'order': '270'}"
+  },
+  {
+    "key": "special_items.csv#XIV_package$desc",
+    "original": "A set of blueprints that enable heavy industry to produce the near-legendary hulls employed by the Hegemony-founding XIV Battlegroup. The continued existence - and location - of these blueprints is subject of many rumors.",
+    "translation": "중공업 시설에서 헤게모니를 설립한 도메인 14군단이 사용하는 함선들을 생산할 수 있게 합니다. 남아있는 설계도들의 존재와 위치에 대한 수많은 소문들이 돌아다닙니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0028\n[original data]\n{'name': 'XIV Battlegroup Blueprint Package',\n 'id': 'XIV_package',\n 'tags': 'package_bp, no_drop',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '1000000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'XIV_bp',\n 'desc': 'A set of blueprints that enable heavy industry to produce the '\n         'near-legendary hulls employed by the Hegemony-founding XIV '\n         'Battlegroup. The continued existence - and location - of these '\n         'blueprints is subject of many rumors.',\n 'order': '270'}"
+  },
+  {
+    "key": "special_items.csv#heg_aux_package$name",
+    "original": "Hegemony Auxiliary Blueprint Package",
+    "translation": "헤게모니 보조함 설계도 패키지",
+    "stage": 1,
+    "context": "special_items.csv row 0029\n[original data]\n{'name': 'Hegemony Auxiliary Blueprint Package',\n 'id': 'heg_aux_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'heg_aux_bp',\n 'desc': 'A collection of modified blueprints that bring several civilian '\n         'craft up to mil-spec or simply add Hegemony markings. Created '\n         'shortly after the Collapse, some of these blueprints improve hull '\n         'performance without the increased incidence of d-mods associated '\n         'with later blueprint hacking efforts.',\n 'order': '280'}"
+  },
+  {
+    "key": "special_items.csv#heg_aux_package$desc",
+    "original": "A collection of modified blueprints that bring several civilian craft up to mil-spec or simply add Hegemony markings. Created shortly after the Collapse, some of these blueprints improve hull performance without the increased incidence of d-mods associated with later blueprint hacking efforts.",
+    "translation": "민간 선박을 군용 수준으로 끌어올리거나 단순히 헤게모니 도색을 추가하는 변형된 설계도들입니다. 대붕괴 직후에 만들어졌기에, 일부 설계도들은 보통의 변형 설계들처럼 결함률을 늘리지 않고서도 함선 성능을 향상시킵니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0029\n[original data]\n{'name': 'Hegemony Auxiliary Blueprint Package',\n 'id': 'heg_aux_package',\n 'tags': 'package_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_basic.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_bp_package_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin',\n 'plugin params': 'heg_aux_bp',\n 'desc': 'A collection of modified blueprints that bring several civilian '\n         'craft up to mil-spec or simply add Hegemony markings. Created '\n         'shortly after the Collapse, some of these blueprints improve hull '\n         'performance without the increased incidence of d-mods associated '\n         'with later blueprint hacking efforts.',\n 'order': '280'}"
+  },
+  {
+    "key": "special_items.csv#ship_bp$name",
+    "original": "Base Ship Blueprint",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0033\n[original data]\n{'name': 'Base Ship Blueprint',\n 'id': 'ship_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '10000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_shiphull.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_ship_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.ShipBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct ship hulls described by this '\n         'blueprint.',\n 'order': '300'}"
+  },
+  {
+    "key": "special_items.csv#ship_bp$desc",
+    "original": "Enables heavy industry to construct ship hulls described by this blueprint.",
+    "translation": "중공업 시설에서 해당 함선을 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0033\n[original data]\n{'name': 'Base Ship Blueprint',\n 'id': 'ship_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '10000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_shiphull.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_ship_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.ShipBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct ship hulls described by this '\n         'blueprint.',\n 'order': '300'}"
+  },
+  {
+    "key": "special_items.csv#weapon_bp$name",
+    "original": "Base Weapon Blueprint",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0034\n[original data]\n{'name': 'Base Weapon Blueprint',\n 'id': 'weapon_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '2000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_weapons.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_weapon_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.WeaponBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct ship weapons described by this '\n         'blueprint.',\n 'order': '310'}"
+  },
+  {
+    "key": "special_items.csv#weapon_bp$desc",
+    "original": "Enables heavy industry to construct ship weapons described by this blueprint.",
+    "translation": "중공업 시설에서 해당 무기를 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0034\n[original data]\n{'name': 'Base Weapon Blueprint',\n 'id': 'weapon_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '2000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_weapons.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_weapon_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.WeaponBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct ship weapons described by this '\n         'blueprint.',\n 'order': '310'}"
+  },
+  {
+    "key": "special_items.csv#fighter_bp$name",
+    "original": "Base Fighter Blueprint",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0035\n[original data]\n{'name': 'Base Fighter Blueprint',\n 'id': 'fighter_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '3000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_fighter.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_fighter_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.FighterBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct fighter LPCs described by this '\n         'blueprint.',\n 'order': '320'}"
+  },
+  {
+    "key": "special_items.csv#fighter_bp$desc",
+    "original": "Enables heavy industry to construct fighter LPCs described by this blueprint.",
+    "translation": "중공업 시설에서 해당 함재기 칩을 생산할 수 있게 합니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0035\n[original data]\n{'name': 'Base Fighter Blueprint',\n 'id': 'fighter_bp',\n 'tags': 'single_bp',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '3000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_fighter.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_fighter_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.FighterBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Enables heavy industry to construct fighter LPCs described by this '\n         'blueprint.',\n 'order': '320'}"
+  },
+  {
+    "key": "special_items.csv#industry_bp$name",
+    "original": "Base Industry Blueprint",
+    "translation": "",
+    "stage": 0,
+    "context": "special_items.csv row 0037\n[original data]\n{'name': 'Base Industry Blueprint',\n 'id': 'industry_bp',\n 'tags': '',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_industry.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_industry_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.IndustryBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Contains the technological specifications needed to construct a '\n         'planet-side industry or structure.',\n 'order': '400'}"
+  },
+  {
+    "key": "special_items.csv#industry_bp$desc",
+    "original": "Contains the technological specifications needed to construct a planet-side industry or structure.",
+    "translation": "행성 표면에 산업시설이나 구조물을 건설하기 위해 필요한 기술적 설계들입니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0037\n[original data]\n{'name': 'Base Industry Blueprint',\n 'id': 'industry_bp',\n 'tags': '',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '20000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/blueprint_industry.png',\n 'sound id': 'ui_chip_pickup',\n 'sound id drop': 'ui_industry_bp_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.IndustryBlueprintItemPlugin',\n 'plugin params': '',\n 'desc': 'Contains the technological specifications needed to construct a '\n         'planet-side industry or structure.',\n 'order': '400'}"
+  },
+  {
+    "key": "special_items.csv#janus$name",
+    "original": "Janus Device",
+    "translation": "야누스 장치",
+    "stage": 1,
+    "context": "special_items.csv row 0040\n[original data]\n{'name': 'Janus Device',\n 'id': 'janus',\n 'tags': 'mission_item',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/janus_device.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.JanusDevicePlugin',\n 'plugin params': '',\n 'desc': 'This is the first generation Janus Device created by Elissa Zal '\n         'based on the theories developed by Scylla Coureuse, among others.\n'\n         '\n'\n         'While integrated with a hyperdrive this device allows a hyperwave '\n         'pulse tuned to the unique resonant signatures of two Gates to be '\n         'transmitted into a Gate aperture. After a tremendous energy input '\n         'which requires a great quantity of fuel to generate, a temporary '\n         'link between those Gates is created. One ship or fleet may then '\n         'transit the Gate network.',\n 'order': '0'}"
+  },
+  {
+    "key": "special_items.csv#janus$desc",
+    "original": "This is the first generation Janus Device created by Elissa Zal based on the theories developed by Scylla Coureuse, among others.\\n\\nWhile integrated with a hyperdrive this device allows a hyperwave pulse tuned to the unique resonant signatures of two Gates to be transmitted into a Gate aperture. After a tremendous energy input which requires a great quantity of fuel to generate, a temporary link between those Gates is created. One ship or fleet may then transit the Gate network.",
+    "translation": "Scylla Coureuse 등의 이론에 기반하여 Elissa Zal이 제작한 1세대 야누스 장치입니다.\\n\\n초공간 엔진에 결합된 상태에서, 특정한 성간 관문 한 쌍의 공명 신호에 조율된 초파동 펄스를 관문 입구에 방출합니다. 상당한 연료를 소모하여 엄청난 양의 에너지를 주입하면, 그 두 관문 사이에 일시적인 연결이 형성됩니다. 그 후 함선 또는 함대 하나가 관문을 통과할 수 있습니다.",
+    "stage": 1,
+    "context": "special_items.csv row 0040\n[original data]\n{'name': 'Janus Device',\n 'id': 'janus',\n 'tags': 'mission_item',\n 'tech/manufacturer': '',\n 'rarity': '',\n 'base price': '100000',\n 'stack size': '1000',\n 'cargo space': '1',\n 'baseRaidDanger': '',\n 'icon': 'graphics/icons/cargo/janus_device.png',\n 'sound id': 'ui_cargo_special_ultratech_pickup',\n 'sound id drop': 'ui_cargo_special_ultratech_drop',\n 'plugin': 'com.fs.starfarer.api.campaign.impl.items.JanusDevicePlugin',\n 'plugin params': '',\n 'desc': 'This is the first generation Janus Device created by Elissa Zal '\n         'based on the theories developed by Scylla Coureuse, among others.\n'\n         '\n'\n         'While integrated with a hyperdrive this device allows a hyperwave '\n         'pulse tuned to the unique resonant signatures of two Gates to be '\n         'transmitted into a Gate aperture. After a tremendous energy input '\n         'which requires a great quantity of fuel to generate, a temporary '\n         'link between those Gates is created. One ship or fleet may then '\n         'transit the Gate network.',\n 'order': '0'}"
+  }
+]

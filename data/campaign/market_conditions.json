@@ -1,0 +1,1437 @@
+[
+  {
+    "key": "market_conditions.csv#urbanized_polity$name",
+    "original": "Urbanized Polity",
+    "translation": "도시화",
+    "stage": 1,
+    "context": "market_conditions.csv row 0001\n[original data]\n{'name': 'Urbanized Polity',\n 'id': 'urbanized_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.UrbanizedPolity',\n 'desc': 'A dense and cosmopolitan center of population, people of all walks '\n         'of life live, work, and die in the stacked hab-complexes, commercial '\n         'concourses, and modular workshops.',\n 'icon': 'graphics/icons/markets/urbanized_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#urbanized_polity$desc",
+    "original": "A dense and cosmopolitan center of population, people of all walks of life live, work, and die in the stacked hab-complexes, commercial concourses, and modular workshops.",
+    "translation": "행성 대부분의 인구가 모인 중심지입니다. 각계각층의 인간들이 복잡하게 구성된 주거 복합 단지, 상업 중앙 홀, 모듈식 작업장에서 살고, 일하고, 죽습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0001\n[original data]\n{'name': 'Urbanized Polity',\n 'id': 'urbanized_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.UrbanizedPolity',\n 'desc': 'A dense and cosmopolitan center of population, people of all walks '\n         'of life live, work, and die in the stacked hab-complexes, commercial '\n         'concourses, and modular workshops.',\n 'icon': 'graphics/icons/markets/urbanized_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#industrial_polity$name",
+    "original": "Industrial Polity",
+    "translation": "산업화",
+    "stage": 1,
+    "context": "market_conditions.csv row 0002\n[original data]\n{'name': 'Industrial Polity',\n 'id': 'industrial_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.IndustrialPolity',\n 'desc': 'A bustling industrial center. The policies of the local government '\n         'encourage thriving industry, at the expense of all other concerns.',\n 'icon': 'graphics/icons/markets/urbanized_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#industrial_polity$desc",
+    "original": "A bustling industrial center. The policies of the local government encourage thriving industry, at the expense of all other concerns.",
+    "translation": "번화한 산업 중심지입니다. 현지 정부의 정책은 다른 모든 문제를 방치시키면서 산업을 장려하는 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0002\n[original data]\n{'name': 'Industrial Polity',\n 'id': 'industrial_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.IndustrialPolity',\n 'desc': 'A bustling industrial center. The policies of the local government '\n         'encourage thriving industry, at the expense of all other concerns.',\n 'icon': 'graphics/icons/markets/urbanized_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#rural_polity$name",
+    "original": "Rural Polity",
+    "translation": "전원적",
+    "stage": 1,
+    "context": "market_conditions.csv row 0003\n[original data]\n{'name': 'Rural Polity',\n 'id': 'rural_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RuralPolity',\n 'desc': 'A sparsely populated polity of homesteads and insular townships. In '\n         'these troubled times, outsiders are generally treated with '\n         'suspicion.',\n 'icon': 'graphics/icons/markets/rural_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#rural_polity$desc",
+    "original": "A sparsely populated polity of homesteads and insular townships. In these troubled times, outsiders are generally treated with suspicion.",
+    "translation": "인구 밀도가 낮은 폐쇄적인 농가 마을입니다. 이러한 어려운 시기에 외부인은 일반적으로 의심을 받습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0003\n[original data]\n{'name': 'Rural Polity',\n 'id': 'rural_polity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RuralPolity',\n 'desc': 'A sparsely populated polity of homesteads and insular townships. In '\n         'these troubled times, outsiders are generally treated with '\n         'suspicion.',\n 'icon': 'graphics/icons/markets/rural_polity.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#large_refugee_population$name",
+    "original": "Large Refugee Population",
+    "translation": "대규모 난민",
+    "stage": 1,
+    "context": "market_conditions.csv row 0004\n[original data]\n{'name': 'Large Refugee Population',\n 'id': 'large_refugee_population',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LargeRefugeePopulation',\n 'desc': 'Desperate refugees fleeing some disaster have ended up here. '\n         'Refugees live at the bottom of society with little opportunity for '\n         'betterment, straining domestic infrastructure living in tense '\n         'semi-legal status. Reduced overall production. More prospective crew '\n         'members are likely to be found among those trying to escape the '\n         'squalid living conditions.',\n 'icon': 'graphics/icons/markets/refugee_population.png',\n 'order': '140'}"
+  },
+  {
+    "key": "market_conditions.csv#large_refugee_population$desc",
+    "original": "Desperate refugees fleeing some disaster have ended up here. Refugees live at the bottom of society with little opportunity for betterment, straining domestic infrastructure living in tense semi-legal status. Reduced overall production. More prospective crew members are likely to be found among those trying to escape the squalid living conditions.",
+    "translation": "재난을 피해 탈출한 절박한 난민들이 여기까지 왔습니다. 난민은 재기의 기회가 거의 없는 최빈곤층에 살고 있으며, 준법적 지위에 있는 국내 기반 시설에 부담을 주고 있습니다. 전체 생산량을 줄일 수 있습니다. 지저분한 생활환경에서 탈출하려는 사람들 중에서 더 많은 예비 승무원들이 발견될 것 같습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0004\n[original data]\n{'name': 'Large Refugee Population',\n 'id': 'large_refugee_population',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LargeRefugeePopulation',\n 'desc': 'Desperate refugees fleeing some disaster have ended up here. '\n         'Refugees live at the bottom of society with little opportunity for '\n         'betterment, straining domestic infrastructure living in tense '\n         'semi-legal status. Reduced overall production. More prospective crew '\n         'members are likely to be found among those trying to escape the '\n         'squalid living conditions.',\n 'icon': 'graphics/icons/markets/refugee_population.png',\n 'order': '140'}"
+  },
+  {
+    "key": "market_conditions.csv#volturnian_lobster_pens$name",
+    "original": "Volturnian Lobster Pens",
+    "translation": "볼턴 가재 양식장",
+    "stage": 1,
+    "context": "market_conditions.csv row 0005\n[original data]\n{'name': 'Volturnian Lobster Pens',\n 'id': 'volturnian_lobster_pens',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A mix of several Old Earth species and a little imagination produced '\n         \"this creature which grows wild in the crushing depths of Volturn's \"\n         'sea-floor. The flavor is said to be exceptional.',\n 'icon': 'graphics/icons/markets/lobster_pens.png',\n 'order': '137'}"
+  },
+  {
+    "key": "market_conditions.csv#volturnian_lobster_pens$desc",
+    "original": "A mix of several Old Earth species and a little imagination produced this creature which grows wild in the crushing depths of Volturn's sea-floor. The flavor is said to be exceptional.",
+    "translation": "몇 가지 옛 지구 생물종과 약간의 상상력이 만들어낸 이 생물은 볼턴의 깊은 해저에서 야생으로 자랍니다. 맛이 일품이라고 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0005\n[original data]\n{'name': 'Volturnian Lobster Pens',\n 'id': 'volturnian_lobster_pens',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A mix of several Old Earth species and a little imagination produced '\n         \"this creature which grows wild in the crushing depths of Volturn's \"\n         'sea-floor. The flavor is said to be exceptional.',\n 'icon': 'graphics/icons/markets/lobster_pens.png',\n 'order': '137'}"
+  },
+  {
+    "key": "market_conditions.csv#vice_demand$name",
+    "original": "Vice Demand",
+    "translation": "악습 수요",
+    "stage": 1,
+    "context": "market_conditions.csv row 0006\n[original data]\n{'name': 'Vice Demand',\n 'id': 'vice_demand',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ViceDemand',\n 'desc': 'The demand for vice goods is unusually high here.',\n 'icon': 'graphics/icons/markets/vice_demand.png',\n 'order': '145'}"
+  },
+  {
+    "key": "market_conditions.csv#vice_demand$desc",
+    "original": "The demand for vice goods is unusually high here.",
+    "translation": "퇴폐적 상품들의 수요가 유달리 높습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0006\n[original data]\n{'name': 'Vice Demand',\n 'id': 'vice_demand',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ViceDemand',\n 'desc': 'The demand for vice goods is unusually high here.',\n 'icon': 'graphics/icons/markets/vice_demand.png',\n 'order': '145'}"
+  },
+  {
+    "key": "market_conditions.csv#organized_crime$name",
+    "original": "Organized Crime",
+    "translation": "조직 범죄",
+    "stage": 1,
+    "context": "market_conditions.csv row 0007\n[original data]\n{'name': 'Organized Crime',\n 'id': 'organized_crime',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.OrganizedCrime',\n 'desc': 'Criminal activity produces drugs and harvested organs. Increases '\n         'demand for hand weapons (by both various crime bosses and local '\n         'citizenry) and marines (by the local authorities).',\n 'icon': 'graphics/icons/markets/organized_crime.png',\n 'order': '148'}"
+  },
+  {
+    "key": "market_conditions.csv#organized_crime$desc",
+    "original": "Criminal activity produces drugs and harvested organs. Increases demand for hand weapons (by both various crime bosses and local citizenry) and marines (by the local authorities).",
+    "translation": "범죄 활동은 마약과 적출된 장기를 생산합니다. 근접 무기(범죄 조직 두목과 현지 시민)와 해병(현지 당국) 수요가 증가합니다.",
+    "stage": 2,
+    "context": "market_conditions.csv row 0007\n[original data]\n{'name': 'Organized Crime',\n 'id': 'organized_crime',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.OrganizedCrime',\n 'desc': 'Criminal activity produces drugs and harvested organs. Increases '\n         'demand for hand weapons (by both various crime bosses and local '\n         'citizenry) and marines (by the local authorities).',\n 'icon': 'graphics/icons/markets/organized_crime.png',\n 'order': '148'}"
+  },
+  {
+    "key": "market_conditions.csv#frontier$name",
+    "original": "Frontier",
+    "translation": "개척지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0008\n[original data]\n{'name': 'Frontier',\n 'id': 'frontier',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Frontier',\n 'desc': 'Far from the cosmopolitan centers of population, mere survival, '\n         'self-reliance, and only-the-necessities are the rules of the '\n         'frontier. Increased demand for weapons and supplies, reduced demand '\n         'for luxury goods.',\n 'icon': 'graphics/icons/markets/frontier.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#frontier$desc",
+    "original": "Far from the cosmopolitan centers of population, mere survival, self-reliance, and only-the-necessities are the rules of the frontier. Increased demand for weapons and supplies, reduced demand for luxury goods.",
+    "translation": "인구중심지와 멀리 떨어진 개척지에서는 생존과 자립, 그리고 극단적 검약이 중요합니다. 무기와 보급품 수요가 증가하고, 사치품 수요가 감소합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0008\n[original data]\n{'name': 'Frontier',\n 'id': 'frontier',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Frontier',\n 'desc': 'Far from the cosmopolitan centers of population, mere survival, '\n         'self-reliance, and only-the-necessities are the rules of the '\n         'frontier. Increased demand for weapons and supplies, reduced demand '\n         'for luxury goods.',\n 'icon': 'graphics/icons/markets/frontier.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#shipbreaking_center$name",
+    "original": "Shipbreaking Center",
+    "translation": "선박 해체소",
+    "stage": 1,
+    "context": "market_conditions.csv row 0009\n[original data]\n{'name': 'Shipbreaking Center',\n 'id': 'shipbreaking_center',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ShipbreakingCenter',\n 'desc': 'A major center of shipbreaking in this region of the Sector, hulks '\n         'are consigned to scrapping here by the navies of major factions and '\n         'many other clients from among the Sector core worlds.',\n 'icon': 'graphics/icons/markets/shipbreaking.png',\n 'order': '360'}"
+  },
+  {
+    "key": "market_conditions.csv#shipbreaking_center$desc",
+    "original": "A major center of shipbreaking in this region of the Sector, hulks are consigned to scrapping here by the navies of major factions and many other clients from among the Sector core worlds.",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0009\n[original data]\n{'name': 'Shipbreaking Center',\n 'id': 'shipbreaking_center',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ShipbreakingCenter',\n 'desc': 'A major center of shipbreaking in this region of the Sector, hulks '\n         'are consigned to scrapping here by the navies of major factions and '\n         'many other clients from among the Sector core worlds.',\n 'icon': 'graphics/icons/markets/shipbreaking.png',\n 'order': '360'}"
+  },
+  {
+    "key": "market_conditions.csv#trade_center$name",
+    "original": "Trade Center",
+    "translation": "무역소",
+    "stage": 1,
+    "context": "market_conditions.csv row 0010\n[original data]\n{'name': 'Trade Center',\n 'id': 'trade_center',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.TradeCenter',\n 'desc': 'A major center of trade, merchant vessels from across the Sector '\n         'dock here expecting to find a buyer for their goods- and to find '\n         'something to buy in turn for a nice profit.',\n 'icon': 'graphics/icons/markets/trade_center.png',\n 'order': '280'}"
+  },
+  {
+    "key": "market_conditions.csv#trade_center$desc",
+    "original": "A major center of trade, merchant vessels from across the Sector dock here expecting to find a buyer for their goods- and to find something to buy in turn for a nice profit.",
+    "translation": "주요 무역 중심지입니다. 섹터 곳곳에서 모여든 무역선이 이곳에서 상품을 구매할 사람과, 다른 곳으로 수출할 상품을 찾습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0010\n[original data]\n{'name': 'Trade Center',\n 'id': 'trade_center',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.TradeCenter',\n 'desc': 'A major center of trade, merchant vessels from across the Sector '\n         'dock here expecting to find a buyer for their goods- and to find '\n         'something to buy in turn for a nice profit.',\n 'icon': 'graphics/icons/markets/trade_center.png',\n 'order': '280'}"
+  },
+  {
+    "key": "market_conditions.csv#decivilized$name",
+    "original": "Decivilized",
+    "translation": "붕괴",
+    "stage": 1,
+    "context": "market_conditions.csv row 0011\n[original data]\n{'name': 'Decivilized',\n 'id': 'decivilized',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Decivilized',\n 'desc': 'There is no stable ruling polity here. Civilization is collapsed and '\n         'current population is effectively unknown, though groups of '\n         'survivors, bandits, and looters can be detected.',\n 'icon': 'graphics/icons/markets/decivilized.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#decivilized$desc",
+    "original": "There is no stable ruling polity here. Civilization is collapsed and current population is effectively unknown, though groups of survivors, bandits, and looters can be detected.",
+    "translation": "무정부 상태입니다. 문명은 붕괴되었고 현재 인구는 알 수 없지만 생존자, 도적, 약탈자 집단을 확인할 수 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0011\n[original data]\n{'name': 'Decivilized',\n 'id': 'decivilized',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Decivilized',\n 'desc': 'There is no stable ruling polity here. Civilization is collapsed and '\n         'current population is effectively unknown, though groups of '\n         'survivors, bandits, and looters can be detected.',\n 'icon': 'graphics/icons/markets/decivilized.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#decivilized_subpop$name",
+    "original": "Decivilized Subpopulation",
+    "translation": "재건",
+    "stage": 1,
+    "context": "market_conditions.csv row 0012\n[original data]\n{'name': 'Decivilized Subpopulation',\n 'id': 'decivilized_subpop',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.DecivilizedSubpop',\n 'desc': 'Civilization has been brought back to parts of $market, often at the '\n         'point of a gauss rifle. However, an effectively unknown population '\n         'of survivors, bandits, and looters still remains on the fringes.',\n 'icon': 'graphics/icons/markets/decivilized.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#decivilized_subpop$desc",
+    "original": "Civilization has been brought back to parts of $market, often at the point of a gauss rifle. However, an effectively unknown population of survivors, bandits, and looters still remains on the fringes.",
+    "translation": "$market의 폐허 위에 문명사회가 다시 세워졌습니다. 외곽 지역에 남은 생존자, 도적과 약탈자 집단이 얼마나 있는지는 집계되지 않았습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0012\n[original data]\n{'name': 'Decivilized Subpopulation',\n 'id': 'decivilized_subpop',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.DecivilizedSubpop',\n 'desc': 'Civilization has been brought back to parts of $market, often at the '\n         'point of a gauss rifle. However, an effectively unknown population '\n         'of survivors, bandits, and looters still remains on the fringes.',\n 'icon': 'graphics/icons/markets/decivilized.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#abandoned_station$name",
+    "original": "Abandoned Station",
+    "translation": "버려진 정거장",
+    "stage": 1,
+    "context": "market_conditions.csv row 0013\n[original data]\n{'name': 'Abandoned Station',\n 'id': 'abandoned_station',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.AbandonedStation',\n 'desc': 'This station is abandoned.',\n 'icon': 'graphics/icons/markets/abandoned.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#abandoned_station$desc",
+    "original": "This station is abandoned.",
+    "translation": "이 정거장은 버려졌습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0013\n[original data]\n{'name': 'Abandoned Station',\n 'id': 'abandoned_station',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.AbandonedStation',\n 'desc': 'This station is abandoned.',\n 'icon': 'graphics/icons/markets/abandoned.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#cottage_industry$name",
+    "original": "Cottage Industry",
+    "translation": "가내공업",
+    "stage": 1,
+    "context": "market_conditions.csv row 0014\n[original data]\n{'name': 'Cottage Industry',\n 'id': 'cottage_industry',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.CottageIndustry',\n 'desc': '$market has a substantial base of low-technology, labour-intensive '\n         'light industry. Increases demand for simple organic fuels and '\n         'materials, provides an inefficient albeit charmingly hand-crafted '\n         'supply of domestic goods.',\n 'icon': 'graphics/icons/markets/cottage_industry.png',\n 'order': '230'}"
+  },
+  {
+    "key": "market_conditions.csv#cottage_industry$desc",
+    "original": "$market has a substantial base of low-technology, labour-intensive light industry. Increases demand for simple organic fuels and materials, provides an inefficient albeit charmingly hand-crafted supply of domestic goods.",
+    "translation": "$market은 저기술, 노동 집약적 경공업의 상당한 기반을 가지고 있습니다. 단순 유기 연료와 재료의 수요를 증가시키고, 비효율적일지라도 매력적으로 손으로 만든 소비재의 공급을 제공합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0014\n[original data]\n{'name': 'Cottage Industry',\n 'id': 'cottage_industry',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.CottageIndustry',\n 'desc': '$market has a substantial base of low-technology, labour-intensive '\n         'light industry. Increases demand for simple organic fuels and '\n         'materials, provides an inefficient albeit charmingly hand-crafted '\n         'supply of domestic goods.',\n 'icon': 'graphics/icons/markets/cottage_industry.png',\n 'order': '230'}"
+  },
+  {
+    "key": "market_conditions.csv#outpost$name",
+    "original": "Outpost",
+    "translation": "전초 기지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0015\n[original data]\n{'name': 'Outpost',\n 'id': 'outpost',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Outpost',\n 'desc': '$market is run much like a garrison or a large spaceship, with a '\n         'rigid official command structure. This improves stability, but does '\n         'require some personnel to see to internal security matters.',\n 'icon': 'graphics/icons/markets/outpost.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#outpost$desc",
+    "original": "$market is run much like a garrison or a large spaceship, with a rigid official command structure. This improves stability, but does require some personnel to see to internal security matters.",
+    "translation": "$market은 엄격한 공식적인 명령 구조로 주둔군이나 대형 우주선처럼 운영됩니다. 이렇게 하면 안정성이 향상되지만, 내부 보안 문제를 감시할 인력이 필요합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0015\n[original data]\n{'name': 'Outpost',\n 'id': 'outpost',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Outpost',\n 'desc': '$market is run much like a garrison or a large spaceship, with a '\n         'rigid official command structure. This improves stability, but does '\n         'require some personnel to see to internal security matters.',\n 'icon': 'graphics/icons/markets/outpost.png',\n 'order': '130'}"
+  },
+  {
+    "key": "market_conditions.csv#luddic_majority$name",
+    "original": "Luddic Majority",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0016\n[original data]\n{'name': 'Luddic Majority',\n 'id': 'luddic_majority',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LuddicMajority',\n 'desc': 'Stability is improved if $market is controlled by a Luddic faction, '\n         'otherwise it is reduced. The ascetic ethos of Luddic theology '\n         'reduces demand for luxury goods.',\n 'icon': 'graphics/icons/markets/luddic_majority.png',\n 'order': '142'}"
+  },
+  {
+    "key": "market_conditions.csv#luddic_majority$desc",
+    "original": "Stability is improved if $market is controlled by a Luddic faction, otherwise it is reduced. The ascetic ethos of Luddic theology reduces demand for luxury goods.",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0016\n[original data]\n{'name': 'Luddic Majority',\n 'id': 'luddic_majority',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LuddicMajority',\n 'desc': 'Stability is improved if $market is controlled by a Luddic faction, '\n         'otherwise it is reduced. The ascetic ethos of Luddic theology '\n         'reduces demand for luxury goods.',\n 'icon': 'graphics/icons/markets/luddic_majority.png',\n 'order': '142'}"
+  },
+  {
+    "key": "market_conditions.csv#stealth_minefields$name",
+    "original": "Stealth Minefields",
+    "translation": "기뢰 부설",
+    "stage": 1,
+    "context": "market_conditions.csv row 0017\n[original data]\n{'name': 'Stealth Minefields',\n 'id': 'stealth_minefields',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.StealthMinefields',\n 'desc': 'A network of hidden mines provides $market security from meddlesome '\n         'outsiders. Improves stability.',\n 'icon': 'graphics/icons/markets/stealth_mines.png',\n 'order': '510'}"
+  },
+  {
+    "key": "market_conditions.csv#stealth_minefields$desc",
+    "original": "A network of hidden mines provides $market security from meddlesome outsiders. Improves stability.",
+    "translation": "숨겨진 기뢰 네트워크는 간섭하는 외부인으로부터 $market 보안을 유지시킵니다. 안정성을 향상시킵니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0017\n[original data]\n{'name': 'Stealth Minefields',\n 'id': 'stealth_minefields',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.StealthMinefields',\n 'desc': 'A network of hidden mines provides $market security from meddlesome '\n         'outsiders. Improves stability.',\n 'icon': 'graphics/icons/markets/stealth_mines.png',\n 'order': '510'}"
+  },
+  {
+    "key": "market_conditions.csv#regional_capital$name",
+    "original": "Regional Capital",
+    "translation": "지역 수도",
+    "stage": 1,
+    "context": "market_conditions.csv row 0018\n[original data]\n{'name': 'Regional Capital',\n 'id': 'regional_capital',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RegionalCapital',\n 'desc': 'A major center of administration, security, and logistics. Improves '\n         'stability.',\n 'icon': 'graphics/icons/markets/capital.png',\n 'order': '500'}"
+  },
+  {
+    "key": "market_conditions.csv#regional_capital$desc",
+    "original": "A major center of administration, security, and logistics. Improves stability.",
+    "translation": "행정, 보안, 물류의 주요 중심입니다. 안정성을 향상시킵니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0018\n[original data]\n{'name': 'Regional Capital',\n 'id': 'regional_capital',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RegionalCapital',\n 'desc': 'A major center of administration, security, and logistics. Improves '\n         'stability.',\n 'icon': 'graphics/icons/markets/capital.png',\n 'order': '500'}"
+  },
+  {
+    "key": "market_conditions.csv#free_market$name",
+    "original": "Free Port",
+    "translation": "자유항",
+    "stage": 1,
+    "context": "market_conditions.csv row 0019\n[original data]\n{'name': 'Free Port',\n 'id': 'free_market',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.FreeMarket',\n 'desc': 'The local port authority imposes almost no regulation on what cargo '\n         'is traded. Immigration controls are likewise relaxed, resulting in a '\n         'greater in-flow of people, albeit sometimes of a more questionable '\n         'character. This may cause other factions to view this colony with '\n         'distrust.',\n 'icon': 'graphics/icons/markets/free_port.png',\n 'order': '141'}"
+  },
+  {
+    "key": "market_conditions.csv#free_market$desc",
+    "original": "The local port authority imposes almost no regulation on what cargo is traded. Immigration controls are likewise relaxed, resulting in a greater in-flow of people, albeit sometimes of a more questionable character. This may cause other factions to view this colony with distrust.",
+    "translation": "지역 항구 당국은 거래되는 화물에 대해 거의 규제를 하지 않습니다. 출입국 관리도 마찬가지로 완화되어 더 많은 사람들이 유입되지만 때로는 더 의심스러운 순간이 있기도 합니다. 이로 인해 다른 진영이 이 정착지를 불신할 수 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0019\n[original data]\n{'name': 'Free Port',\n 'id': 'free_market',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.FreeMarket',\n 'desc': 'The local port authority imposes almost no regulation on what cargo '\n         'is traded. Immigration controls are likewise relaxed, resulting in a '\n         'greater in-flow of people, albeit sometimes of a more questionable '\n         'character. This may cause other factions to view this colony with '\n         'distrust.',\n 'icon': 'graphics/icons/markets/free_port.png',\n 'order': '141'}"
+  },
+  {
+    "key": "market_conditions.csv#closed_immigration$name",
+    "original": "Closed Immigration",
+    "translation": "이주 제한",
+    "stage": 1,
+    "context": "market_conditions.csv row 0020\n[original data]\n{'name': 'Closed Immigration',\n 'id': 'closed_immigration',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ClosedImmigration',\n 'desc': 'Officially, immigration to $market is not allowed. In practice, this '\n         'results in slowing overall immigration significantly, and creating '\n         'room for certain kinds of criminals to operate.',\n 'icon': 'graphics/icons/markets/vice_demand.png',\n 'order': '142'}"
+  },
+  {
+    "key": "market_conditions.csv#closed_immigration$desc",
+    "original": "Officially, immigration to $market is not allowed. In practice, this results in slowing overall immigration significantly, and creating room for certain kinds of criminals to operate.",
+    "translation": "$market 당국의 공식적인 입장은 이주민을 아예 받지 않는 것입니다. 실제로는 이주 속도가 상당히 느려지는 결과를 가져오며, 특정한 부류의 범죄자들이 활동할 환경을 제공합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0020\n[original data]\n{'name': 'Closed Immigration',\n 'id': 'closed_immigration',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ClosedImmigration',\n 'desc': 'Officially, immigration to $market is not allowed. In practice, this '\n         'results in slowing overall immigration significantly, and creating '\n         'room for certain kinds of criminals to operate.',\n 'icon': 'graphics/icons/markets/vice_demand.png',\n 'order': '142'}"
+  },
+  {
+    "key": "market_conditions.csv#uninhabitable$name",
+    "original": "Uninhabitable World",
+    "translation": "거주 불가",
+    "stage": 1,
+    "context": "market_conditions.csv row 0022\n[original data]\n{'name': 'Uninhabitable World',\n 'id': 'uninhabitable',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable',\n 'desc': 'A barren planet, the surface of $market can not support organic life '\n         'as we know it, and farming is impossible outside of sealed '\n         'artificial ecosystems.',\n 'icon': 'graphics/icons/markets/uninhabitable_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#uninhabitable$desc",
+    "original": "A barren planet, the surface of $market can not support organic life as we know it, and farming is impossible outside of sealed artificial ecosystems.",
+    "translation": "$market의 표면은 유기 생물체를 기를 수 없는 황무지입니다. 농업은 밀폐된 인공 생태계 안에서나 가능합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0022\n[original data]\n{'name': 'Uninhabitable World',\n 'id': 'uninhabitable',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable',\n 'desc': 'A barren planet, the surface of $market can not support organic life '\n         'as we know it, and farming is impossible outside of sealed '\n         'artificial ecosystems.',\n 'icon': 'graphics/icons/markets/uninhabitable_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#ice$name",
+    "original": "Ice World",
+    "translation": "얼음 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0023\n[original data]\n{'name': 'Ice World',\n 'id': 'ice',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldIce',\n 'desc': \"$market's average temperature is far below the freezing point of \"\n         'water and some common terran atmospheric gases fall as snow. The '\n         'drifts and glaciers of light, volatile elements may be harvested.',\n 'icon': 'graphics/icons/markets/ice_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#ice$desc",
+    "original": "$market's average temperature is far below the freezing point of water and some common terran atmospheric gases fall as snow. The drifts and glaciers of light, volatile elements may be harvested.",
+    "translation": "$market의 평균 온도는 물의 어는점보다 훨씬 낮습니다. 지구 대기를 구성하는 일부 기체들은 이 곳에서는 눈이 되어 내립니다. 가벼운 휘발성 원소들로 이뤄진 유빙과 빙하를 채굴할 수 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0023\n[original data]\n{'name': 'Ice World',\n 'id': 'ice',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldIce',\n 'desc': \"$market's average temperature is far below the freezing point of \"\n         'water and some common terran atmospheric gases fall as snow. The '\n         'drifts and glaciers of light, volatile elements may be harvested.',\n 'icon': 'graphics/icons/markets/ice_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#desert$name",
+    "original": "Desert World",
+    "translation": "사막 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0024\n[original data]\n{'name': 'Desert World',\n 'id': 'desert',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldDesert',\n 'desc': '$market: desert planet. A xerophile biosphere maintains an '\n         'atmosphere breathable with only a light mask. Farming is nearly '\n         'impossible.',\n 'icon': 'graphics/icons/markets/desert_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#desert$desc",
+    "original": "$market: desert planet. A xerophile biosphere maintains an atmosphere breathable with only a light mask. Farming is nearly impossible.",
+    "translation": "사막 행성입니다. 극단적인 건조함에 적응한 생물계가 가벼운 마스크만으로 호흡 가능한 대기 조성을 유지합니다. 농업은 불가능에 가깝습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0024\n[original data]\n{'name': 'Desert World',\n 'id': 'desert',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldDesert',\n 'desc': '$market: desert planet. A xerophile biosphere maintains an '\n         'atmosphere breathable with only a light mask. Farming is nearly '\n         'impossible.',\n 'icon': 'graphics/icons/markets/desert_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#arid$name",
+    "original": "Arid World",
+    "translation": "건조 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0025\n[original data]\n{'name': 'Arid World',\n 'id': 'arid',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldArid',\n 'desc': '$market is covered by vast, dry plains and wastes. Water is uncommon '\n         'and large-scale farming is difficult.',\n 'icon': 'graphics/icons/markets/arid_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#arid$desc",
+    "original": "$market is covered by vast, dry plains and wastes. Water is uncommon and large-scale farming is difficult.",
+    "translation": "넓고 건조한 평원과 황무지에 뒤덮여 있는 행성입니다. 물은 흔하지 않고, 대규모 농업은 어렵습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0025\n[original data]\n{'name': 'Arid World',\n 'id': 'arid',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldArid',\n 'desc': '$market is covered by vast, dry plains and wastes. Water is uncommon '\n         'and large-scale farming is difficult.',\n 'icon': 'graphics/icons/markets/arid_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#water$name",
+    "original": "Water World",
+    "translation": "해양 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0026\n[original data]\n{'name': 'Water World',\n 'id': 'water',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldWater',\n 'desc': 'The climate of $market is hospitable but farming is limited largely '\n         'to aquaculture and highly specialized infrastructure is required for '\n         'any development of habitats and industry.',\n 'icon': 'graphics/icons/markets/water_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#water$desc",
+    "original": "The climate of $market is hospitable but farming is limited largely to aquaculture and highly specialized infrastructure is required for any development of habitats and industry.",
+    "translation": "$market의 환경은 대체로 인간에게 우호적이지만, 농업은 대체로 수상 재배로 제한되고, 주거지나 산업단지를 개발하기 위해서는 매우 특화된 기반 시설이 필요합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0026\n[original data]\n{'name': 'Water World',\n 'id': 'water',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldWater',\n 'desc': 'The climate of $market is hospitable but farming is limited largely '\n         'to aquaculture and highly specialized infrastructure is required for '\n         'any development of habitats and industry.',\n 'icon': 'graphics/icons/markets/water_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#jungle$name",
+    "original": "Jungle World",
+    "translation": "밀림 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0027\n[original data]\n{'name': 'Jungle World',\n 'id': 'jungle',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldJungle',\n 'desc': '$market is a wet, warm jungle world covered in riotous vegetation '\n         'and exotic lifeforms, making farming and maintaining permanent '\n         'infrastructure difficult.',\n 'icon': 'graphics/icons/markets/jungle_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#jungle$desc",
+    "original": "$market is a wet, warm jungle world covered in riotous vegetation and exotic lifeforms, making farming and maintaining permanent infrastructure difficult.",
+    "translation": "활달한 식물들과 이색적인 생물들에 뒤덮인 습하고 더운 밀림 행성입니다. 농업이나 영구적 기반시설을 관리하기가 매우 어렵습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0027\n[original data]\n{'name': 'Jungle World',\n 'id': 'jungle',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldJungle',\n 'desc': '$market is a wet, warm jungle world covered in riotous vegetation '\n         'and exotic lifeforms, making farming and maintaining permanent '\n         'infrastructure difficult.',\n 'icon': 'graphics/icons/markets/jungle_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#terran$name",
+    "original": "Terran World",
+    "translation": "지구형 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0028\n[original data]\n{'name': 'Terran World',\n 'id': 'terran',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTerran',\n 'desc': \"$market is as close to Old Earth's condition as can be found in the \"\n         'Sector, providing ideal conditions for farming and settlement.',\n 'icon': 'graphics/icons/markets/terran_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#terran$desc",
+    "original": "$market is as close to Old Earth's condition as can be found in the Sector, providing ideal conditions for farming and settlement.",
+    "translation": "섹터에서 찾을 수 있는, 옛 지구와 가장 비슷한 조건을 갖춘 행성입니다. 농업과 정착에 이상적인 환경을 제공합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0028\n[original data]\n{'name': 'Terran World',\n 'id': 'terran',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTerran',\n 'desc': \"$market is as close to Old Earth's condition as can be found in the \"\n         'Sector, providing ideal conditions for farming and settlement.',\n 'icon': 'graphics/icons/markets/terran_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#barren_marginal$name",
+    "original": "Barren-marginal World",
+    "translation": "불모 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0029\n[original data]\n{'name': 'Barren-marginal World',\n 'id': 'barren_marginal',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldBarrenMarginal',\n 'desc': 'Inhospitable and unforgiving, outside conditions on $market are '\n         'barely survivable to a human with an air mask and protective '\n         'equipment, though certain engineered terraforming lichens find it '\n         'tolerable enough.',\n 'icon': 'graphics/icons/markets/barren_desert_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#barren_marginal$desc",
+    "original": "Inhospitable and unforgiving, outside conditions on $market are barely survivable to a human with an air mask and protective equipment, though certain engineered terraforming lichens find it tolerable enough.",
+    "translation": "가혹하고 냉혹한 $market의 활동 조건은 호흡기와 보호 장비를 갖춘 인간 외에는 거의 생존할 수 없지만, 특수 조작된 테라포밍용 이끼는 충분히 견딜 수 있다고 생각합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0029\n[original data]\n{'name': 'Barren-marginal World',\n 'id': 'barren_marginal',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldBarrenMarginal',\n 'desc': 'Inhospitable and unforgiving, outside conditions on $market are '\n         'barely survivable to a human with an air mask and protective '\n         'equipment, though certain engineered terraforming lichens find it '\n         'tolerable enough.',\n 'icon': 'graphics/icons/markets/barren_desert_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#twilight$name",
+    "original": "Twilight World",
+    "translation": "황혼 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0030\n[original data]\n{'name': 'Twilight World',\n 'id': 'twilight',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTwilight',\n 'desc': 'Tidally locked to its primary, or near enough, $market is a '\n         'terraformed world with days the length of seasons. Day/night '\n         'temperature variation is accordingly harsh even to engineered terran '\n         \"life. Islands of 'civilized' mild biomes are maintained through \"\n         'judicious use of solar shades and mirrors. ',\n 'icon': 'graphics/icons/markets/twilight_terran_world.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#twilight$desc",
+    "original": "Tidally locked to its primary, or near enough, $market is a terraformed world with days the length of seasons. Day/night temperature variation is accordingly harsh even to engineered terran life. Islands of 'civilized' mild biomes are maintained through judicious use of solar shades and mirrors. ",
+    "translation": "주항성에 동주기 자전을 하고 있거나 근접한, 테라포밍된 행성입니다. $market의 하루는 계절과도 같은 길이로, 낮과 밤의 온도차는 생명공학으로 변형된 생물종들에게도 가혹하게 극단적입니다. \"개척된\" 온화한 지역은 궤도의 태양광 가리개와 거울을 통해 유지됩니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0030\n[original data]\n{'name': 'Twilight World',\n 'id': 'twilight',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTwilight',\n 'desc': 'Tidally locked to its primary, or near enough, $market is a '\n         'terraformed world with days the length of seasons. Day/night '\n         'temperature variation is accordingly harsh even to engineered terran '\n         \"life. Islands of 'civilized' mild biomes are maintained through \"\n         'judicious use of solar shades and mirrors. ',\n 'icon': 'graphics/icons/markets/twilight_terran_world.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#tundra$name",
+    "original": "Tundra World",
+    "translation": "동토 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0031\n[original data]\n{'name': 'Tundra World',\n 'id': 'tundra',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTundra',\n 'desc': 'Terraforming has brought terran life to $market but the world '\n         \"remains as cold as the deepest of Earth's ice ages. Though millions \"\n         'of square kilometers are covered in glacier, there are also taiga '\n         'provinces and rolling steppe where warmer conditions prevail.',\n 'icon': 'graphics/icons/markets/tundra_terran_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#tundra$desc",
+    "original": "Terraforming has brought terran life to $market but the world remains as cold as the deepest of Earth's ice ages. Though millions of square kilometers are covered in glacier, there are also taiga provinces and rolling steppe where warmer conditions prevail.",
+    "translation": "테라포밍이 $market에 지구 생물들을 도입했지만, 행성은 여전히 옛 지구의 가장 극심한 빙하기 수준으로 춥습니다. 수백만 제곱킬로미터가 빙하에 덮여 있고 비교적 따뜻한 냉대 침엽수림과 냉대 초원 지역도 존재합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0031\n[original data]\n{'name': 'Tundra World',\n 'id': 'tundra',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldTundra',\n 'desc': 'Terraforming has brought terran life to $market but the world '\n         \"remains as cold as the deepest of Earth's ice ages. Though millions \"\n         'of square kilometers are covered in glacier, there are also taiga '\n         'provinces and rolling steppe where warmer conditions prevail.',\n 'icon': 'graphics/icons/markets/tundra_terran_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#cryovolcanic$name",
+    "original": "Cryovolcanic World",
+    "translation": "극저온 행성",
+    "stage": 1,
+    "context": "market_conditions.csv row 0032\n[original data]\n{'name': 'Cryovolcanic World',\n 'id': 'cryovolcanic',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable',\n 'desc': 'A world frozen beyond deepest chill, methane snow falls on mountains '\n         'of water-ice and volcanos erupt with ammonia. Stellar radiation '\n         'breaks down the volatiles to form an atmosphere of light gases such '\n         'as nitrogen and oxygen while hydrogen is whisked into space. ',\n 'icon': 'graphics/icons/markets/cryo_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#cryovolcanic$desc",
+    "original": "A world frozen beyond deepest chill, methane snow falls on mountains of water-ice and volcanos erupt with ammonia. Stellar radiation breaks down the volatiles to form an atmosphere of light gases such as nitrogen and oxygen while hydrogen is whisked into space. ",
+    "translation": "깊은 한기를 넘어 얼어붙은 세상에서 메탄 눈이 얼음 산에 내리고 암모니아와 함께 화산이 폭발합니다. 항성의 복사는 휘발성 물질을 분해하여 질소와 산소와 같은 가벼운 기체의 대기를 형성하는 반면 수소는 우주로 보냅니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0032\n[original data]\n{'name': 'Cryovolcanic World',\n 'id': 'cryovolcanic',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable',\n 'desc': 'A world frozen beyond deepest chill, methane snow falls on mountains '\n         'of water-ice and volcanos erupt with ammonia. Stellar radiation '\n         'breaks down the volatiles to form an atmosphere of light gases such '\n         'as nitrogen and oxygen while hydrogen is whisked into space. ',\n 'icon': 'graphics/icons/markets/cryo_world_wide.png',\n 'order': '10'}"
+  },
+  {
+    "key": "market_conditions.csv#dissident$name",
+    "original": "Dissident Population",
+    "translation": "반체제인사 수용소",
+    "stage": 1,
+    "context": "market_conditions.csv row 0034\n[original data]\n{'name': 'Dissident Population',\n 'id': 'dissident',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Dissident',\n 'desc': '$market is a dumping-ground for dissidents, rebels, free-thinkers, '\n         'artists, and other troublemakers. Increases demand for weapons and '\n         'marines to police the rabble. Increases availability of crew due to '\n         'emigration.',\n 'icon': 'graphics/icons/markets/dissidents.png',\n 'order': '139'}"
+  },
+  {
+    "key": "market_conditions.csv#dissident$desc",
+    "original": "$market is a dumping-ground for dissidents, rebels, free-thinkers, artists, and other troublemakers. Increases demand for weapons and marines to police the rabble. Increases availability of crew due to emigration.",
+    "translation": "반체제 인사, 반란분자, 자유사상가, 예술가 등 체제의 골칫거리들이 $market에 내버려집니다. 집회를 진압할 무기와 해병의 수요가 증가합니다. 이주를 원하는 이들은 우주선 승무원으로도 기꺼이 지원할 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0034\n[original data]\n{'name': 'Dissident Population',\n 'id': 'dissident',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Dissident',\n 'desc': '$market is a dumping-ground for dissidents, rebels, free-thinkers, '\n         'artists, and other troublemakers. Increases demand for weapons and '\n         'marines to police the rabble. Increases availability of crew due to '\n         'emigration.',\n 'icon': 'graphics/icons/markets/dissidents.png',\n 'order': '139'}"
+  },
+  {
+    "key": "market_conditions.csv#headquarters$name",
+    "original": "Headquarters",
+    "translation": "본부",
+    "stage": 1,
+    "context": "market_conditions.csv row 0035\n[original data]\n{'name': 'Headquarters',\n 'id': 'headquarters',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Headquarters',\n 'desc': '$market is a center of military command and logistical operation for '\n         'the ruling polity. Increases market stability.\n'\n         '\n'\n         \"Increases the quality and number of officers in $market's fleets.\",\n 'icon': 'graphics/icons/markets/headquarters.png',\n 'order': '360'}"
+  },
+  {
+    "key": "market_conditions.csv#headquarters$desc",
+    "original": "$market is a center of military command and logistical operation for the ruling polity. Increases market stability.\\n\\nIncreases the quality and number of officers in $market's fleets.",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0035\n[original data]\n{'name': 'Headquarters',\n 'id': 'headquarters',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Headquarters',\n 'desc': '$market is a center of military command and logistical operation for '\n         'the ruling polity. Increases market stability.\n'\n         '\n'\n         \"Increases the quality and number of officers in $market's fleets.\",\n 'icon': 'graphics/icons/markets/headquarters.png',\n 'order': '360'}"
+  },
+  {
+    "key": "market_conditions.csv#hydroponics_complex$name",
+    "original": "Hydroponics Complex",
+    "translation": "수경재배 단지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0036\n[original data]\n{'name': 'Hydroponics Complex',\n 'id': 'hydroponics_complex',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Hydroponics',\n 'desc': 'Sealed-biosphere agricultural production facilities which allow '\n         'farming in orbit or on the surface of inhospitable worlds. Requires '\n         'crew to operate, organic growth medium, and heavy machinery for '\n         'upkeep.',\n 'icon': 'graphics/icons/markets/hydroponics.png',\n 'order': '120'}"
+  },
+  {
+    "key": "market_conditions.csv#hydroponics_complex$desc",
+    "original": "Sealed-biosphere agricultural production facilities which allow farming in orbit or on the surface of inhospitable worlds. Requires crew to operate, organic growth medium, and heavy machinery for upkeep.",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0036\n[original data]\n{'name': 'Hydroponics Complex',\n 'id': 'hydroponics_complex',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Hydroponics',\n 'desc': 'Sealed-biosphere agricultural production facilities which allow '\n         'farming in orbit or on the surface of inhospitable worlds. Requires '\n         'crew to operate, organic growth medium, and heavy machinery for '\n         'upkeep.',\n 'icon': 'graphics/icons/markets/hydroponics.png',\n 'order': '120'}"
+  },
+  {
+    "key": "market_conditions.csv#population_1$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0038\n[original data]\n{'name': 'Population',\n 'id': 'population_1',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Only tens of people live here permanently.',\n 'icon': 'graphics/icons/markets/population01.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_1$desc",
+    "original": "Only tens of people live here permanently.",
+    "translation": "상주 인구는 수십명뿐입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0038\n[original data]\n{'name': 'Population',\n 'id': 'population_1',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Only tens of people live here permanently.',\n 'icon': 'graphics/icons/markets/population01.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_2$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0039\n[original data]\n{'name': 'Population',\n 'id': 'population_2',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Mere hundreds of people populate $market.',\n 'icon': 'graphics/icons/markets/population02.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_2$desc",
+    "original": "Mere hundreds of people populate $market.",
+    "translation": "수백 명의 사람들이 $market의 인구의 전부입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0039\n[original data]\n{'name': 'Population',\n 'id': 'population_2',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Mere hundreds of people populate $market.',\n 'icon': 'graphics/icons/markets/population02.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_3$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0040\n[original data]\n{'name': 'Population',\n 'id': 'population_3',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Thousands of people call $market home.',\n 'icon': 'graphics/icons/markets/population03.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_3$desc",
+    "original": "Thousands of people call $market home.",
+    "translation": "$market에 수천 명의 사람들이 정착해 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0040\n[original data]\n{'name': 'Population',\n 'id': 'population_3',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Thousands of people call $market home.',\n 'icon': 'graphics/icons/markets/population03.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_4$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0041\n[original data]\n{'name': 'Population',\n 'id': 'population_4',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Tens of thousands of people live on $market.',\n 'icon': 'graphics/icons/markets/population04.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_4$desc",
+    "original": "Tens of thousands of people live on $market.",
+    "translation": "수만 명의 사람들이 $market에 거주합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0041\n[original data]\n{'name': 'Population',\n 'id': 'population_4',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'Tens of thousands of people live on $market.',\n 'icon': 'graphics/icons/markets/population04.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_5$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0042\n[original data]\n{'name': 'Population',\n 'id': 'population_5',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is home to hundreds of thousands of people.',\n 'icon': 'graphics/icons/markets/population05.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_5$desc",
+    "original": "$market is home to hundreds of thousands of people.",
+    "translation": "$market의 표면과 궤도에는 수십만의 사람들이 거주합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0042\n[original data]\n{'name': 'Population',\n 'id': 'population_5',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is home to hundreds of thousands of people.',\n 'icon': 'graphics/icons/markets/population05.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_6$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0043\n[original data]\n{'name': 'Population',\n 'id': 'population_6',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'The population of $market is in the millions.',\n 'icon': 'graphics/icons/markets/population06.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_6$desc",
+    "original": "The population of $market is in the millions.",
+    "translation": "$market의 인구는 백만 단위입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0043\n[original data]\n{'name': 'Population',\n 'id': 'population_6',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'The population of $market is in the millions.',\n 'icon': 'graphics/icons/markets/population06.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_7$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0044\n[original data]\n{'name': 'Population',\n 'id': 'population_7',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is a world of tens of millions.',\n 'icon': 'graphics/icons/markets/population07.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_7$desc",
+    "original": "$market is a world of tens of millions.",
+    "translation": "수천만의 사람들이 $market에 살고 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0044\n[original data]\n{'name': 'Population',\n 'id': 'population_7',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is a world of tens of millions.',\n 'icon': 'graphics/icons/markets/population07.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_8$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0045\n[original data]\n{'name': 'Population',\n 'id': 'population_8',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is one of the few worlds in the Sector with a population of '\n         'hundreds of millions.',\n 'icon': 'graphics/icons/markets/population08.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_8$desc",
+    "original": "$market is one of the few worlds in the Sector with a population of hundreds of millions.",
+    "translation": "섹터에서 수억의 인구를 보유한 정착지는 몇 되지 않으며, $market도 그 중의 하나입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0045\n[original data]\n{'name': 'Population',\n 'id': 'population_8',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is one of the few worlds in the Sector with a population of '\n         'hundreds of millions.',\n 'icon': 'graphics/icons/markets/population08.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_9$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0046\n[original data]\n{'name': 'Population',\n 'id': 'population_9',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'A precious refuge for humanity in a dangerous galaxy, $market is '\n         'home to billions of souls.',\n 'icon': 'graphics/icons/markets/population09.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_9$desc",
+    "original": "A precious refuge for humanity in a dangerous galaxy, $market is home to billions of souls.",
+    "translation": "수십억이 $market에 살고 있습니다. 가혹한 우주 한가운데 인류의 소중한 안식처입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0046\n[original data]\n{'name': 'Population',\n 'id': 'population_9',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': 'A precious refuge for humanity in a dangerous galaxy, $market is '\n         'home to billions of souls.',\n 'icon': 'graphics/icons/markets/population09.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_10$name",
+    "original": "Population",
+    "translation": "인구",
+    "stage": 1,
+    "context": "market_conditions.csv row 0047\n[original data]\n{'name': 'Population',\n 'id': 'population_10',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is a dominant population center in the Sector, a rival to '\n         'Old Earth as home to tens of billions of humans.',\n 'icon': 'graphics/icons/markets/population10.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#population_10$desc",
+    "original": "$market is a dominant population center in the Sector, a rival to Old Earth as home to tens of billions of humans.",
+    "translation": "$market의 인구는 옛 지구와도 맞먹는 수백억으로, 섹터의 주요한 인구 밀집지역입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0047\n[original data]\n{'name': 'Population',\n 'id': 'population_10',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Population',\n 'desc': '$market is a dominant population center in the Sector, a rival to '\n         'Old Earth as home to tens of billions of humans.',\n 'icon': 'graphics/icons/markets/population10.png',\n 'order': '20'}"
+  },
+  {
+    "key": "market_conditions.csv#event_food_shortage$name",
+    "original": "Food Shortage",
+    "translation": "식량난",
+    "stage": 1,
+    "context": "market_conditions.csv row 0052\n[original data]\n{'name': 'Food Shortage',\n 'id': 'event_food_shortage',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.FoodShortage',\n 'desc': \"There's a temporary lack of available food on $market.\n\"\n         '- Stability reduced by $stabilityPenalty\n'\n         '- Approximately $neededFood units of food needed to end shortage\n'\n         '- Food prices increased due to lowered food supply\n'\n         '- Increased reputation and experience from selling food',\n 'icon': 'graphics/icons/markets/food_shortage.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#event_food_shortage$desc",
+    "original": "There's a temporary lack of available food on $market.\\n- Stability reduced by $stabilityPenalty\\n- Approximately $neededFood units of food needed to end shortage\\n- Food prices increased due to lowered food supply\\n- Increased reputation and experience from selling food",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0052\n[original data]\n{'name': 'Food Shortage',\n 'id': 'event_food_shortage',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.FoodShortage',\n 'desc': \"There's a temporary lack of available food on $market.\n\"\n         '- Stability reduced by $stabilityPenalty\n'\n         '- Approximately $neededFood units of food needed to end shortage\n'\n         '- Food prices increased due to lowered food supply\n'\n         '- Increased reputation and experience from selling food',\n 'icon': 'graphics/icons/markets/food_shortage.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#recent_unrest$name",
+    "original": "Recent Unrest",
+    "translation": "사회 불안",
+    "stage": 1,
+    "context": "market_conditions.csv row 0053\n[original data]\n{'name': 'Recent Unrest',\n 'id': 'recent_unrest',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RecentUnrest',\n 'desc': '$market has recently experienced tumultous events with a lingering '\n         'effect on stability.',\n 'icon': 'graphics/icons/markets/recent_unrest.png',\n 'order': '2000'}"
+  },
+  {
+    "key": "market_conditions.csv#recent_unrest$desc",
+    "original": "$market has recently experienced tumultous events with a lingering effect on stability.",
+    "translation": "최근 $market에서 발생한 소란의 여파가 안정성에 영향을 끼치고 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0053\n[original data]\n{'name': 'Recent Unrest',\n 'id': 'recent_unrest',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RecentUnrest',\n 'desc': '$market has recently experienced tumultous events with a lingering '\n         'effect on stability.',\n 'icon': 'graphics/icons/markets/recent_unrest.png',\n 'order': '2000'}"
+  },
+  {
+    "key": "market_conditions.csv#event_trade_disruption$name",
+    "original": "Trade Disruption",
+    "translation": "무역 저해",
+    "stage": 1,
+    "context": "market_conditions.csv row 0054\n[original data]\n{'name': 'Trade Disruption',\n 'id': 'event_trade_disruption',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.TradeDisruption',\n 'desc': 'Trade fleets going to or from $market are taking significant losses. '\n         'Piracy or war are most likely to blame.\n'\n         '\n'\n         'The following commodities are affected:\n'\n         '$commoditySummary',\n 'icon': 'graphics/icons/markets/trade_disruption.png',\n 'order': '1100'}"
+  },
+  {
+    "key": "market_conditions.csv#event_trade_disruption$desc",
+    "original": "Trade fleets going to or from $market are taking significant losses. Piracy or war are most likely to blame.\\n\\nThe following commodities are affected:\\n$commoditySummary",
+    "translation": "$Market에서 출발하거나 기항하는 무역선단들이 심각한 손실을 겪고 있습니다. 해적 활동이나 전쟁의 영향일 가능성이 큽니다.\\n\\n이하 상품들이 영향을 받습니다:\\n$commoditySummary",
+    "stage": 1,
+    "context": "market_conditions.csv row 0054\n[original data]\n{'name': 'Trade Disruption',\n 'id': 'event_trade_disruption',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.TradeDisruption',\n 'desc': 'Trade fleets going to or from $market are taking significant losses. '\n         'Piracy or war are most likely to blame.\n'\n         '\n'\n         'The following commodities are affected:\n'\n         '$commoditySummary',\n 'icon': 'graphics/icons/markets/trade_disruption.png',\n 'order': '1100'}"
+  },
+  {
+    "key": "market_conditions.csv#event_smuggling$name",
+    "original": "Smuggling",
+    "translation": "밀수",
+    "stage": 1,
+    "context": "market_conditions.csv row 0055\n[original data]\n{'name': 'Smuggling',\n 'id': 'event_smuggling',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Smuggling',\n 'desc': '$market is experiencing a high volume of smuggling activity.\n'\n         '\n'\n         '- Stability reduced by $smugglingPenalty',\n 'icon': 'graphics/icons/markets/smuggling.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#event_smuggling$desc",
+    "original": "$market is experiencing a high volume of smuggling activity.\\n\\n- Stability reduced by $smugglingPenalty",
+    "translation": "$market에 대규모의 밀수 활동이 벌어지고 있습니다.\\n\\n- 안정성이 $smugglingPenalty 감소합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0055\n[original data]\n{'name': 'Smuggling',\n 'id': 'event_smuggling',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Smuggling',\n 'desc': '$market is experiencing a high volume of smuggling activity.\n'\n         '\n'\n         '- Stability reduced by $smugglingPenalty',\n 'icon': 'graphics/icons/markets/smuggling.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#event_bounty$name",
+    "original": "System Bounty",
+    "translation": "항성계 현상금",
+    "stage": 1,
+    "context": "market_conditions.csv row 0056\n[original data]\n{'name': 'System Bounty',\n 'id': 'event_bounty',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.SystemBounty',\n 'desc': '',\n 'icon': 'graphics/icons/markets/bounty.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#rogue_ai_core$name",
+    "original": "Rogue AI Core",
+    "translation": "탈주 AI 코어",
+    "stage": 1,
+    "context": "market_conditions.csv row 0057\n[original data]\n{'name': 'Rogue AI Core',\n 'id': 'rogue_ai_core',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RogueAICore',\n 'desc': 'There is a rogue AI core operating on or near $market. Its long-term '\n         'plans and ambitions, beyond its own survival, are unknown.\n'\n         '\n'\n         'At a minimum, the need to be on guard against its possible actions '\n         'makes day-to-day operations less efficient and creates fertile '\n         'ground for alarming rumours.',\n 'icon': 'graphics/icons/markets/rogue_ai.png',\n 'order': '1200'}"
+  },
+  {
+    "key": "market_conditions.csv#rogue_ai_core$desc",
+    "original": "There is a rogue AI core operating on or near $market. Its long-term plans and ambitions, beyond its own survival, are unknown.\\n\\nAt a minimum, the need to be on guard against its possible actions makes day-to-day operations less efficient and creates fertile ground for alarming rumours.",
+    "translation": "제어를 벗어난 AI 코어가 $market 표면 혹은 그 근처에서 활동하고 있습니다. 그것이 자기보존 외에 어떤 장기적 계획이나 목표를 가지고 있는지는 알 수 없습니다.\\n\\nAI의 잠재적 위협에 대비해 상시 경계할 필요가 있으므로 일상적 활동의 효율이 저하되며, 우려스러운 소문이 퍼지기 좋은 환경입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0057\n[original data]\n{'name': 'Rogue AI Core',\n 'id': 'rogue_ai_core',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.RogueAICore',\n 'desc': 'There is a rogue AI core operating on or near $market. Its long-term '\n         'plans and ambitions, beyond its own survival, are unknown.\n'\n         '\n'\n         'At a minimum, the need to be on guard against its possible actions '\n         'makes day-to-day operations less efficient and creates fertile '\n         'ground for alarming rumours.',\n 'icon': 'graphics/icons/markets/rogue_ai.png',\n 'order': '1200'}"
+  },
+  {
+    "key": "market_conditions.csv#ai_core_admin$name",
+    "original": "AI Core Admin (hidden)",
+    "translation": "AI Core Admin (hidden)",
+    "stage": 1,
+    "context": "market_conditions.csv row 0058\n[original data]\n{'name': 'AI Core Admin (hidden)',\n 'id': 'ai_core_admin',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.AICoreAdmin',\n 'desc': 'Hidden condition to track when the core becomes un-removable. Does '\n         'not need an icon.',\n 'icon': 'graphics/icons/markets/rogue_ai.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#ai_core_admin$desc",
+    "original": "Hidden condition to track when the core becomes un-removable. Does not need an icon.",
+    "translation": "Hidden condition to track when the core becomes un-removable. Does not need an icon.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0058\n[original data]\n{'name': 'AI Core Admin (hidden)',\n 'id': 'ai_core_admin',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.AICoreAdmin',\n 'desc': 'Hidden condition to track when the core becomes un-removable. Does '\n         'not need an icon.',\n 'icon': 'graphics/icons/markets/rogue_ai.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#pirate_activity$name",
+    "original": "Pirate Activity",
+    "translation": "해적 활동",
+    "stage": 1,
+    "context": "market_conditions.csv row 0059\n[original data]\n{'name': 'Pirate Activity',\n 'id': 'pirate_activity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.intel.bases.PirateActivity',\n 'desc': 'There have been signs that pirates are targeting shipping and '\n         'colonies in this system - from port inspectors being pressured to '\n         'turn a blind eye, to inconsistencies in cargo manifests, to other '\n         'increased criminal activity.\n'\n         '\n'\n         'The pirates most likely have a base somewhere relatively nearby.',\n 'icon': 'graphics/icons/markets/pirate_activity.png',\n 'order': '1300'}"
+  },
+  {
+    "key": "market_conditions.csv#pirate_activity$desc",
+    "original": "There have been signs that pirates are targeting shipping and colonies in this system - from port inspectors being pressured to turn a blind eye, to inconsistencies in cargo manifests, to other increased criminal activity.\\n\\nThe pirates most likely have a base somewhere relatively nearby.",
+    "translation": "해적들이 이 행성계의 물류와 정착지들을 표적으로 삼는 징후가 보입니다. 세관 직원들에게 압력이 가해지고, 화물 목록과 실제의 불일치가 늘어나며, 기타 범죄 역시 활발해졌습니다.\\n\\n비교적 근처에 해적들의 거점이 있을 가능성이 큽니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0059\n[original data]\n{'name': 'Pirate Activity',\n 'id': 'pirate_activity',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.intel.bases.PirateActivity',\n 'desc': 'There have been signs that pirates are targeting shipping and '\n         'colonies in this system - from port inspectors being pressured to '\n         'turn a blind eye, to inconsistencies in cargo manifests, to other '\n         'increased criminal activity.\n'\n         '\n'\n         'The pirates most likely have a base somewhere relatively nearby.',\n 'icon': 'graphics/icons/markets/pirate_activity.png',\n 'order': '1300'}"
+  },
+  {
+    "key": "market_conditions.csv#pather_cells$name",
+    "original": "Luddic Path Cells",
+    "translation": "",
+    "stage": 0,
+    "context": "market_conditions.csv row 0060\n[original data]\n{'name': 'Luddic Path Cells',\n 'id': 'pather_cells',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.intel.bases.LuddicPathCells',\n 'desc': '',\n 'icon': 'graphics/icons/markets/pather_cells.png',\n 'order': '1400'}"
+  },
+  {
+    "key": "market_conditions.csv#shipping_disruption$name",
+    "original": "Trade Disruption",
+    "translation": "무역 저해",
+    "stage": 1,
+    "context": "market_conditions.csv row 0063\n[original data]\n{'name': 'Trade Disruption',\n 'id': 'shipping_disruption',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ShippingDisruption',\n 'desc': '',\n 'icon': 'graphics/icons/markets/trade_disruption.png',\n 'order': '1000'}"
+  },
+  {
+    "key": "market_conditions.csv#comm_relay$name",
+    "original": "Comm Relay (hidden)",
+    "translation": "Comm Relay (hidden)",
+    "stage": 1,
+    "context": "market_conditions.csv row 0066\n[original data]\n{'name': 'Comm Relay (hidden)',\n 'id': 'comm_relay',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.CommRelayCondition',\n 'desc': 'Hidden condition; does not need icon.',\n 'icon': '',\n 'order': ''}"
+  },
+  {
+    "key": "market_conditions.csv#comm_relay$desc",
+    "original": "Hidden condition; does not need icon.",
+    "translation": "Hidden condition; does not need icon.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0066\n[original data]\n{'name': 'Comm Relay (hidden)',\n 'id': 'comm_relay',\n 'planetary': '',\n 'decivRemove': 'TRUE',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.CommRelayCondition',\n 'desc': 'Hidden condition; does not need icon.',\n 'icon': '',\n 'order': ''}"
+  },
+  {
+    "key": "market_conditions.csv#habitable$name",
+    "original": "Habitable",
+    "translation": "거주 가능",
+    "stage": 1,
+    "context": "market_conditions.csv row 0070\n[original data]\n{'name': 'Habitable',\n 'id': 'habitable',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Habitable',\n 'desc': 'Human beings can survive unprotected exposure to the surface '\n         'conditions of $market.',\n 'icon': 'graphics/icons/markets/habitable.png',\n 'order': '21'}"
+  },
+  {
+    "key": "market_conditions.csv#habitable$desc",
+    "original": "Human beings can survive unprotected exposure to the surface conditions of $market.",
+    "translation": "$market의 표면에서는 인간이 보호장비 없이 생존할 수 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0070\n[original data]\n{'name': 'Habitable',\n 'id': 'habitable',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Habitable',\n 'desc': 'Human beings can survive unprotected exposure to the surface '\n         'conditions of $market.',\n 'icon': 'graphics/icons/markets/habitable.png',\n 'order': '21'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_scattered$name",
+    "original": "Scattered Ruins",
+    "translation": "소규모 유적",
+    "stage": 1,
+    "context": "market_conditions.csv row 0073\n[original data]\n{'name': 'Scattered Ruins',\n 'id': 'ruins_scattered',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'This world was only lightly touched by the great project of the '\n         'Domain before the collapse. Only scattered, broken domes remain, '\n         'perchance holding lost caches of valuable materials.',\n 'icon': 'graphics/icons/markets/ruins_scattered.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_scattered$desc",
+    "original": "This world was only lightly touched by the great project of the Domain before the collapse. Only scattered, broken domes remain, perchance holding lost caches of valuable materials.",
+    "translation": "이 행성은 대붕괴 이전 도메인의 손길이 가볍게 닿았습니다. 귀중한 물건들을 담고 있을지도 모르는 무너진 돔들만이 곳곳에 흩어져 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0073\n[original data]\n{'name': 'Scattered Ruins',\n 'id': 'ruins_scattered',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'This world was only lightly touched by the great project of the '\n         'Domain before the collapse. Only scattered, broken domes remain, '\n         'perchance holding lost caches of valuable materials.',\n 'icon': 'graphics/icons/markets/ruins_scattered.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_widespread$name",
+    "original": "Widespread Ruins",
+    "translation": "광범위한 유적",
+    "stage": 1,
+    "context": "market_conditions.csv row 0074\n[original data]\n{'name': 'Widespread Ruins',\n 'id': 'ruins_widespread',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Widespread ruins, blips from radiation sources, and the distinctive '\n         'burred radar-ping of foamed cerametal structures can be found across '\n         '$market, evidence of a small but concerted colonization effort '\n         'dating to the late expansion period of the Domain.',\n 'icon': 'graphics/icons/markets/ruins_widespread.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_widespread$desc",
+    "original": "Widespread ruins, blips from radiation sources, and the distinctive burred radar-ping of foamed cerametal structures can be found across $market, evidence of a small but concerted colonization effort dating to the late expansion period of the Domain.",
+    "translation": "$market 곳곳에서 광범위한 유적, 인공적인 방사선원, 지하 레이더에 잡히는 세라믹과 금속 구조물들이 발견됩니다. 도메인 확장기 말기의 규모는 작지만 집중적인 정착 시도의 흔적입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0074\n[original data]\n{'name': 'Widespread Ruins',\n 'id': 'ruins_widespread',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Widespread ruins, blips from radiation sources, and the distinctive '\n         'burred radar-ping of foamed cerametal structures can be found across '\n         '$market, evidence of a small but concerted colonization effort '\n         'dating to the late expansion period of the Domain.',\n 'icon': 'graphics/icons/markets/ruins_widespread.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_extensive$name",
+    "original": "Extensive Ruins",
+    "translation": "대규모 유적",
+    "stage": 1,
+    "context": "market_conditions.csv row 0075\n[original data]\n{'name': 'Extensive Ruins',\n 'id': 'ruins_extensive',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Ruined cities can be found across the surface of $market, spilling '\n         'from their broken hearts pitted roadways and crumbling magrail lines '\n         'to the skeletons of factories, aquaponics domes, and comm-towers.',\n 'icon': 'graphics/icons/markets/ruins_extensive.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_extensive$desc",
+    "original": "Ruined cities can be found across the surface of $market, spilling from their broken hearts pitted roadways and crumbling magrail lines to the skeletons of factories, aquaponics domes, and comm-towers.",
+    "translation": "버려진 도시들이 $market의 표면을 가로지릅니다. 구멍난 도로와 무너진 자기선로가 공장, 수경재배 돔과 통신탑의 뼈대로 흘러갑니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0075\n[original data]\n{'name': 'Extensive Ruins',\n 'id': 'ruins_extensive',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Ruined cities can be found across the surface of $market, spilling '\n         'from their broken hearts pitted roadways and crumbling magrail lines '\n         'to the skeletons of factories, aquaponics domes, and comm-towers.',\n 'icon': 'graphics/icons/markets/ruins_extensive.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_vast$name",
+    "original": "Vast Ruins",
+    "translation": "방대한 유적",
+    "stage": 1,
+    "context": "market_conditions.csv row 0076\n[original data]\n{'name': 'Vast Ruins',\n 'id': 'ruins_vast',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': '$market is covered in vast ruins; cities, factories, mines, farms, '\n         'homes. The dead are in dread abundance, entwined with salvageable '\n         'materials, goods, tools, and weapons. This world is a tomb for the '\n         \"hubris of the Domain's project of galactic colonization and \"\n         'hegemony. ',\n 'icon': 'graphics/icons/markets/ruins_vast.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#ruins_vast$desc",
+    "original": "$market is covered in vast ruins; cities, factories, mines, farms, homes. The dead are in dread abundance, entwined with salvageable materials, goods, tools, and weapons. This world is a tomb for the hubris of the Domain's project of galactic colonization and hegemony. ",
+    "translation": "$market의 표면은 도시, 공장, 광산, 농장, 주택들의 방대한 유적에 뒤덮여 있습니다. 끔찍할 정도의 양의 시신이 귀중한 원자재, 상품, 도구와 무기들과 함께 뒤엉켜 있습니다. 이 행성은 은하 개척과 패권을 추구한 도메인의 오만함을 증언하는 무덤입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0076\n[original data]\n{'name': 'Vast Ruins',\n 'id': 'ruins_vast',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': '$market is covered in vast ruins; cities, factories, mines, farms, '\n         'homes. The dead are in dread abundance, entwined with salvageable '\n         'materials, goods, tools, and weapons. This world is a tomb for the '\n         \"hubris of the Domain's project of galactic colonization and \"\n         'hegemony. ',\n 'icon': 'graphics/icons/markets/ruins_vast.png',\n 'order': '100'}"
+  },
+  {
+    "key": "market_conditions.csv#cold$name",
+    "original": "Cold",
+    "translation": "저온",
+    "stage": 1,
+    "context": "market_conditions.csv row 0079\n[original data]\n{'name': 'Cold',\n 'id': 'cold',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The low temperatures found on $market necessitates specialized '\n         'equipment to perform normal operations, complicating life support '\n         'and infrastructure.',\n 'icon': 'graphics/icons/markets/cold.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#cold$desc",
+    "original": "The low temperatures found on $market necessitates specialized equipment to perform normal operations, complicating life support and infrastructure.",
+    "translation": "$market의 저온 환경은 일상적 활동을 하는 데도 특별한 장비를 필요하게 만들며, 생명유지와 기반 시설 관리를 복잡하게 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0079\n[original data]\n{'name': 'Cold',\n 'id': 'cold',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The low temperatures found on $market necessitates specialized '\n         'equipment to perform normal operations, complicating life support '\n         'and infrastructure.',\n 'icon': 'graphics/icons/markets/cold.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#very_cold$name",
+    "original": "Extreme Cold",
+    "translation": "극저온",
+    "stage": 1,
+    "context": "market_conditions.csv row 0080\n[original data]\n{'name': 'Extreme Cold',\n 'id': 'very_cold',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Extreme cold necessitates specialized equipment and protocol to '\n         'perform operations safely on $market, complicating logistics, life '\n         'support, and infrastructure.',\n 'icon': 'graphics/icons/markets/cold_extreme.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#very_cold$desc",
+    "original": "Extreme cold necessitates specialized equipment and protocol to perform operations safely on $market, complicating logistics, life support, and infrastructure.",
+    "translation": "$market에서 안전하게 활동하기 위해서는 극저온에 특화된 장비와 절차가 필수적입니다. 보급과 생명유지, 기반 시설 관리는 매우 복잡합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0080\n[original data]\n{'name': 'Extreme Cold',\n 'id': 'very_cold',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Extreme cold necessitates specialized equipment and protocol to '\n         'perform operations safely on $market, complicating logistics, life '\n         'support, and infrastructure.',\n 'icon': 'graphics/icons/markets/cold_extreme.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#hot$name",
+    "original": "Hot",
+    "translation": "고온",
+    "stage": 1,
+    "context": "market_conditions.csv row 0082\n[original data]\n{'name': 'Hot',\n 'id': 'hot',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The high temperature conditions of $market necessitates specialized '\n         'equipment to perform normal operations, complicating life support '\n         'and infrastructure.',\n 'icon': 'graphics/icons/markets/hot.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#hot$desc",
+    "original": "The high temperature conditions of $market necessitates specialized equipment to perform normal operations, complicating life support and infrastructure.",
+    "translation": "$market의 고온 환경은 일상적 활동을 하는 데도 특별한 장비를 필요하게 만들며, 생명유지와 기반 시설 관리를 복잡하게 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0082\n[original data]\n{'name': 'Hot',\n 'id': 'hot',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The high temperature conditions of $market necessitates specialized '\n         'equipment to perform normal operations, complicating life support '\n         'and infrastructure.',\n 'icon': 'graphics/icons/markets/hot.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#very_hot$name",
+    "original": "Extreme Heat",
+    "translation": "극고온",
+    "stage": 1,
+    "context": "market_conditions.csv row 0083\n[original data]\n{'name': 'Extreme Heat',\n 'id': 'very_hot',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Extreme heat necessitates specialized equipment and protocol to '\n         'safely operate on $market, seriously complicating logistics, life '\n         'support, and long-term stability of infrastructure.',\n 'icon': 'graphics/icons/markets/hot_extreme.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#very_hot$desc",
+    "original": "Extreme heat necessitates specialized equipment and protocol to safely operate on $market, seriously complicating logistics, life support, and long-term stability of infrastructure.",
+    "translation": "$market에서 안전하게 활동하기 위해서는 극고온에 특화된 장비와 절차가 필수적입니다. 보급과 생명유지가 매우 복잡하며, 기반 시설을 장기간 안정적으로 유지하기 어렵습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0083\n[original data]\n{'name': 'Extreme Heat',\n 'id': 'very_hot',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Extreme heat necessitates specialized equipment and protocol to '\n         'safely operate on $market, seriously complicating logistics, life '\n         'support, and long-term stability of infrastructure.',\n 'icon': 'graphics/icons/markets/hot_extreme.png',\n 'order': '25'}"
+  },
+  {
+    "key": "market_conditions.csv#tectonic_activity$name",
+    "original": "Tectonic Activity",
+    "translation": "활성 지각",
+    "stage": 1,
+    "context": "market_conditions.csv row 0086\n[original data]\n{'name': 'Tectonic Activity',\n 'id': 'tectonic_activity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is unstable and prone to violent quakes. Any '\n         'structures require special reinforcement and any excavation will '\n         'involve a great deal of risk.',\n 'icon': 'graphics/icons/markets/tectonic.png',\n 'order': '26'}"
+  },
+  {
+    "key": "market_conditions.csv#tectonic_activity$desc",
+    "original": "The surface of $market is unstable and prone to violent quakes. Any structures require special reinforcement and any excavation will involve a great deal of risk.",
+    "translation": "$market의 표면은 불안정하며 때로 격렬하게 흔들립니다. 지상 구조물은 특별한 강화가 필요하며, 채굴 작업은 매우 위험합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0086\n[original data]\n{'name': 'Tectonic Activity',\n 'id': 'tectonic_activity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is unstable and prone to violent quakes. Any '\n         'structures require special reinforcement and any excavation will '\n         'involve a great deal of risk.',\n 'icon': 'graphics/icons/markets/tectonic.png',\n 'order': '26'}"
+  },
+  {
+    "key": "market_conditions.csv#extreme_tectonic_activity$name",
+    "original": "Extreme Tectonic Activtity",
+    "translation": "극활성 지각",
+    "stage": 1,
+    "context": "market_conditions.csv row 0087\n[original data]\n{'name': 'Extreme Tectonic Activtity',\n 'id': 'extreme_tectonic_activity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"$market's crust roils chaotically with extreme quakes and \"\n         'cataclysmic volcanism events. Any operations will require '\n         'exceptional care and use of many-times redundant warning systems so '\n         'that the worst dangers can be avoided. Construction on this world '\n         'can only ever be considered semi-permanent.',\n 'icon': 'graphics/icons/markets/tectonic_extreme.png',\n 'order': '26'}"
+  },
+  {
+    "key": "market_conditions.csv#extreme_tectonic_activity$desc",
+    "original": "$market's crust roils chaotically with extreme quakes and cataclysmic volcanism events. Any operations will require exceptional care and use of many-times redundant warning systems so that the worst dangers can be avoided. Construction on this world can only ever be considered semi-permanent.",
+    "translation": "$market의 지표는 강력한 지진과 파괴적인 화산 활동으로 불규칙하게 날뜁니다. 어떤 종류의 활동이건 상당한 주의와, 최악의 위험을 피하기 위한 여러 단계의 경보 체계를 갖추어야 합니다. 지상에 영구적인 구조물을 건설하는 것은 불가능합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0087\n[original data]\n{'name': 'Extreme Tectonic Activtity',\n 'id': 'extreme_tectonic_activity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"$market's crust roils chaotically with extreme quakes and \"\n         'cataclysmic volcanism events. Any operations will require '\n         'exceptional care and use of many-times redundant warning systems so '\n         'that the worst dangers can be avoided. Construction on this world '\n         'can only ever be considered semi-permanent.',\n 'icon': 'graphics/icons/markets/tectonic_extreme.png',\n 'order': '26'}"
+  },
+  {
+    "key": "market_conditions.csv#no_atmosphere$name",
+    "original": "No Atmosphere",
+    "translation": "대기 부재",
+    "stage": 1,
+    "context": "market_conditions.csv row 0090\n[original data]\n{'name': 'No Atmosphere',\n 'id': 'no_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'No appreciable atmosphere exists on $market. Its surface is exposed '\n         'to the hard weathering of space, a steady drizzle of radiation and '\n         'micrometeorites.',\n 'icon': 'graphics/icons/markets/atmosphere_none.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#no_atmosphere$desc",
+    "original": "No appreciable atmosphere exists on $market. Its surface is exposed to the hard weathering of space, a steady drizzle of radiation and micrometeorites.",
+    "translation": "$market에는 대기권이 사실상 존재하지 않습니다. 표면은 지속적인 우주방사선과 미소 운석에 노출되어 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0090\n[original data]\n{'name': 'No Atmosphere',\n 'id': 'no_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'No appreciable atmosphere exists on $market. Its surface is exposed '\n         'to the hard weathering of space, a steady drizzle of radiation and '\n         'micrometeorites.',\n 'icon': 'graphics/icons/markets/atmosphere_none.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#thin_atmosphere$name",
+    "original": "Thin Atmosphere",
+    "translation": "대기 희박",
+    "stage": 1,
+    "context": "market_conditions.csv row 0091\n[original data]\n{'name': 'Thin Atmosphere',\n 'id': 'thin_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"A rarefied atmosphere clings determinedly to $market's surface.\",\n 'icon': 'graphics/icons/markets/atmosphere_thin.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#thin_atmosphere$desc",
+    "original": "A rarefied atmosphere clings determinedly to $market's surface.",
+    "translation": "$market의 표면을 감싸는 대기는 매우 희박합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0091\n[original data]\n{'name': 'Thin Atmosphere',\n 'id': 'thin_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"A rarefied atmosphere clings determinedly to $market's surface.\",\n 'icon': 'graphics/icons/markets/atmosphere_thin.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#toxic_atmosphere$name",
+    "original": "Toxic Atmosphere",
+    "translation": "독성 대기",
+    "stage": 1,
+    "context": "market_conditions.csv row 0092\n[original data]\n{'name': 'Toxic Atmosphere',\n 'id': 'toxic_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The atmosphere of $market is exceptionally toxic and corrosive, '\n         'abrading unprotected surfaces and requiring the hermetic sealing of '\n         'any inhabited spaces.',\n 'icon': 'graphics/icons/markets/atmosphere_toxic.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#toxic_atmosphere$desc",
+    "original": "The atmosphere of $market is exceptionally toxic and corrosive, abrading unprotected surfaces and requiring the hermetic sealing of any inhabited spaces.",
+    "translation": "$market의 대기는 강한 독성과 부식성을 나타냅니다. 보호처리되지 않은 표면은 빠르게 손상되며, 모든 거주 공간을 밀폐하여야 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0092\n[original data]\n{'name': 'Toxic Atmosphere',\n 'id': 'toxic_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The atmosphere of $market is exceptionally toxic and corrosive, '\n         'abrading unprotected surfaces and requiring the hermetic sealing of '\n         'any inhabited spaces.',\n 'icon': 'graphics/icons/markets/atmosphere_toxic.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#dense_atmosphere$name",
+    "original": "Dense Atmosphere",
+    "translation": "고밀도 대기",
+    "stage": 1,
+    "context": "market_conditions.csv row 0093\n[original data]\n{'name': 'Dense Atmosphere',\n 'id': 'dense_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is shrouded in a thick atmosphere, turbulent '\n         'vortices at its crown and a cloying soup at its lowest foothold. '\n         'Sensors are impaired, and operations must be made with care.',\n 'icon': 'graphics/icons/markets/atmosphere_dense.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#dense_atmosphere$desc",
+    "original": "The surface of $market is shrouded in a thick atmosphere, turbulent vortices at its crown and a cloying soup at its lowest foothold. Sensors are impaired, and operations must be made with care.",
+    "translation": "$market의 표면은 두꺼운 대기층에 감싸여 있습니다. 난폭한 소용돌이가 성층권을 휘감으며, 지면 근처의 공기는 걸쭉한 액체에 가깝습니다. 센서는 제 기능을 하지 못하며, 활동할 때 주의를 기울여야 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0093\n[original data]\n{'name': 'Dense Atmosphere',\n 'id': 'dense_atmosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is shrouded in a thick atmosphere, turbulent '\n         'vortices at its crown and a cloying soup at its lowest foothold. '\n         'Sensors are impaired, and operations must be made with care.',\n 'icon': 'graphics/icons/markets/atmosphere_dense.png',\n 'order': '27'}"
+  },
+  {
+    "key": "market_conditions.csv#mild_climate$name",
+    "original": "Mild Climate",
+    "translation": "기후 온화",
+    "stage": 1,
+    "context": "market_conditions.csv row 0096\n[original data]\n{'name': 'Mild Climate',\n 'id': 'mild_climate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.MildClimate',\n 'desc': 'The climate of $market is welcoming and docile; a light mist greets '\n         'each sunrise before retreating into soft clouds that glow '\n         'appealingly at every sunset.',\n 'icon': 'graphics/icons/markets/climate_mild.png',\n 'order': '28'}"
+  },
+  {
+    "key": "market_conditions.csv#mild_climate$desc",
+    "original": "The climate of $market is welcoming and docile; a light mist greets each sunrise before retreating into soft clouds that glow appealingly at every sunset.",
+    "translation": "$market의 기후는 안락하고 온화합니다. 아침에는 옅은 안개가, 해질녘에는 부드럽게 빛나는 구름이 하늘을 장식합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0096\n[original data]\n{'name': 'Mild Climate',\n 'id': 'mild_climate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.MildClimate',\n 'desc': 'The climate of $market is welcoming and docile; a light mist greets '\n         'each sunrise before retreating into soft clouds that glow '\n         'appealingly at every sunset.',\n 'icon': 'graphics/icons/markets/climate_mild.png',\n 'order': '28'}"
+  },
+  {
+    "key": "market_conditions.csv#extreme_weather$name",
+    "original": "Extreme Weather",
+    "translation": "극단적 기후",
+    "stage": 1,
+    "context": "market_conditions.csv row 0097\n[original data]\n{'name': 'Extreme Weather',\n 'id': 'extreme_weather',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Violent storms bristling lightning rage across the skies of $market. '\n         'Though a sublime beauty from orbit, this produces harsh surface '\n         'conditions making transportation and habitation highly inconvenient.',\n 'icon': 'graphics/icons/markets/weather_extreme.png',\n 'order': '28'}"
+  },
+  {
+    "key": "market_conditions.csv#extreme_weather$desc",
+    "original": "Violent storms bristling lightning rage across the skies of $market. Though a sublime beauty from orbit, this produces harsh surface conditions making transportation and habitation highly inconvenient.",
+    "translation": "천둥번개를 동반한 격렬한 폭풍이 $market의 하늘을 휩씁니다. 궤도에서 볼 때는 장엄한 광경이지만, 지표의 환경은 운송과 거주에 매우 불편합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0097\n[original data]\n{'name': 'Extreme Weather',\n 'id': 'extreme_weather',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'Violent storms bristling lightning rage across the skies of $market. '\n         'Though a sublime beauty from orbit, this produces harsh surface '\n         'conditions making transportation and habitation highly inconvenient.',\n 'icon': 'graphics/icons/markets/weather_extreme.png',\n 'order': '28'}"
+  },
+  {
+    "key": "market_conditions.csv#low_gravity$name",
+    "original": "Low Gravity",
+    "translation": "저중력",
+    "stage": 1,
+    "context": "market_conditions.csv row 0099\n[original data]\n{'name': 'Low Gravity',\n 'id': 'low_gravity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LowGravity',\n 'desc': 'Gravity is exceptionally low, though significantly above zero-g, on '\n         'the surface of $market. Workflow and operation of (relatively) heavy '\n         'machinery is complicated by the non-standard procedures required to '\n         'deal with altered conditions of friction, weight, and pressure '\n         'dynamics.',\n 'icon': 'graphics/icons/markets/gravity_low.png',\n 'order': '24'}"
+  },
+  {
+    "key": "market_conditions.csv#low_gravity$desc",
+    "original": "Gravity is exceptionally low, though significantly above zero-g, on the surface of $market. Workflow and operation of (relatively) heavy machinery is complicated by the non-standard procedures required to deal with altered conditions of friction, weight, and pressure dynamics.",
+    "translation": "$market의 표면 중력은 무시할 수 있는 수준은 아니지만, 유달리 낮습니다. 대부분의 작업과 중장비 사용은 표준적이지 않은 마찰, 중량과 압력 등의 조건을 고려한 복잡한 절차를 거쳐야 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0099\n[original data]\n{'name': 'Low Gravity',\n 'id': 'low_gravity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LowGravity',\n 'desc': 'Gravity is exceptionally low, though significantly above zero-g, on '\n         'the surface of $market. Workflow and operation of (relatively) heavy '\n         'machinery is complicated by the non-standard procedures required to '\n         'deal with altered conditions of friction, weight, and pressure '\n         'dynamics.',\n 'icon': 'graphics/icons/markets/gravity_low.png',\n 'order': '24'}"
+  },
+  {
+    "key": "market_conditions.csv#high_gravity$name",
+    "original": "High Gravity",
+    "translation": "고중력",
+    "stage": 1,
+    "context": "market_conditions.csv row 0100\n[original data]\n{'name': 'High Gravity',\n 'id': 'high_gravity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.HighGravity',\n 'desc': 'The force of gravity on the surface of $market is crushingly high. '\n         'Humans require powered exoskeletons for regular movement and find '\n         'even basic actions exhausting. Continual habitation is grueling at '\n         'best. All operations take place with a heightened danger of falls '\n         'and - if specialized engineering is not performed with adequete '\n         'paranoia - structural collapse.',\n 'icon': 'graphics/icons/markets/gravity_high.png',\n 'order': '24'}"
+  },
+  {
+    "key": "market_conditions.csv#high_gravity$desc",
+    "original": "The force of gravity on the surface of $market is crushingly high. Humans require powered exoskeletons for regular movement and find even basic actions exhausting. Continual habitation is grueling at best. All operations take place with a heightened danger of falls and - if specialized engineering is not performed with adequete paranoia - structural collapse.",
+    "translation": "$market의 표면 중력은 매우 높습니다. 인간은 일상적인 활동을 하는 데도 동력외골격을 필요로 하며, 간단한 동작을 할 때조차도 빠르게 지칩니다. 지속적인 거주는 대단히 힘듭니다. 모든 활동은 훨씬 높아진 추락의 위험과, 특화된 공학적 설계가 도입되지 않았다면 구조물 붕괴의 위험을 동반합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0100\n[original data]\n{'name': 'High Gravity',\n 'id': 'high_gravity',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.HighGravity',\n 'desc': 'The force of gravity on the surface of $market is crushingly high. '\n         'Humans require powered exoskeletons for regular movement and find '\n         'even basic actions exhausting. Continual habitation is grueling at '\n         'best. All operations take place with a heightened danger of falls '\n         'and - if specialized engineering is not performed with adequete '\n         'paranoia - structural collapse.',\n 'icon': 'graphics/icons/markets/gravity_high.png',\n 'order': '24'}"
+  },
+  {
+    "key": "market_conditions.csv#irradiated$name",
+    "original": "Irradiated",
+    "translation": "피폭",
+    "stage": 1,
+    "context": "market_conditions.csv row 0102\n[original data]\n{'name': 'Irradiated',\n 'id': 'irradiated',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is ravaged by radiation. Any living being '\n         'must be confined to a shielded habitat to live for long here. '\n         'Unhardened circuits and nanoscale materials or machinery will also '\n         'rapidly fail in these harsh conditions.',\n 'icon': 'graphics/icons/markets/irradiated.png',\n 'order': '29'}"
+  },
+  {
+    "key": "market_conditions.csv#irradiated$desc",
+    "original": "The surface of $market is ravaged by radiation. Any living being must be confined to a shielded habitat to live for long here. Unhardened circuits and nanoscale materials or machinery will also rapidly fail in these harsh conditions.",
+    "translation": "방사선이 $market의 표면에 지속적으로 내리쬡니다. 생물은 오래 살려면 차폐된 거주공간에 갇혀 있어야 합니다. 방사선 내성이 없는 회로나 나노소재 혹은 기계장치 등은 얼마 지나지 않아 고장을 일으킵니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0102\n[original data]\n{'name': 'Irradiated',\n 'id': 'irradiated',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is ravaged by radiation. Any living being '\n         'must be confined to a shielded habitat to live for long here. '\n         'Unhardened circuits and nanoscale materials or machinery will also '\n         'rapidly fail in these harsh conditions.',\n 'icon': 'graphics/icons/markets/irradiated.png',\n 'order': '29'}"
+  },
+  {
+    "key": "market_conditions.csv#inimical_biosphere$name",
+    "original": "Inimical Biosphere",
+    "translation": "적대적 생태계",
+    "stage": 1,
+    "context": "market_conditions.csv row 0105\n[original data]\n{'name': 'Inimical Biosphere',\n 'id': 'inimical_biosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LCAttractorLow',\n 'desc': 'The biosphere of $market is deadly to unprotected human beings. '\n         'While the conditions are fascinating to biological scientists, '\n         'surface technicians are hampered by strict quarantine protocols when '\n         'carrying out routine tasks.',\n 'icon': 'graphics/icons/markets/inimical_biosphere.png',\n 'order': '30'}"
+  },
+  {
+    "key": "market_conditions.csv#inimical_biosphere$desc",
+    "original": "The biosphere of $market is deadly to unprotected human beings. While the conditions are fascinating to biological scientists, surface technicians are hampered by strict quarantine protocols when carrying out routine tasks.",
+    "translation": "$market의 생태계는 보호장비를 갖추지 않은 인간에게 치명적입니다. 생물학자들에게는 대단히 흥미로운 환경이지만, 기술자들은 일상적인 활동을 하면서도 엄격한 방역 절차를 따라야 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0105\n[original data]\n{'name': 'Inimical Biosphere',\n 'id': 'inimical_biosphere',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.LCAttractorLow',\n 'desc': 'The biosphere of $market is deadly to unprotected human beings. '\n         'While the conditions are fascinating to biological scientists, '\n         'surface technicians are hampered by strict quarantine protocols when '\n         'carrying out routine tasks.',\n 'icon': 'graphics/icons/markets/inimical_biosphere.png',\n 'order': '30'}"
+  },
+  {
+    "key": "market_conditions.csv#water_surface$name",
+    "original": "Water-covered Surface",
+    "translation": "액체 표면",
+    "stage": 1,
+    "context": "market_conditions.csv row 0107\n[original data]\n{'name': 'Water-covered Surface',\n 'id': 'water_surface',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'This is an ocean world with no substantial solid surface to land, '\n         'walk, or build upon. Operations are complicated by the need for '\n         'specialized training and equipment.',\n 'icon': 'graphics/icons/markets/water_covered.png',\n 'order': '31'}"
+  },
+  {
+    "key": "market_conditions.csv#water_surface$desc",
+    "original": "This is an ocean world with no substantial solid surface to land, walk, or build upon. Operations are complicated by the need for specialized training and equipment.",
+    "translation": "착륙이나 활동, 건설을 행할 충분한 육지를 가지지 않은 해양 행성입니다. 활동하기 위해서는 특별한 훈련과 장비가 필요합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0107\n[original data]\n{'name': 'Water-covered Surface',\n 'id': 'water_surface',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'This is an ocean world with no substantial solid surface to land, '\n         'walk, or build upon. Operations are complicated by the need for '\n         'specialized training and equipment.',\n 'icon': 'graphics/icons/markets/water_covered.png',\n 'order': '31'}"
+  },
+  {
+    "key": "market_conditions.csv#poor_light$name",
+    "original": "Poor Light",
+    "translation": "저광",
+    "stage": 1,
+    "context": "market_conditions.csv row 0109\n[original data]\n{'name': 'Poor Light',\n 'id': 'poor_light',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"The light of $market's primary only provides feeble illumination and \"\n         'energy to this world.',\n 'icon': 'graphics/icons/markets/poor_light.png',\n 'order': '32'}"
+  },
+  {
+    "key": "market_conditions.csv#poor_light$desc",
+    "original": "The light of $market's primary only provides feeble illumination and energy to this world.",
+    "translation": "$market의 주성은 희미한 빛과 에너지만을 제공합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0109\n[original data]\n{'name': 'Poor Light',\n 'id': 'poor_light',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': \"The light of $market's primary only provides feeble illumination and \"\n         'energy to this world.',\n 'icon': 'graphics/icons/markets/poor_light.png',\n 'order': '32'}"
+  },
+  {
+    "key": "market_conditions.csv#dark$name",
+    "original": "Darkness",
+    "translation": "암흑",
+    "stage": 1,
+    "context": "market_conditions.csv row 0110\n[original data]\n{'name': 'Darkness',\n 'id': 'dark',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is dark and full of shadow, receiving '\n         'effectively zero illumination from its primary.',\n 'icon': 'graphics/icons/markets/darkness.png',\n 'order': '32'}"
+  },
+  {
+    "key": "market_conditions.csv#dark$desc",
+    "original": "The surface of $market is dark and full of shadow, receiving effectively zero illumination from its primary.",
+    "translation": "$market의 표면은 어둡고 그림자로 가득합니다. 주성으로부터 받는 빛은 없다시피 합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0110\n[original data]\n{'name': 'Darkness',\n 'id': 'dark',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'The surface of $market is dark and full of shadow, receiving '\n         'effectively zero illumination from its primary.',\n 'icon': 'graphics/icons/markets/darkness.png',\n 'order': '32'}"
+  },
+  {
+    "key": "market_conditions.csv#meteor_impacts$name",
+    "original": "Meteor Impacts",
+    "translation": "운석 충돌",
+    "stage": 1,
+    "context": "market_conditions.csv row 0112\n[original data]\n{'name': 'Meteor Impacts',\n 'id': 'meteor_impacts',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'This world is bombarded at an appalling rate by regular '\n         'meteor-showers. Any human inhabitant, however temporary, must keep a '\n         'wary eye skyward. Any permanent installations would be best buried '\n         'deep and well fortified.',\n 'icon': 'graphics/icons/markets/meteor_impacts.png',\n 'order': '33'}"
+  },
+  {
+    "key": "market_conditions.csv#meteor_impacts$desc",
+    "original": "This world is bombarded at an appalling rate by regular meteor-showers. Any human inhabitant, however temporary, must keep a wary eye skyward. Any permanent installations would be best buried deep and well fortified.",
+    "translation": "이 행성은 주기적으로 끔찍한 양의 운석 충돌을 겪습니다. 얼마나 짧게 체류할 예정이건 간에 하늘을 주의깊게 관찰해야 할 것입니다. 영구적 시설물들은 깊은 지하에, 매우 견고하게 짓는 것이 최선입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0112\n[original data]\n{'name': 'Meteor Impacts',\n 'id': 'meteor_impacts',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition',\n 'desc': 'This world is bombarded at an appalling rate by regular '\n         'meteor-showers. Any human inhabitant, however temporary, must keep a '\n         'wary eye skyward. Any permanent installations would be best buried '\n         'deep and well fortified.',\n 'icon': 'graphics/icons/markets/meteor_impacts.png',\n 'order': '33'}"
+  },
+  {
+    "key": "market_conditions.csv#pollution$name",
+    "original": "Pollution",
+    "translation": "공해",
+    "stage": 1,
+    "context": "market_conditions.csv row 0115\n[original data]\n{'name': 'Pollution',\n 'id': 'pollution',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Pollution',\n 'desc': 'Human industry has left this world filled with dioxins, sulphur '\n         'compounds, ash, and the steady ticking of decaying radioactive dust. '\n         'Scraps of plastic cling to shards of foam-metal, the sky tuned to a '\n         'dead channel.',\n 'icon': 'graphics/icons/markets/pollution.png',\n 'order': '110'}"
+  },
+  {
+    "key": "market_conditions.csv#pollution$desc",
+    "original": "Human industry has left this world filled with dioxins, sulphur compounds, ash, and the steady ticking of decaying radioactive dust. Scraps of plastic cling to shards of foam-metal, the sky tuned to a dead channel.",
+    "translation": "인류의 산업 활동이 이 행성을 다이옥신과 황 화합물, 재와 방사능 낙진으로 뒤덮었습니다. 플라스틱 조각들이 발포금속 파편에 매달리고, 하늘은 신호 없는 화면 같은 색입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0115\n[original data]\n{'name': 'Pollution',\n 'id': 'pollution',\n 'planetary': '',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.Pollution',\n 'desc': 'Human industry has left this world filled with dioxins, sulphur '\n         'compounds, ash, and the steady ticking of decaying radioactive dust. '\n         'Scraps of plastic cling to shards of foam-metal, the sky tuned to a '\n         'dead channel.',\n 'icon': 'graphics/icons/markets/pollution.png',\n 'order': '110'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_sparse$name",
+    "original": "Sparse Ore Deposits",
+    "translation": "희박한 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0118\n[original data]\n{'name': 'Sparse Ore Deposits',\n 'id': 'ore_sparse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A few sparse ore deposits exist here, but they are more of academic '\n         'than industrial interest for their extraction is barely economical.',\n 'icon': 'graphics/icons/markets/ore_sparse.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_sparse$desc",
+    "original": "A few sparse ore deposits exist here, but they are more of academic than industrial interest for their extraction is barely economical.",
+    "translation": "희박한 광맥이 몇몇 존재하지만, 채산성이 간신히 맞을 정도라 경제적보다는 학문적 가치가 더 큽니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0118\n[original data]\n{'name': 'Sparse Ore Deposits',\n 'id': 'ore_sparse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A few sparse ore deposits exist here, but they are more of academic '\n         'than industrial interest for their extraction is barely economical.',\n 'icon': 'graphics/icons/markets/ore_sparse.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_moderate$name",
+    "original": "Moderate Ore Deposits",
+    "translation": "적정한 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0119\n[original data]\n{'name': 'Moderate Ore Deposits',\n 'id': 'ore_moderate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market contains moderate ore deposits that, under the right '\n         'economic conditions, could be profitably exploited.',\n 'icon': 'graphics/icons/markets/ore_moderate.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_moderate$desc",
+    "original": "$market contains moderate ore deposits that, under the right economic conditions, could be profitably exploited.",
+    "translation": "$market에는 경제적 상황이 맞으면 이윤을 남길 수 있을 정도의 광맥들이 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0119\n[original data]\n{'name': 'Moderate Ore Deposits',\n 'id': 'ore_moderate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market contains moderate ore deposits that, under the right '\n         'economic conditions, could be profitably exploited.',\n 'icon': 'graphics/icons/markets/ore_moderate.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_abundant$name",
+    "original": "Abundant Ore Deposits",
+    "translation": "풍부한 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0120\n[original data]\n{'name': 'Abundant Ore Deposits',\n 'id': 'ore_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant, widespread, and profitably extractable ore deposits can be '\n         'found on $market.',\n 'icon': 'graphics/icons/markets/ore_abundant.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_abundant$desc",
+    "original": "Abundant, widespread, and profitably extractable ore deposits can be found on $market.",
+    "translation": "풍부하고 채산성 맞는 광맥들이 $market에 널리 퍼져있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0120\n[original data]\n{'name': 'Abundant Ore Deposits',\n 'id': 'ore_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant, widespread, and profitably extractable ore deposits can be '\n         'found on $market.',\n 'icon': 'graphics/icons/markets/ore_abundant.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_rich$name",
+    "original": "Rich Ore Deposits",
+    "translation": "고순도 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0121\n[original data]\n{'name': 'Rich Ore Deposits',\n 'id': 'ore_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Rich mineral deposits form a thick lattice within the crust of '\n         '$market but require an ambitious industrialist to exploit them for '\n         'fabulous profit.',\n 'icon': 'graphics/icons/markets/ore_rich.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_rich$desc",
+    "original": "Rich mineral deposits form a thick lattice within the crust of $market but require an ambitious industrialist to exploit them for fabulous profit.",
+    "translation": "풍부한 광맥들이 $market의 지각 아래 두터운 격자를 이루고서, 환상적인 이윤을 누릴 야심찬 산업가를 기다리고 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0121\n[original data]\n{'name': 'Rich Ore Deposits',\n 'id': 'ore_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Rich mineral deposits form a thick lattice within the crust of '\n         '$market but require an ambitious industrialist to exploit them for '\n         'fabulous profit.',\n 'icon': 'graphics/icons/markets/ore_rich.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_ultrarich$name",
+    "original": "Ultrarich Ore Deposits",
+    "translation": "초고순도 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0122\n[original data]\n{'name': 'Ultrarich Ore Deposits',\n 'id': 'ore_ultrarich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Mineral wealth exists on Midas-touched $market beyond the wildest '\n         'fantasies of the legendary mining megacorps of the Domain era.',\n 'icon': 'graphics/icons/markets/ore_ultrarich.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#ore_ultrarich$desc",
+    "original": "Mineral wealth exists on Midas-touched $market beyond the wildest fantasies of the legendary mining megacorps of the Domain era.",
+    "translation": "$market에는 미다스의 손길이 닿은 듯합니다. 도메인 시기의 거대 채광기업들조차도 꿈꾸지 못했을 규모의 광물들이 지하에 잠들어 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0122\n[original data]\n{'name': 'Ultrarich Ore Deposits',\n 'id': 'ore_ultrarich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Mineral wealth exists on Midas-touched $market beyond the wildest '\n         'fantasies of the legendary mining megacorps of the Domain era.',\n 'icon': 'graphics/icons/markets/ore_ultrarich.png',\n 'order': '50'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_sparse$name",
+    "original": "Sparse Rare Ore Deposits",
+    "translation": "희박한 희귀 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0125\n[original data]\n{'name': 'Sparse Rare Ore Deposits',\n 'id': 'rare_ore_sparse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A few sparse transplutonic ore deposits exist here, but they are '\n         'more of academic than industrial interest for their extraction is '\n         'barely economical.',\n 'icon': 'graphics/icons/markets/rareore_sparse.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_sparse$desc",
+    "original": "A few sparse transplutonic ore deposits exist here, but they are more of academic than industrial interest for their extraction is barely economical.",
+    "translation": "희박한 희귀 광맥이 몇몇 존재하지만, 채산성이 간신히 맞을 정도라 경제적보다는 학문적 가치가 더 큽니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0125\n[original data]\n{'name': 'Sparse Rare Ore Deposits',\n 'id': 'rare_ore_sparse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A few sparse transplutonic ore deposits exist here, but they are '\n         'more of academic than industrial interest for their extraction is '\n         'barely economical.',\n 'icon': 'graphics/icons/markets/rareore_sparse.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_moderate$name",
+    "original": "Moderate Rare Ore Deposits",
+    "translation": "적정한 희귀 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0126\n[original data]\n{'name': 'Moderate Rare Ore Deposits',\n 'id': 'rare_ore_moderate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market contains modest transplutonic deposits that, with sustained '\n         'industry and investment, could be profitably tapped.',\n 'icon': 'graphics/icons/markets/rareore_moderate.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_moderate$desc",
+    "original": "$market contains modest transplutonic deposits that, with sustained industry and investment, could be profitably tapped.",
+    "translation": "$market에는 지속적인 개발과 투자를 통해 이윤을 남길 수 있을 정도의 희귀 광맥들이 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0126\n[original data]\n{'name': 'Moderate Rare Ore Deposits',\n 'id': 'rare_ore_moderate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market contains modest transplutonic deposits that, with sustained '\n         'industry and investment, could be profitably tapped.',\n 'icon': 'graphics/icons/markets/rareore_moderate.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_abundant$name",
+    "original": "Abundant Rare Ore Deposits",
+    "translation": "풍부한 희귀 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0127\n[original data]\n{'name': 'Abundant Rare Ore Deposits',\n 'id': 'rare_ore_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant transplutonic deposits lay within the crust of $market, '\n         'enough to fuel the ambitions of any worthwhile warlord or magnate.',\n 'icon': 'graphics/icons/markets/rareore_abundant.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_abundant$desc",
+    "original": "Abundant transplutonic deposits lay within the crust of $market, enough to fuel the ambitions of any worthwhile warlord or magnate.",
+    "translation": "$market의 지각 아래에는 풍부한 희귀 광물들이 잠들어 있습니다. 유능한 군벌이나 광산업계 거물의 야심을 이뤄주기에 충분한 양입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0127\n[original data]\n{'name': 'Abundant Rare Ore Deposits',\n 'id': 'rare_ore_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant transplutonic deposits lay within the crust of $market, '\n         'enough to fuel the ambitions of any worthwhile warlord or magnate.',\n 'icon': 'graphics/icons/markets/rareore_abundant.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_rich$name",
+    "original": "Rich Rare Ore Deposits",
+    "translation": "고순도 희귀 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0128\n[original data]\n{'name': 'Rich Rare Ore Deposits',\n 'id': 'rare_ore_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Thick bands of transplutonics spread with glorious profusion through '\n         'the crust of $market, promising great and potent power to they who '\n         'would but reach out and take them.',\n 'icon': 'graphics/icons/markets/rareore_rich.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_rich$desc",
+    "original": "Thick bands of transplutonics spread with glorious profusion through the crust of $market, promising great and potent power to they who would but reach out and take them.",
+    "translation": "두꺼운 희귀 광물층이 간간히 $market의 지표를 뚫고서 그 영광스러운 모습을 보입니다. 차지하는 자에게는 거대하고 강력한 힘이 주어질 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0128\n[original data]\n{'name': 'Rich Rare Ore Deposits',\n 'id': 'rare_ore_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Thick bands of transplutonics spread with glorious profusion through '\n         'the crust of $market, promising great and potent power to they who '\n         'would but reach out and take them.',\n 'icon': 'graphics/icons/markets/rareore_rich.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_ultrarich$name",
+    "original": "Ultrarich Rare Ore Deposits",
+    "translation": "초고순도 희귀 광맥",
+    "stage": 1,
+    "context": "market_conditions.csv row 0129\n[original data]\n{'name': 'Ultrarich Rare Ore Deposits',\n 'id': 'rare_ore_ultrarich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The transplutonic deposits glimmering with unbelievable density on '\n         'the sensor-grid evoke portents of a power which could forge mighty '\n         'war-fleets to burn worlds to ash -- or an eon of splendour and '\n         'wealth for a polity of crystal towers as existed in the pre-collapse '\n         'cycles of the Domain.',\n 'icon': 'graphics/icons/markets/rareore_ultrarich.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#rare_ore_ultrarich$desc",
+    "original": "The transplutonic deposits glimmering with unbelievable density on the sensor-grid evoke portents of a power which could forge mighty war-fleets to burn worlds to ash -- or an eon of splendour and wealth for a polity of crystal towers as existed in the pre-collapse cycles of the Domain.",
+    "translation": "센서에서 믿을 수 없는 밀도의 희귀 광맥이 빛을 발합니다. 행성들을 불태울 전함들을 낳거나, 붕괴 이전의 부와 영광을 재건하고 영원히 유지할 수 있는 힘입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0129\n[original data]\n{'name': 'Ultrarich Rare Ore Deposits',\n 'id': 'rare_ore_ultrarich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The transplutonic deposits glimmering with unbelievable density on '\n         'the sensor-grid evoke portents of a power which could forge mighty '\n         'war-fleets to burn worlds to ash -- or an eon of splendour and '\n         'wealth for a polity of crystal towers as existed in the pre-collapse '\n         'cycles of the Domain.',\n 'icon': 'graphics/icons/markets/rareore_ultrarich.png',\n 'order': '60'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_trace$name",
+    "original": "Trace Volatiles",
+    "translation": "희박한 휘발물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0132\n[original data]\n{'name': 'Trace Volatiles',\n 'id': 'volatiles_trace',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The trace volatiles found here barely warrant harvesting.',\n 'icon': 'graphics/icons/markets/volatiles_trace.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_trace$desc",
+    "original": "The trace volatiles found here barely warrant harvesting.",
+    "translation": "이 행성에서 발견되는 휘발성 기체들은 채집할 가치가 크지 않습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0132\n[original data]\n{'name': 'Trace Volatiles',\n 'id': 'volatiles_trace',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The trace volatiles found here barely warrant harvesting.',\n 'icon': 'graphics/icons/markets/volatiles_trace.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_diffuse$name",
+    "original": "Diffuse Volatiles",
+    "translation": "흔한 휘발물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0133\n[original data]\n{'name': 'Diffuse Volatiles',\n 'id': 'volatiles_diffuse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Diffuse volatiles can be found here, and may be sufficient for '\n         'industrial extraction.',\n 'icon': 'graphics/icons/markets/volatiles_diffuse.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_diffuse$desc",
+    "original": "Diffuse volatiles can be found here, and may be sufficient for industrial extraction.",
+    "translation": "산업적으로 추출하기 충분한 양의 휘발물들이 발견됩니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0133\n[original data]\n{'name': 'Diffuse Volatiles',\n 'id': 'volatiles_diffuse',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Diffuse volatiles can be found here, and may be sufficient for '\n         'industrial extraction.',\n 'icon': 'graphics/icons/markets/volatiles_diffuse.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_abundant$name",
+    "original": "Abundant Volatiles",
+    "translation": "상당한 휘발물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0134\n[original data]\n{'name': 'Abundant Volatiles',\n 'id': 'volatiles_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant volatiles may be economically extracted from $market.',\n 'icon': 'graphics/icons/markets/volatiles_abundant.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_abundant$desc",
+    "original": "Abundant volatiles may be economically extracted from $market.",
+    "translation": "$market에서 대량의 휘발성 기체들을 경제적으로 추출할 수 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0134\n[original data]\n{'name': 'Abundant Volatiles',\n 'id': 'volatiles_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Abundant volatiles may be economically extracted from $market.',\n 'icon': 'graphics/icons/markets/volatiles_abundant.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_plentiful$name",
+    "original": "Plentiful Volatiles",
+    "translation": "풍부한 휘발물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0135\n[original data]\n{'name': 'Plentiful Volatiles',\n 'id': 'volatiles_plentiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is a world-sized wellspring of volatiles - rich, deep, and '\n         'potent.',\n 'icon': 'graphics/icons/markets/volatiles_plentiful.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#volatiles_plentiful$desc",
+    "original": "$market is a world-sized wellspring of volatiles - rich, deep, and potent.",
+    "translation": "휘발물이 솟아나는 행성 크기의 샘입니다. 풍부하고, 깊으며, 순도가 높습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0135\n[original data]\n{'name': 'Plentiful Volatiles',\n 'id': 'volatiles_plentiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is a world-sized wellspring of volatiles - rich, deep, and '\n         'potent.',\n 'icon': 'graphics/icons/markets/volatiles_plentiful.png',\n 'order': '40'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_trace$name",
+    "original": "Trace Organics",
+    "translation": "희박한 유기물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0138\n[original data]\n{'name': 'Trace Organics',\n 'id': 'organics_trace',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is nearly barren of organics reserves, though some '\n         'extraction is possible.',\n 'icon': 'graphics/icons/markets/organics_trace.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_trace$desc",
+    "original": "$market is nearly barren of organics reserves, though some extraction is possible.",
+    "translation": "$market의 유기물은 거의 메말랐지만, 어느 정도의 추출은 가능합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0138\n[original data]\n{'name': 'Trace Organics',\n 'id': 'organics_trace',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is nearly barren of organics reserves, though some '\n         'extraction is possible.',\n 'icon': 'graphics/icons/markets/organics_trace.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_common$name",
+    "original": "Common Organics",
+    "translation": "흔한 유기물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0139\n[original data]\n{'name': 'Common Organics',\n 'id': 'organics_common',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Economically exploitable reserves of organics can be found on '\n         '$market.',\n 'icon': 'graphics/icons/markets/organics_common.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_common$desc",
+    "original": "Economically exploitable reserves of organics can be found on $market.",
+    "translation": "경제적으로 개발할 수 있는 양의 유기물이 발견됩니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0139\n[original data]\n{'name': 'Common Organics',\n 'id': 'organics_common',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Economically exploitable reserves of organics can be found on '\n         '$market.',\n 'icon': 'graphics/icons/markets/organics_common.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_abundant$name",
+    "original": "Abundant Organics",
+    "translation": "상당한 유기물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0140\n[original data]\n{'name': 'Abundant Organics',\n 'id': 'organics_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A river of wealth flows beneath the surface of $market - for those '\n         'that would find and tap it.',\n 'icon': 'graphics/icons/markets/organics_abundant.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_abundant$desc",
+    "original": "A river of wealth flows beneath the surface of $market - for those that would find and tap it.",
+    "translation": "$market의 지면 아래에 유기물의 강이 흐릅니다. 찾아내는 이는 상당한 부를 손에 넣을 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0140\n[original data]\n{'name': 'Abundant Organics',\n 'id': 'organics_abundant',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A river of wealth flows beneath the surface of $market - for those '\n         'that would find and tap it.',\n 'icon': 'graphics/icons/markets/organics_abundant.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_plentiful$name",
+    "original": "Plentiful Organics",
+    "translation": "풍족한 유기물",
+    "stage": 1,
+    "context": "market_conditions.csv row 0141\n[original data]\n{'name': 'Plentiful Organics',\n 'id': 'organics_plentiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Reservoirs of valuable organics burst through the surface of $market '\n         'in gouts over deep, dark pools that promise oceans of wealth to be '\n         'found just below.',\n 'icon': 'graphics/icons/markets/organics_plentiful.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#organics_plentiful$desc",
+    "original": "Reservoirs of valuable organics burst through the surface of $market in gouts over deep, dark pools that promise oceans of wealth to be found just below.",
+    "translation": "귀중한 유기물들이 $market의 지표를 뚫고 검은 웅덩이와 물줄기를 뿜어냅니다. 땅 밑에는 풍요로운 유기물의 바다가 기다리고 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0141\n[original data]\n{'name': 'Plentiful Organics',\n 'id': 'organics_plentiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Reservoirs of valuable organics burst through the surface of $market '\n         'in gouts over deep, dark pools that promise oceans of wealth to be '\n         'found just below.',\n 'icon': 'graphics/icons/markets/organics_plentiful.png',\n 'order': '38'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_poor$name",
+    "original": "Poor Farmland",
+    "translation": "척박한 농지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0144\n[original data]\n{'name': 'Poor Farmland',\n 'id': 'farmland_poor',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Plant life grows only stunted and wearily here. It would require '\n         'farmers with talent equal to their desperation to make these lands '\n         'bear fruit.',\n 'icon': 'graphics/icons/markets/farmland_poor.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_poor$desc",
+    "original": "Plant life grows only stunted and wearily here. It would require farmers with talent equal to their desperation to make these lands bear fruit.",
+    "translation": "식물들은 왜소하고 힘없이 자랍니다. 과실을 거두려는 농부는 절박한 만큼 재능도 있어야 할 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0144\n[original data]\n{'name': 'Poor Farmland',\n 'id': 'farmland_poor',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'Plant life grows only stunted and wearily here. It would require '\n         'farmers with talent equal to their desperation to make these lands '\n         'bear fruit.',\n 'icon': 'graphics/icons/markets/farmland_poor.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_adequate$name",
+    "original": "Adequate Farmland",
+    "translation": "적합한 농지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0145\n[original data]\n{'name': 'Adequate Farmland',\n 'id': 'farmland_adequate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A robust terran-compatible biosphere allows agricultural cultivation '\n         'to take place on $market.',\n 'icon': 'graphics/icons/markets/farmland_adequate.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_adequate$desc",
+    "original": "A robust terran-compatible biosphere allows agricultural cultivation to take place on $market.",
+    "translation": "$market의 생태계는 건강하고 지구 생물과 호환되어, 농업에 적합합니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0145\n[original data]\n{'name': 'Adequate Farmland',\n 'id': 'farmland_adequate',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'A robust terran-compatible biosphere allows agricultural cultivation '\n         'to take place on $market.',\n 'icon': 'graphics/icons/markets/farmland_adequate.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_rich$name",
+    "original": "Rich Farmland",
+    "translation": "비옥한 농지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0146\n[original data]\n{'name': 'Rich Farmland',\n 'id': 'farmland_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The fields of $market promise a rich harvest to reward the farmers '\n         'that work these fertile lands.',\n 'icon': 'graphics/icons/markets/farmland_rich.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_rich$desc",
+    "original": "The fields of $market promise a rich harvest to reward the farmers that work these fertile lands.",
+    "translation": "$market의 비옥한 토지를 경작하는 이들에게는 풍작이 따를 것입니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0146\n[original data]\n{'name': 'Rich Farmland',\n 'id': 'farmland_rich',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': 'The fields of $market promise a rich harvest to reward the farmers '\n         'that work these fertile lands.',\n 'icon': 'graphics/icons/markets/farmland_rich.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_bountiful$name",
+    "original": "Bountiful Farmland",
+    "translation": "풍족한 농지",
+    "stage": 1,
+    "context": "market_conditions.csv row 0147\n[original data]\n{'name': 'Bountiful Farmland',\n 'id': 'farmland_bountiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is a veritable Eden; flowering, riotous, lush, and luminous '\n         'with plant life. Branches hang low, laden with fruit; fields of '\n         'golden grain shimmer in the herbaceous breeze.',\n 'icon': 'graphics/icons/markets/farmland_bountiful.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#farmland_bountiful$desc",
+    "original": "$market is a veritable Eden; flowering, riotous, lush, and luminous with plant life. Branches hang low, laden with fruit; fields of golden grain shimmer in the herbaceous breeze.",
+    "translation": "$market의 토양은 지상낙원의 그것입니다. 찬란한 꽃과 풀들이 가득하고 묵직한 열매를 맺은 나뭇가지들이 늘어집니다. 드넓은 논밭이 금빛으로 물들어, 꽃내음 나는 바람을 따라 물결칩니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0147\n[original data]\n{'name': 'Bountiful Farmland',\n 'id': 'farmland_bountiful',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition',\n 'desc': '$market is a veritable Eden; flowering, riotous, lush, and luminous '\n         'with plant life. Branches hang low, laden with fruit; fields of '\n         'golden grain shimmer in the herbaceous breeze.',\n 'icon': 'graphics/icons/markets/farmland_bountiful.png',\n 'order': '70'}"
+  },
+  {
+    "key": "market_conditions.csv#solar_array$name",
+    "original": "Orbital Solar Array",
+    "translation": "궤도 광학설비",
+    "stage": 1,
+    "context": "market_conditions.csv row 0149\n[original data]\n{'name': 'Orbital Solar Array',\n 'id': 'solar_array',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.SolarArray',\n 'desc': 'This planet has an array of solar shades or mirrors in orbit, '\n         'judiciously positioned to bring its surface conditions closer to '\n         'terran norms.',\n 'icon': 'graphics/icons/markets/solar_shade.png',\n 'order': '101'}"
+  },
+  {
+    "key": "market_conditions.csv#solar_array$desc",
+    "original": "This planet has an array of solar shades or mirrors in orbit, judiciously positioned to bring its surface conditions closer to terran norms.",
+    "translation": "행성 궤도에 태양광 가리개나 거울들이, 지표를 지구 환경에 가까워지도록 적절한 위치에 배치되어 있습니다.",
+    "stage": 1,
+    "context": "market_conditions.csv row 0149\n[original data]\n{'name': 'Orbital Solar Array',\n 'id': 'solar_array',\n 'planetary': 'TRUE',\n 'decivRemove': '',\n 'script': 'com.fs.starfarer.api.impl.campaign.econ.SolarArray',\n 'desc': 'This planet has an array of solar shades or mirrors in orbit, '\n         'judiciously positioned to bring its surface conditions closer to '\n         'terran norms.',\n 'icon': 'graphics/icons/markets/solar_shade.png',\n 'order': '101'}"
+  }
+]

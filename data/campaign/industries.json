@@ -1,0 +1,464 @@
+[
+  {
+    "key": "industries.csv#population$name",
+    "original": "Population & Infrastructure",
+    "translation": "인구 및 기반시설",
+    "stage": 3,
+    "context": "industries.csv row 0001\n[original data]\n{'id': 'population',\n 'name': 'Population & Infrastructure',\n 'cost mult': '',\n 'build time': '',\n 'income': '10',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'population, unraidable, no_saturation_bombardment',\n 'data': '',\n 'image': 'graphics/icons/industry/population.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.PopulationAndInfrastructure',\n 'desc': 'The basic infrastructure required to support a given population, '\n         'from rickety orbital hab-modules to megacities and everything '\n         'between.',\n 'order': '100',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#population$desc",
+    "original": "The basic infrastructure required to support a given population, from rickety orbital hab-modules to megacities and everything between.",
+    "translation": "허술한 궤도 거주 모듈에서부터 거대도시까지 어디서든, 인구를 부양하는데 필요한 기초 기반시설입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0001\n[original data]\n{'id': 'population',\n 'name': 'Population & Infrastructure',\n 'cost mult': '',\n 'build time': '',\n 'income': '10',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'population, unraidable, no_saturation_bombardment',\n 'data': '',\n 'image': 'graphics/icons/industry/population.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.PopulationAndInfrastructure',\n 'desc': 'The basic infrastructure required to support a given population, '\n         'from rickety orbital hab-modules to megacities and everything '\n         'between.',\n 'order': '100',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#farming$name",
+    "original": "Farming",
+    "translation": "농업",
+    "stage": 3,
+    "context": "industries.csv row 0002\n[original data]\n{'id': 'farming',\n 'name': 'Farming',\n 'cost mult': '15',\n 'build time': '60',\n 'income': '',\n 'upkeep': '1',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'farming, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/farming.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Farming',\n 'desc': 'Agriculture is a trade and technology as old as civilization itself; '\n         'for thousands of cycles Humanity has harnessed the power of natural, '\n         'modified, and artificial biological machines for sustenance. So it '\n         'has always been, so it shall be so long as humans are human.',\n 'order': '200',\n 'disruptDanger': 'LOW'}"
+  },
+  {
+    "key": "industries.csv#farming$desc",
+    "original": "Agriculture is a trade and technology as old as civilization itself; for thousands of cycles Humanity has harnessed the power of natural, modified, and artificial biological machines for sustenance. So it has always been, so it shall be so long as humans are human.",
+    "translation": "농업은 문명 그 자체만큼이나 오래된 거래이자 기술입니다. 수천 년 동안 인류는 자연적, 변형된, 혹은 인공적인 생체 기계의 힘으로 생명을 유지해 왔습니다. 그래서 항상 그래왔고, 인간이 인간인 한 오래도록 그럴 것입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0002\n[original data]\n{'id': 'farming',\n 'name': 'Farming',\n 'cost mult': '15',\n 'build time': '60',\n 'income': '',\n 'upkeep': '1',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'farming, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/farming.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Farming',\n 'desc': 'Agriculture is a trade and technology as old as civilization itself; '\n         'for thousands of cycles Humanity has harnessed the power of natural, '\n         'modified, and artificial biological machines for sustenance. So it '\n         'has always been, so it shall be so long as humans are human.',\n 'order': '200',\n 'disruptDanger': 'LOW'}"
+  },
+  {
+    "key": "industries.csv#aquaculture$name",
+    "original": "Aquaculture",
+    "translation": "양식업",
+    "stage": 1,
+    "context": "industries.csv row 0003\n[original data]\n{'id': 'aquaculture',\n 'name': 'Aquaculture',\n 'cost mult': '50',\n 'build time': '60',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'farming, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/aquaculture.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Farming',\n 'desc': 'Farming on a water world requires a significant initial investment '\n         'in bioengineering suitable species, but once the process takes off, '\n         'algae farms and fisheries can be operated by the population without '\n         'requiring much in the way of specialized training or equipment.',\n 'order': '210',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#aquaculture$desc",
+    "original": "Farming on a water world requires a significant initial investment in bioengineering suitable species, but once the process takes off, algae farms and fisheries can be operated by the population without requiring much in the way of specialized training or equipment.",
+    "translation": "해양 행성에서 농사를 지으려면 적합한 종을 생물공학적으로 제작하기 위해 상당한 초기 투자가 필요하지만, 일단 세워진 조류 농장과 어장은 전문 훈련이나 장비를 많이 필요로 하지 않아 현지인들에 의해 운영될 수 있습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0003\n[original data]\n{'id': 'aquaculture',\n 'name': 'Aquaculture',\n 'cost mult': '50',\n 'build time': '60',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'farming, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/aquaculture.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Farming',\n 'desc': 'Farming on a water world requires a significant initial investment '\n         'in bioengineering suitable species, but once the process takes off, '\n         'algae farms and fisheries can be operated by the population without '\n         'requiring much in the way of specialized training or equipment.',\n 'order': '210',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#mining$name",
+    "original": "Mining",
+    "translation": "광업",
+    "stage": 3,
+    "context": "industries.csv row 0004\n[original data]\n{'id': 'mining',\n 'name': 'Mining',\n 'cost mult': '20',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'mining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/mining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Mining',\n 'desc': 'Metal and metalloid ores, organics, and volatile compounds all '\n         'require heavy equipment, special infrastructure, and a skilled '\n         'workforce to extract. The harsh work attracts a certain type, and an '\n         \"administration that's not willing to look the other way now and \"\n         'again may find itself running short of willing personnel.',\n 'order': '300',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#mining$desc",
+    "original": "Metal and metalloid ores, organics, and volatile compounds all require heavy equipment, special infrastructure, and a skilled workforce to extract. The harsh work attracts a certain type, and an administration that's not willing to look the other way now and again may find itself running short of willing personnel.",
+    "translation": "금속과 준금속, 유기물과 휘발성 화합물을 추출하기 위해서는 중장비, 특수 기반시설 그리고 숙련된 인부가 필요합니다. 이 고된 작업에 나서는 것은 주로 특정한 부류의 인간 군상으로, 행정국에서 여러 가지를 눈감아주지 않는다면 인력난에 시달릴 수도 있습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0004\n[original data]\n{'id': 'mining',\n 'name': 'Mining',\n 'cost mult': '20',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'mining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/mining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Mining',\n 'desc': 'Metal and metalloid ores, organics, and volatile compounds all '\n         'require heavy equipment, special infrastructure, and a skilled '\n         'workforce to extract. The harsh work attracts a certain type, and an '\n         \"administration that's not willing to look the other way now and \"\n         'again may find itself running short of willing personnel.',\n 'order': '300',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#techmining$name",
+    "original": "Tech-Mining",
+    "translation": "기술광업",
+    "stage": 1,
+    "context": "industries.csv row 0005\n[original data]\n{'id': 'techmining',\n 'name': 'Tech-Mining',\n 'cost mult': '30',\n 'build time': '45',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'techmining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/techmining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.TechMining',\n 'desc': 'Techmining is the motley art of recovering valuable artifacts from '\n         'Domain ruins. Requires special tools to deal with unique hazards and '\n         'expert judgement to know where to look for a good haul of baubles. '\n         'The oldest techminers are a strange lot, clutching luck-charms and '\n         'refusing to work without their rituals.',\n 'order': '400',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#techmining$desc",
+    "original": "Techmining is the motley art of recovering valuable artifacts from Domain ruins. Requires special tools to deal with unique hazards and expert judgement to know where to look for a good haul of baubles. The oldest techminers are a strange lot, clutching luck-charms and refusing to work without their rituals.",
+    "translation": "기술광업은 도메인 시기 유적에서 유용한 유물들을 회수하는 데 관련된 잡다한 기술들입니다. 특이한 위험들에 대응하기 위한 특수 도구들과, 좋은 물건들을 많이 찾을 수 있는 장소를 가려내는 전문적인 판단이 필요합니다. 오래 종사한 기술광부들은 괴팍한 무리이며, 행운의 부적을 들고 다니고 자기네 의식을 치르기 전에는 작업을 하려 들지 않습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0005\n[original data]\n{'id': 'techmining',\n 'name': 'Tech-Mining',\n 'cost mult': '30',\n 'build time': '45',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'techmining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/techmining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.TechMining',\n 'desc': 'Techmining is the motley art of recovering valuable artifacts from '\n         'Domain ruins. Requires special tools to deal with unique hazards and '\n         'expert judgement to know where to look for a good haul of baubles. '\n         'The oldest techminers are a strange lot, clutching luck-charms and '\n         'refusing to work without their rituals.',\n 'order': '400',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#refining$name",
+    "original": "Refining",
+    "translation": "정련업",
+    "stage": 1,
+    "context": "industries.csv row 0006\n[original data]\n{'id': 'refining',\n 'name': 'Refining',\n 'cost mult': '45',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'refining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/refining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Refining',\n 'desc': 'Smelting plants here convert ores and transplutonic ores into metals '\n         'and transplutonics, respectively. Teleoperated robotics are used to '\n         'handle the most dangerous tasks, usually.',\n 'order': '500',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#refining$desc",
+    "original": "Smelting plants here convert ores and transplutonic ores into metals and transplutonics, respectively. Teleoperated robotics are used to handle the most dangerous tasks, usually.",
+    "translation": "이곳의 제련 공장은 광물과 전플루토늄성 광물을 각각 금속과 전플루토늄물로 전환합니다. 대부분의 위험한 작업은 원격 조종 로봇을 통해 이뤄집니다.",
+    "stage": 1,
+    "context": "industries.csv row 0006\n[original data]\n{'id': 'refining',\n 'name': 'Refining',\n 'cost mult': '45',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'refining, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/refining.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Refining',\n 'desc': 'Smelting plants here convert ores and transplutonic ores into metals '\n         'and transplutonics, respectively. Teleoperated robotics are used to '\n         'handle the most dangerous tasks, usually.',\n 'order': '500',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#spaceport$name",
+    "original": "Spaceport",
+    "translation": "우주항",
+    "stage": 3,
+    "context": "industries.csv row 0007\n[original data]\n{'id': 'spaceport',\n 'name': 'Spaceport',\n 'cost mult': '10',\n 'build time': '15',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'megaport',\n 'tags': 'spaceport, important, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/spaceport.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport',\n 'desc': 'Facilities for loading and unloading cargo and performing basic '\n         'starship repairs. A colony without a spaceport is virtually '\n         'inaccessible to interstellar trade.',\n 'order': '150',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#spaceport$desc",
+    "original": "Facilities for loading and unloading cargo and performing basic starship repairs. A colony without a spaceport is virtually inaccessible to interstellar trade.",
+    "translation": "화물을 하역하고 기본적인 우주선 수리를 수행하는 시설입니다. 우주항이 없는 식민지는 사실상 성간 교역에 접근할 수 없습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0007\n[original data]\n{'id': 'spaceport',\n 'name': 'Spaceport',\n 'cost mult': '10',\n 'build time': '15',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'megaport',\n 'tags': 'spaceport, important, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/spaceport.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport',\n 'desc': 'Facilities for loading and unloading cargo and performing basic '\n         'starship repairs. A colony without a spaceport is virtually '\n         'inaccessible to interstellar trade.',\n 'order': '150',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#megaport$name",
+    "original": "Megaport",
+    "translation": "거대우주항",
+    "stage": 1,
+    "context": "industries.csv row 0008\n[original data]\n{'id': 'megaport',\n 'name': 'Megaport',\n 'cost mult': '60',\n 'build time': '150',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'spaceport',\n 'upgrade': '',\n 'tags': 'spaceport, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/megaport.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport',\n 'desc': 'A vast starport where the stars can touch the dirt. Regimented '\n         'lander gantries and armoured fuel tanks are laced together by '\n         'access-roads and short-haul cargo trams feeding a sprawl of '\n         'warehouse districts and logistics terminals, all making the colony '\n         'vastly more accessible.',\n 'order': '151',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#megaport$desc",
+    "original": "A vast starport where the stars can touch the dirt. Regimented lander gantries and armoured fuel tanks are laced together by access-roads and short-haul cargo trams feeding a sprawl of warehouse districts and logistics terminals, all making the colony vastly more accessible.",
+    "translation": "별과 땅이 맞닿는 광활한 우주항입니다. 열을 맞춰 늘어선 착륙정 지지대들과 강화된 연료 탱크들이 진입로와 단거리 화물 트램 노선으로 엮여 거대한 창고 구획과 물류 터미널로 이어집니다. 이 모두가 식민지의 접근성을 광대하게 높입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0008\n[original data]\n{'id': 'megaport',\n 'name': 'Megaport',\n 'cost mult': '60',\n 'build time': '150',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'spaceport',\n 'upgrade': '',\n 'tags': 'spaceport, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/megaport.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport',\n 'desc': 'A vast starport where the stars can touch the dirt. Regimented '\n         'lander gantries and armoured fuel tanks are laced together by '\n         'access-roads and short-haul cargo trams feeding a sprawl of '\n         'warehouse districts and logistics terminals, all making the colony '\n         'vastly more accessible.',\n 'order': '151',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#lightindustry$name",
+    "original": "Light Industry",
+    "translation": "경공업",
+    "stage": 3,
+    "context": "industries.csv row 0009\n[original data]\n{'id': 'lightindustry',\n 'name': 'Light Industry',\n 'cost mult': '45',\n 'build time': '90',\n 'income': '',\n 'upkeep': '8',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'lightindustry, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/light_industry.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.LightIndustry',\n 'desc': 'Produces domestic and luxury goods. One of the few industries '\n         'relatively unaffected by the Collapse due to its low-tech nature.',\n 'order': '1400',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#lightindustry$desc",
+    "original": "Produces domestic and luxury goods. One of the few industries relatively unaffected by the Collapse due to its low-tech nature.",
+    "translation": "생활용품과 사치품을 생산합니다. 기술 수준이 낮은 특성상 대붕괴의 영향을 비교적 받지 않은 소수의 산업 중 하나입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0009\n[original data]\n{'id': 'lightindustry',\n 'name': 'Light Industry',\n 'cost mult': '45',\n 'build time': '90',\n 'income': '',\n 'upkeep': '8',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'lightindustry, industry, rural',\n 'data': '',\n 'image': 'graphics/icons/industry/light_industry.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.LightIndustry',\n 'desc': 'Produces domestic and luxury goods. One of the few industries '\n         'relatively unaffected by the Collapse due to its low-tech nature.',\n 'order': '1400',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#heavyindustry$name",
+    "original": "Heavy Industry",
+    "translation": "중공업",
+    "stage": 3,
+    "context": "industries.csv row 0010\n[original data]\n{'id': 'heavyindustry',\n 'name': 'Heavy Industry',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '12',\n 'downgrade': '',\n 'upgrade': 'orbitalworks',\n 'tags': 'heavyindustry, uses_blueprints, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/heavy_industry.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry',\n 'desc': 'Centralized manufacturing infrastructure for production of heavy '\n         'industrial equipment, supplies, and weapons. Also capable of '\n         'producing barely-spaceworthy starships; a nanoforge can be installed '\n         'to improve production quality.',\n 'order': '1600',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#heavyindustry$desc",
+    "original": "Centralized manufacturing infrastructure for production of heavy industrial equipment, supplies, and weapons. Also capable of producing barely-spaceworthy starships; a nanoforge can be installed to improve production quality.",
+    "translation": "중공업 장비, 보급품과 무기를 생산하기 위한 중앙화 제조 기반시설입니다. 또한, 간신히 우주여행이 가능한 수준의 함선을 건조할 수 있습니다. 나노제철소를 설치하여 생산 품질을 향상시킬 수 있습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0010\n[original data]\n{'id': 'heavyindustry',\n 'name': 'Heavy Industry',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '12',\n 'downgrade': '',\n 'upgrade': 'orbitalworks',\n 'tags': 'heavyindustry, uses_blueprints, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/heavy_industry.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry',\n 'desc': 'Centralized manufacturing infrastructure for production of heavy '\n         'industrial equipment, supplies, and weapons. Also capable of '\n         'producing barely-spaceworthy starships; a nanoforge can be installed '\n         'to improve production quality.',\n 'order': '1600',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#orbitalworks$name",
+    "original": "Orbital Works",
+    "translation": "궤도 공업",
+    "stage": 3,
+    "context": "industries.csv row 0011\n[original data]\n{'id': 'orbitalworks',\n 'name': 'Orbital Works',\n 'cost mult': '60',\n 'build time': '150',\n 'income': '',\n 'upkeep': '12',\n 'downgrade': 'heavyindustry',\n 'upgrade': '',\n 'tags': 'heavyindustry, uses_blueprints, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/orbital_works.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry',\n 'desc': 'Centralized manufacturing infrastructure for production of heavy '\n         'industrial equipment, supplies, and weapons. Also capable of '\n         'producing barely-spaceworthy starships; a nanoforge can be installed '\n         'to improve production quality.\n'\n         '\n'\n         'Upgraded with an orbital component that further facilitates ship '\n         'construction, resulting in fewer manufacturing defects.',\n 'order': '1700',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#orbitalworks$desc",
+    "original": "Centralized manufacturing infrastructure for production of heavy industrial equipment, supplies, and weapons. Also capable of producing barely-spaceworthy starships; a nanoforge can be installed to improve production quality.\\n\\nUpgraded with an orbital component that further facilitates ship construction, resulting in fewer manufacturing defects.",
+    "translation": "중공업 장비, 보급품과 무기를 생산하기 위한 중앙화 제조 기반시설입니다. 또한, 간신히 우주여행이 가능한 수준의 함선을 건조할 수 있습니다. 나노제철소를 설치하여 생산 품질을 향상시킬 수 있습니다.\\n\\n함선 건조를 더 용이하게 하는 궤도 구성품으로 격상되어 제조결함이 줄었습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0011\n[original data]\n{'id': 'orbitalworks',\n 'name': 'Orbital Works',\n 'cost mult': '60',\n 'build time': '150',\n 'income': '',\n 'upkeep': '12',\n 'downgrade': 'heavyindustry',\n 'upgrade': '',\n 'tags': 'heavyindustry, uses_blueprints, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/orbital_works.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry',\n 'desc': 'Centralized manufacturing infrastructure for production of heavy '\n         'industrial equipment, supplies, and weapons. Also capable of '\n         'producing barely-spaceworthy starships; a nanoforge can be installed '\n         'to improve production quality.\n'\n         '\n'\n         'Upgraded with an orbital component that further facilitates ship '\n         'construction, resulting in fewer manufacturing defects.',\n 'order': '1700',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#fuelprod$name",
+    "original": "Fuel Production",
+    "translation": "연료 생산업",
+    "stage": 1,
+    "context": "industries.csv row 0012\n[original data]\n{'id': 'fuelprod',\n 'name': 'Fuel Production',\n 'cost mult': '90',\n 'build time': '120',\n 'income': '',\n 'upkeep': '10',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'fuelprod, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/fuel_production.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.FuelProduction',\n 'desc': 'This facility produces starship fuel, the life-blood of interstellar '\n         'civilization. Lacking Domain-tech components, fuel production is a '\n         'laborious and slow process.',\n 'order': '1800',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#fuelprod$desc",
+    "original": "This facility produces starship fuel, the life-blood of interstellar civilization. Lacking Domain-tech components, fuel production is a laborious and slow process.",
+    "translation": "이 시설은 성간 문명의 정혈인 우주선 연료를 생산합니다. 도메인급 기술 수준의 구성품이 없는 연료 생산은 수고롭고 느린 공정입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0012\n[original data]\n{'id': 'fuelprod',\n 'name': 'Fuel Production',\n 'cost mult': '90',\n 'build time': '120',\n 'income': '',\n 'upkeep': '10',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'fuelprod, industry, industrial',\n 'data': '',\n 'image': 'graphics/icons/industry/fuel_production.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.FuelProduction',\n 'desc': 'This facility produces starship fuel, the life-blood of interstellar '\n         'civilization. Lacking Domain-tech components, fuel production is a '\n         'laborious and slow process.',\n 'order': '1800',\n 'disruptDanger': 'HIGH'}"
+  },
+  {
+    "key": "industries.csv#commerce$name",
+    "original": "Commerce",
+    "translation": "상업",
+    "stage": 3,
+    "context": "industries.csv row 0014\n[original data]\n{'id': 'commerce',\n 'name': 'Commerce',\n 'cost mult': '90',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'industry, urban',\n 'data': '',\n 'image': 'graphics/icons/industry/commerce.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.TradeCenter',\n 'desc': 'Regulations, grants, and infrastructure to encourage thriving '\n         'independent trade. Greatly reduces the degree of direct control the '\n         'administration has over the colony.',\n 'order': '1950',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#commerce$desc",
+    "original": "Regulations, grants, and infrastructure to encourage thriving independent trade. Greatly reduces the degree of direct control the administration has over the colony.",
+    "translation": "번창하는 자유무역을 장려하기 위한 규정, 보조금 및 기반시설입니다. 행정부가 식민지를 직접 통제하는 정도를 크게 줄입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0014\n[original data]\n{'id': 'commerce',\n 'name': 'Commerce',\n 'cost mult': '90',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'industry, urban',\n 'data': '',\n 'image': 'graphics/icons/industry/commerce.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.TradeCenter',\n 'desc': 'Regulations, grants, and infrastructure to encourage thriving '\n         'independent trade. Greatly reduces the degree of direct control the '\n         'administration has over the colony.',\n 'order': '1950',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#station_base$name",
+    "original": "Orbital Station",
+    "translation": "궤도 정거장",
+    "stage": 3,
+    "context": "industries.csv row 0015\n[original data]\n{'id': 'station_base',\n 'name': 'Orbital Station',\n 'cost mult': '',\n 'build time': '',\n 'income': '',\n 'upkeep': '',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'station, parent_item, important, structure',\n 'data': 'station',\n 'image': 'graphics/icons/industry/station_category.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station that is capable of supporting friendly fleets near '\n         '$market and must be reduced before invasions or bombardment can be '\n         'attempted.\n'\n         '\n'\n         'Several variations are available, with differences generally being '\n         'in tactical approaches rather than overall strength.',\n 'order': '2000',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#station_base$desc",
+    "original": "A space station that is capable of supporting friendly fleets near $market and must be reduced before invasions or bombardment can be attempted.\\n\\nSeveral variations are available, with differences generally being in tactical approaches rather than overall strength.",
+    "translation": "\"$market 주변의 아군 함대를 지원할 수 있는 궤도 정거장입니다. 침입이나 폭격을 가하기 위해서는 정거장을 무력화해야 합니다.\\n\\n다수의 변종이 이용 가능하며, 대체로 전체적 위력보다는 전술적 접근법에서 차이를 가집니다.",
+    "stage": 1,
+    "context": "industries.csv row 0015\n[original data]\n{'id': 'station_base',\n 'name': 'Orbital Station',\n 'cost mult': '',\n 'build time': '',\n 'income': '',\n 'upkeep': '',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'station, parent_item, important, structure',\n 'data': 'station',\n 'image': 'graphics/icons/industry/station_category.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station that is capable of supporting friendly fleets near '\n         '$market and must be reduced before invasions or bombardment can be '\n         'attempted.\n'\n         '\n'\n         'Several variations are available, with differences generally being '\n         'in tactical approaches rather than overall strength.',\n 'order': '2000',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation$name",
+    "original": "Orbital Station - Low Tech",
+    "translation": "궤도 정거장 - 초기형",
+    "stage": 1,
+    "context": "industries.csv row 0016\n[original data]\n{'id': 'orbitalstation',\n 'name': 'Orbital Station - Low Tech',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A low-tech space station, featuring heavy armor and medium '\n         'firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2010',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation$desc",
+    "original": "A low-tech space station, featuring heavy armor and medium firepower.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "두꺼운 장갑과 중간 수준의 화력을 갖춘 초기형 우주 정거장입니다.\\n\\n침공이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0016\n[original data]\n{'id': 'orbitalstation',\n 'name': 'Orbital Station - Low Tech',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A low-tech space station, featuring heavy armor and medium '\n         'firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2010',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation$name",
+    "original": "Battlestation - Low Tech",
+    "translation": "전투 정거장 - 초기형",
+    "stage": 1,
+    "context": "industries.csv row 0017\n[original data]\n{'id': 'battlestation',\n 'name': 'Battlestation - Low Tech',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation',\n 'upgrade': 'starfortress',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with a heavy bastion and point-defense '\n         'citadels.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2020',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation$desc",
+    "original": "A space station, augmented with a heavy bastion and point-defense citadels.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "중무장 보루와 거점 방위 요새가 추가된 우주 정거장입니다.\\n\\n침략이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0017\n[original data]\n{'id': 'battlestation',\n 'name': 'Battlestation - Low Tech',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation',\n 'upgrade': 'starfortress',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with a heavy bastion and point-defense '\n         'citadels.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2020',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress$name",
+    "original": "Star Fortress - Low Tech",
+    "translation": "항성 요새 - 초기형",
+    "stage": 1,
+    "context": "industries.csv row 0018\n[original data]\n{'id': 'starfortress',\n 'name': 'Star Fortress - Low Tech',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Merlon-class defense drones '\n         'and an extensive minefield.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2030',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress$desc",
+    "original": "An up-armored battlestation, featuring Merlon-class defense drones and an extensive minefield.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "멀론급 방어 드론과 광범위한 기뢰밭을 추가로 탑재하였으며 장갑이 증강된 전투 정거장입니다\\n\\n침략이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0018\n[original data]\n{'id': 'starfortress',\n 'name': 'Star Fortress - Low Tech',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Merlon-class defense drones '\n         'and an extensive minefield.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2030',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation_mid$name",
+    "original": "Orbital Station - Midline",
+    "translation": "궤도 정거장 - 중기형",
+    "stage": 1,
+    "context": "industries.csv row 0019\n[original data]\n{'id': 'orbitalstation_mid',\n 'name': 'Orbital Station - Midline',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation_mid',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_midline_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A midline space station, featuring heavy firepower on one side and '\n         'rapid axial rotation.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2040',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation_mid$desc",
+    "original": "A midline space station, featuring heavy firepower on one side and rapid axial rotation.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "중기형 우주 정거장으로, 한쪽 면에 강력한 화력을 갖추고 있으며 빠른 회전이 특징입니다..\\n\\n침략이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0019\n[original data]\n{'id': 'orbitalstation_mid',\n 'name': 'Orbital Station - Midline',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation_mid',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_midline_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A midline space station, featuring heavy firepower on one side and '\n         'rapid axial rotation.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2040',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation_mid$name",
+    "original": "Battlestation - Midline",
+    "translation": "전투 정거장 - 중기형",
+    "stage": 1,
+    "context": "industries.csv row 0020\n[original data]\n{'id': 'battlestation_mid',\n 'name': 'Battlestation - Midline',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation_mid',\n 'upgrade': 'starfortress_mid',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_midline_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with missile support modules.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2050',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation_mid$desc",
+    "original": "A space station, augmented with missile support modules.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "미사일 지원 모듈이 추가된 우주 정거장입니다.\\n\\n침략이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0020\n[original data]\n{'id': 'battlestation_mid',\n 'name': 'Battlestation - Midline',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation_mid',\n 'upgrade': 'starfortress_mid',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_midline_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with missile support modules.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2050',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress_mid$name",
+    "original": "Star Fortress - Midline",
+    "translation": "항성 요새 - 중기형",
+    "stage": 1,
+    "context": "industries.csv row 0021\n[original data]\n{'id': 'starfortress_mid',\n 'name': 'Star Fortress - Midline',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation_mid',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_midline_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Ravelin-class defense drones '\n         'and an extensive minefield.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2060',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress_mid$desc",
+    "original": "An up-armored battlestation, featuring Ravelin-class defense drones and an extensive minefield.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "라벨린급 방어 드론과 광범위한 기뢰밭을 추가로 탑재하였으며 장갑이 증강된 전투 정거장입니다.\\n\\n침공이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0021\n[original data]\n{'id': 'starfortress_mid',\n 'name': 'Star Fortress - Midline',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation_mid',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_midline_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Ravelin-class defense drones '\n         'and an extensive minefield.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2060',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation_high$name",
+    "original": "Orbital Station - High Tech",
+    "translation": "궤도 정거장 - 후기형",
+    "stage": 1,
+    "context": "industries.csv row 0022\n[original data]\n{'id': 'orbitalstation_high',\n 'name': 'Orbital Station - High Tech',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation_high',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_hightech_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A high-tech space station, featuring heavy rotating shields, a '\n         'fighter complement, and medium firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2070',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#orbitalstation_high$desc",
+    "original": "A high-tech space station, featuring heavy rotating shields, a fighter complement, and medium firepower.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "강력한 회전 방어막, 함재기 편대와 중간 수준의 화력을 보유한 후기형 우주 정거장입니다.\\n\\n침공이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0022\n[original data]\n{'id': 'orbitalstation_high',\n 'name': 'Orbital Station - High Tech',\n 'cost mult': '50',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': 'battlestation_high',\n 'tags': 'station, sub_item, unraidable, structure',\n 'data': '{\n'\n         'radius:55,\n'\n         'variant:station1_hightech_Standard,\n'\n         'fleetName:Orbital Station,\n'\n         '}',\n 'image': 'graphics/icons/industry/orbital_station.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A high-tech space station, featuring heavy rotating shields, a '\n         'fighter complement, and medium firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2070',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation_high$name",
+    "original": "Battlestation - High Tech",
+    "translation": "전투 정거장 - 후기형",
+    "stage": 1,
+    "context": "industries.csv row 0023\n[original data]\n{'id': 'battlestation_high',\n 'name': 'Battlestation - High Tech',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation_high',\n 'upgrade': 'starfortress_high',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_hightech_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with a defensive citadel featuring heavy '\n         'firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2080',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#battlestation_high$desc",
+    "original": "A space station, augmented with a defensive citadel featuring heavy firepower.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "고화력의 방어 요새를 탑재한 우주 정거장입니다.\\n\\n침공이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0023\n[original data]\n{'id': 'battlestation_high',\n 'name': 'Battlestation - High Tech',\n 'cost mult': '100',\n 'build time': '120',\n 'income': '',\n 'upkeep': '4',\n 'downgrade': 'orbitalstation_high',\n 'upgrade': 'starfortress_high',\n 'tags': 'station, battlestation, unraidable, structure',\n 'data': '{\n'\n         'radius:65,\n'\n         'variant:station2_hightech_Standard,\n'\n         'fleetName:Battlestation,\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'A space station, augmented with a defensive citadel featuring heavy '\n         'firepower.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2080',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress_high$name",
+    "original": "Star Fortress - High Tech",
+    "translation": "항성 요새 - 후기형",
+    "stage": 1,
+    "context": "industries.csv row 0024\n[original data]\n{'id': 'starfortress_high',\n 'name': 'Star Fortress - High Tech',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation_high',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_hightech_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Gargoyle-class defense drones '\n         'and long-range targeted mine teleporters.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2090',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#starfortress_high$desc",
+    "original": "An up-armored battlestation, featuring Gargoyle-class defense drones and long-range targeted mine teleporters.\\n\\nMust be reduced before invasions or bombardment can be attempted.",
+    "translation": "가고일급 방어 드론과 장거리 기뢰 전이장치가 탑재되고 장갑이 증설된 전투 정거장입니다.\\n\\n침공이나 폭격을 시도하기 전에 무력화해야 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0024\n[original data]\n{'id': 'starfortress_high',\n 'name': 'Star Fortress - High Tech',\n 'cost mult': '200',\n 'build time': '180',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': 'battlestation_high',\n 'upgrade': '',\n 'tags': 'station, starfortress, unraidable, structure',\n 'data': '{\n'\n         'radius:70,\n'\n         'variant:station3_hightech_Standard,\n'\n         'fleetName:Star Fortress\n'\n         '}',\n 'image': 'graphics/icons/industry/battlestation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation',\n 'desc': 'An up-armored battlestation, featuring Gargoyle-class defense drones '\n         'and long-range targeted mine teleporters.\n'\n         '\n'\n         'Must be reduced before invasions or bombardment can be attempted.',\n 'order': '2090',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#grounddefenses$name",
+    "original": "Ground Defenses",
+    "translation": "지상 방어",
+    "stage": 3,
+    "context": "industries.csv row 0025\n[original data]\n{'id': 'grounddefenses',\n 'name': 'Ground Defenses',\n 'cost mult': '30',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': 'heavybatteries',\n 'tags': 'grounddefenses, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/ground_defenses.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses',\n 'desc': 'A dispersed, semi-autonomous network of small, hidden weapon '\n         'installations which makes the prospect of a direct ground assault '\n         'and even simple raids extremely costly to the attacker. Only '\n         'overwhelming orbital bombardment or massively disproportionate '\n         'active screening can suppress these defenses.  ',\n 'order': '2200',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#grounddefenses$desc",
+    "original": "A dispersed, semi-autonomous network of small, hidden weapon installations which makes the prospect of a direct ground assault and even simple raids extremely costly to the attacker. Only overwhelming orbital bombardment or massively disproportionate active screening can suppress these defenses.  ",
+    "translation": "작고 숨겨진 무기 설치물들이 분산된 반자동망입니다. 직접적인 지상 강습이나 간단한 습격마저 공격 측에게 극단적으로 손실이 큰 전망으로 만듭니다. 압도적인 궤도 폭격이나, 막대하게 불균형한 능동 차폐술만이 이 방어체계를 제압할 수 있습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0025\n[original data]\n{'id': 'grounddefenses',\n 'name': 'Ground Defenses',\n 'cost mult': '30',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': 'heavybatteries',\n 'tags': 'grounddefenses, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/ground_defenses.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses',\n 'desc': 'A dispersed, semi-autonomous network of small, hidden weapon '\n         'installations which makes the prospect of a direct ground assault '\n         'and even simple raids extremely costly to the attacker. Only '\n         'overwhelming orbital bombardment or massively disproportionate '\n         'active screening can suppress these defenses.  ',\n 'order': '2200',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#heavybatteries$name",
+    "original": "Heavy Batteries",
+    "translation": "중형 포대",
+    "stage": 1,
+    "context": "industries.csv row 0026\n[original data]\n{'id': 'heavybatteries',\n 'name': 'Heavy Batteries',\n 'cost mult': '60',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': 'grounddefenses',\n 'upgrade': '',\n 'tags': 'grounddefenses, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/heavy_batteries.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses',\n 'desc': 'Armoured subsurface batteries supplement a dispersed network of '\n         'small, hidden weapon installations. Ground-based batteries are '\n         'capable of truly awesome firepower, though it only manifests by '\n         'making ground operations more difficult, as no starship captain '\n         'would be foolish enough to get within their firing envelopes.',\n 'order': '2300',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#heavybatteries$desc",
+    "original": "Armoured subsurface batteries supplement a dispersed network of small, hidden weapon installations. Ground-based batteries are capable of truly awesome firepower, though it only manifests by making ground operations more difficult, as no starship captain would be foolish enough to get within their firing envelopes.",
+    "translation": "방호된 지하 포대가 분산된 소형 무기체계의 네트워크를 보강합니다. 지상 대함 포대는 실로 인상적인 화력을 투사할 수 있으나, 이들의 유효 사거리 내로 접근할 정신나간 함장은 없기 때문에 지상 작전을 매우 어렵게 만드는 데 그칩니다.",
+    "stage": 1,
+    "context": "industries.csv row 0026\n[original data]\n{'id': 'heavybatteries',\n 'name': 'Heavy Batteries',\n 'cost mult': '60',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': 'grounddefenses',\n 'upgrade': '',\n 'tags': 'grounddefenses, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/heavy_batteries.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses',\n 'desc': 'Armoured subsurface batteries supplement a dispersed network of '\n         'small, hidden weapon installations. Ground-based batteries are '\n         'capable of truly awesome firepower, though it only manifests by '\n         'making ground operations more difficult, as no starship captain '\n         'would be foolish enough to get within their firing envelopes.',\n 'order': '2300',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#patrolhq$name",
+    "original": "Patrol HQ",
+    "translation": "순찰 본부",
+    "stage": 1,
+    "context": "industries.csv row 0027\n[original data]\n{'id': 'patrolhq',\n 'name': 'Patrol HQ',\n 'cost mult': '60',\n 'build time': '60',\n 'income': '',\n 'upkeep': '8',\n 'downgrade': '',\n 'upgrade': 'militarybase',\n 'tags': 'patrol, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/patrol_hq.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'The requisite hangars, maintenance bays, command/control center, '\n         'barracks, and logistics operations required to project force '\n         'throughout a star system. Once established, militarized patrols will '\n         'hunt pirates and protect friendly convoys.',\n 'order': '2400',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#patrolhq$desc",
+    "original": "The requisite hangars, maintenance bays, command/control center, barracks, and logistics operations required to project force throughout a star system. Once established, militarized patrols will hunt pirates and protect friendly convoys.",
+    "translation": "항성계 내부에 무력을 투사하는 데 필요한 격납고, 건선거, 전투지휘체계, 병영과 보급 설비들입니다. 건설이 완료되면 순찰 함대들이 해적들을 쫓고 우호적 수송선단을 보호할 것입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0027\n[original data]\n{'id': 'patrolhq',\n 'name': 'Patrol HQ',\n 'cost mult': '60',\n 'build time': '60',\n 'income': '',\n 'upkeep': '8',\n 'downgrade': '',\n 'upgrade': 'militarybase',\n 'tags': 'patrol, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/patrol_hq.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'The requisite hangars, maintenance bays, command/control center, '\n         'barracks, and logistics operations required to project force '\n         'throughout a star system. Once established, militarized patrols will '\n         'hunt pirates and protect friendly convoys.',\n 'order': '2400',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#militarybase$name",
+    "original": "Military Base",
+    "translation": "군사 기지",
+    "stage": 1,
+    "context": "industries.csv row 0028\n[original data]\n{'id': 'militarybase',\n 'name': 'Military Base',\n 'cost mult': '90',\n 'build time': '120',\n 'income': '',\n 'upkeep': '10',\n 'downgrade': 'patrolhq',\n 'upgrade': 'highcommand',\n 'tags': 'military, unraidable, tactical_bombardment, industry',\n 'data': '',\n 'image': 'graphics/icons/industry/military_base.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'These facilities enable force projection between star systems. Any '\n         'such military undertaking is a massive logistical operation '\n         'requiring coordination of dozens, perhaps hundreds of star ships and '\n         'thousands of officers, crew, and soldiers.',\n 'order': '2500',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#militarybase$desc",
+    "original": "These facilities enable force projection between star systems. Any such military undertaking is a massive logistical operation requiring coordination of dozens, perhaps hundreds of star ships and thousands of officers, crew, and soldiers.",
+    "translation": "항성계간의 무력 투사를 위한 시설들입니다. 이런 종류의 군사작전은 수십 혹은 수백의 함선들과 수천의 장교, 승무원과 군인들의 합동을 필요로 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0028\n[original data]\n{'id': 'militarybase',\n 'name': 'Military Base',\n 'cost mult': '90',\n 'build time': '120',\n 'income': '',\n 'upkeep': '10',\n 'downgrade': 'patrolhq',\n 'upgrade': 'highcommand',\n 'tags': 'military, unraidable, tactical_bombardment, industry',\n 'data': '',\n 'image': 'graphics/icons/industry/military_base.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'These facilities enable force projection between star systems. Any '\n         'such military undertaking is a massive logistical operation '\n         'requiring coordination of dozens, perhaps hundreds of star ships and '\n         'thousands of officers, crew, and soldiers.',\n 'order': '2500',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#highcommand$name",
+    "original": "High Command",
+    "translation": "함대 사령부",
+    "stage": 1,
+    "context": "industries.csv row 0029\n[original data]\n{'id': 'highcommand',\n 'name': 'High Command',\n 'cost mult': '30',\n 'build time': '120',\n 'income': '',\n 'upkeep': '14',\n 'downgrade': 'militarybase',\n 'upgrade': '',\n 'tags': 'command, unraidable, tactical_bombardment, industry',\n 'data': '',\n 'image': 'graphics/icons/industry/high_command.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'Transtellar empire is possible only through an exceptional corps of '\n         'officers and bureaucrats given authority over the resources of '\n         'entire star systems. An established high command allows military '\n         'operations to be organized and executed across the Sector.',\n 'order': '2600',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#highcommand$desc",
+    "original": "Transtellar empire is possible only through an exceptional corps of officers and bureaucrats given authority over the resources of entire star systems. An established high command allows military operations to be organized and executed across the Sector.",
+    "translation": "성간 제국은 우수한 장교와 관료들에게 항성계 전체의 자원을 맡겨서만이 유지될 수 있습니다. 함대 사령부는 섹터를 가로지르는 군사작전의 설립과 실행을 가능케 합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0029\n[original data]\n{'id': 'highcommand',\n 'name': 'High Command',\n 'cost mult': '30',\n 'build time': '120',\n 'income': '',\n 'upkeep': '14',\n 'downgrade': 'militarybase',\n 'upgrade': '',\n 'tags': 'command, unraidable, tactical_bombardment, industry',\n 'data': '',\n 'image': 'graphics/icons/industry/high_command.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase',\n 'desc': 'Transtellar empire is possible only through an exceptional corps of '\n         'officers and bureaucrats given authority over the resources of '\n         'entire star systems. An established high command allows military '\n         'operations to be organized and executed across the Sector.',\n 'order': '2600',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#lionsguard$name",
+    "original": "Lion's Guard HQ",
+    "translation": "사자 친위대 본부",
+    "stage": 1,
+    "context": "industries.csv row 0030\n[original data]\n{'id': 'lionsguard',\n 'name': \"Lion's Guard HQ\",\n 'cost mult': '90',\n 'build time': '60',\n 'income': '',\n 'upkeep': '6',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'military, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/lions_guard.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.LionsGuardHQ',\n 'desc': 'Headquarters of the feared personal guard of Phillip \"The Lion of '\n         'Sindria\" Andrada. Boasting superb training and access to the best '\n         'equipment credits can buy, the fanatical loyalty of the Guard is '\n         'maintained through a system of perks and incentives that both '\n         \"elevate and isolate the Guard from the Diktat's regular military.\",\n 'order': '2650',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#lionsguard$desc",
+    "original": "Headquarters of the feared personal guard of Phillip \"The Lion of Sindria\" Andrada. Boasting superb training and access to the best equipment credits can buy, the fanatical loyalty of the Guard is maintained through a system of perks and incentives that both elevate and isolate the Guard from the Diktat's regular military.",
+    "translation": "\"신드리아의 사자\" Phillip Andrada의 악명 높은 친위대의 본부입니다. 최상의 훈련과, 돈으로 살 수 있는 가장 좋은 장비를 자랑합니다. Diktat의 정규군보다 높은 지위를 부여하는 동시에 교류를 차단하는 일련의 특전과 장려 제도가 이들의 광신적 충성을 유지합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0030\n[original data]\n{'id': 'lionsguard',\n 'name': \"Lion's Guard HQ\",\n 'cost mult': '90',\n 'build time': '60',\n 'income': '',\n 'upkeep': '6',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'military, unraidable, tactical_bombardment, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/lions_guard.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.LionsGuardHQ',\n 'desc': 'Headquarters of the feared personal guard of Phillip \"The Lion of '\n         'Sindria\" Andrada. Boasting superb training and access to the best '\n         'equipment credits can buy, the fanatical loyalty of the Guard is '\n         'maintained through a system of perks and incentives that both '\n         \"elevate and isolate the Guard from the Diktat's regular military.\",\n 'order': '2650',\n 'disruptDanger': ''}"
+  },
+  {
+    "key": "industries.csv#planetaryshield$name",
+    "original": "Planetary Shield",
+    "translation": "행성 보호막",
+    "stage": 1,
+    "context": "industries.csv row 0031\n[original data]\n{'id': 'planetaryshield',\n 'name': 'Planetary Shield',\n 'cost mult': '150',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'grounddefenses, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/planetary_shield.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.PlanetaryShield',\n 'desc': 'An envelope of charged plasma seeded with exotic virtual particles '\n         'producing effects which disrupt the combat effectiveness of '\n         'long-range bombardment and even incursion by small vessels. The '\n         'planetary shield can be continually charged and controlled by a '\n         'central source and presents a formidable obstacle to any form of '\n         'ground assault.',\n 'order': '2700',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#planetaryshield$desc",
+    "original": "An envelope of charged plasma seeded with exotic virtual particles producing effects which disrupt the combat effectiveness of long-range bombardment and even incursion by small vessels. The planetary shield can be continually charged and controlled by a central source and presents a formidable obstacle to any form of ground assault.",
+    "translation": "특수한 가상입자들을 포함한 하전 플라즈마 장벽이 장거리 폭격의 효력과 심지어 소형 함선들의 침입마저도 교란합니다. 행성 보호막은 하나의 중앙 동력원으로부터 지속적으로 유지 및 제어될 수 있으며, 모든 종류의 지상 공격에 강력한 장애물로 작용합니다.",
+    "stage": 1,
+    "context": "industries.csv row 0031\n[original data]\n{'id': 'planetaryshield',\n 'name': 'Planetary Shield',\n 'cost mult': '150',\n 'build time': '90',\n 'income': '',\n 'upkeep': '3',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'grounddefenses, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/planetary_shield.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.PlanetaryShield',\n 'desc': 'An envelope of charged plasma seeded with exotic virtual particles '\n         'producing effects which disrupt the combat effectiveness of '\n         'long-range bombardment and even incursion by small vessels. The '\n         'planetary shield can be continually charged and controlled by a '\n         'central source and presents a formidable obstacle to any form of '\n         'ground assault.',\n 'order': '2700',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#waystation$name",
+    "original": "Waystation",
+    "translation": "기착지",
+    "stage": 1,
+    "context": "industries.csv row 0032\n[original data]\n{'id': 'waystation',\n 'name': 'Waystation',\n 'cost mult': '20',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'waystation, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/waystation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Waystation',\n 'desc': 'A supply and maintenance depot for interstellar fleets. Increases a '\n         \"colony's accessibility.\",\n 'order': '155',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#waystation$desc",
+    "original": "A supply and maintenance depot for interstellar fleets. Increases a colony's accessibility.",
+    "translation": "성간 함대를 위한 보급 및 관리시설입니다. 정착지의 접근성을 높입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0032\n[original data]\n{'id': 'waystation',\n 'name': 'Waystation',\n 'cost mult': '20',\n 'build time': '60',\n 'income': '',\n 'upkeep': '2',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'waystation, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/waystation.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Waystation',\n 'desc': 'A supply and maintenance depot for interstellar fleets. Increases a '\n         \"colony's accessibility.\",\n 'order': '155',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#cryosanctum$name",
+    "original": "Cryosanctum",
+    "translation": "냉동수면고",
+    "stage": 1,
+    "context": "industries.csv row 0033\n[original data]\n{'id': 'cryosanctum',\n 'name': 'Cryosanctum',\n 'cost mult': '150',\n 'build time': '90',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'cryosanctum, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/cryosanctum.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Cryosanctum',\n 'desc': 'An enormous tomb-like vault built to store those who choose to risk '\n         'cryosleep to pass this time of troubles to wake in what will '\n         'presumably be a more civilized age. The cryopods themselves are '\n         'insignificant in size compared to the many-times redundant support '\n         'infrastructure, massive automated security systems and anti-ship '\n         'batteries, all housed in a branching subsurface fortress-labyrinth.',\n 'order': '3000',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#cryosanctum$desc",
+    "original": "An enormous tomb-like vault built to store those who choose to risk cryosleep to pass this time of troubles to wake in what will presumably be a more civilized age. The cryopods themselves are insignificant in size compared to the many-times redundant support infrastructure, massive automated security systems and anti-ship batteries, all housed in a branching subsurface fortress-labyrinth.",
+    "translation": "좀 더 문명화된 사회에 깨어나기를 바라며 냉동수면에 든 이들을 보관하는 거대한 무덤같은 금고입니다. 수면장치 자체는 그다지 크지 않지만, 몇 겹의 예비가 있는 보조 기반시설, 거대한 자동 보안체계와 대함 포대들이 미궁같이 뻗어나간 지하 요새에 설치되어 있습니다.",
+    "stage": 1,
+    "context": "industries.csv row 0033\n[original data]\n{'id': 'cryosanctum',\n 'name': 'Cryosanctum',\n 'cost mult': '150',\n 'build time': '90',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'cryosanctum, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/cryosanctum.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Cryosanctum',\n 'desc': 'An enormous tomb-like vault built to store those who choose to risk '\n         'cryosleep to pass this time of troubles to wake in what will '\n         'presumably be a more civilized age. The cryopods themselves are '\n         'insignificant in size compared to the many-times redundant support '\n         'infrastructure, massive automated security systems and anti-ship '\n         'batteries, all housed in a branching subsurface fortress-labyrinth.',\n 'order': '3000',\n 'disruptDanger': 'EXTREME'}"
+  },
+  {
+    "key": "industries.csv#cryorevival$name",
+    "original": "Cryorevival Facility",
+    "translation": "해동시설",
+    "stage": 1,
+    "context": "industries.csv row 0035\n[original data]\n{'id': 'cryorevival',\n 'name': 'Cryorevival Facility',\n 'cost mult': '60',\n 'build time': '60',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'cryorevival, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/cryorevival.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Cryorevival',\n 'desc': 'The necessary facilities for the mass revival and assimilation of '\n         'the passengers of a Domain-era cryosleeper. Greatly increases '\n         'population growth.',\n 'order': '3200',\n 'disruptDanger': 'MEDIUM'}"
+  },
+  {
+    "key": "industries.csv#cryorevival$desc",
+    "original": "The necessary facilities for the mass revival and assimilation of the passengers of a Domain-era cryosleeper. Greatly increases population growth.",
+    "translation": "도메인 시대 냉동수면 수송선의 탑승자들을 대량으로 소생하여 적응시키는 데 필요한 설비들입니다. 인구 성장률을 크게 높입니다.",
+    "stage": 1,
+    "context": "industries.csv row 0035\n[original data]\n{'id': 'cryorevival',\n 'name': 'Cryorevival Facility',\n 'cost mult': '60',\n 'build time': '60',\n 'income': '',\n 'upkeep': '5',\n 'downgrade': '',\n 'upgrade': '',\n 'tags': 'cryorevival, structure',\n 'data': '',\n 'image': 'graphics/icons/industry/cryorevival.png',\n 'plugin': 'com.fs.starfarer.api.impl.campaign.econ.impl.Cryorevival',\n 'desc': 'The necessary facilities for the mass revival and assimilation of '\n         'the passengers of a Domain-era cryosleeper. Greatly increases '\n         'population growth.',\n 'order': '3200',\n 'disruptDanger': 'MEDIUM'}"
+  }
+]

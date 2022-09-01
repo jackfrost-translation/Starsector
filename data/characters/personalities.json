@@ -1,0 +1,72 @@
+[
+  {
+    "key": "personalities.csv#timid$name",
+    "original": "Timid",
+    "translation": "소심",
+    "stage": 1,
+    "context": "personalities.csv row 0001\n[original data]\n{'id': 'timid',\n 'name': 'Timid',\n 'desc': 'In combat, this officer will attempt to avoid direct engagements if '\n         'at all possible, even if commanding a combat vessel.',\n 'bravery': '5',\n 'CAPTURE': '0.5',\n 'PATROL': '0.5',\n 'INTERCEPT': '0.1',\n 'ASSAULT': '0',\n 'DEFEND': '1',\n 'STRIKE': '0',\n 'HARASS': '0',\n 'FIRE_SUPPORT': '3',\n 'CARRIER_GROUP': '3',\n 'CIVILIAN_CRAFT': '3',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#timid$desc",
+    "original": "In combat, this officer will attempt to avoid direct engagements if at all possible, even if commanding a combat vessel.",
+    "translation": "전투 중에, 이 장교는 전투함을 지휘하고 있더라도 직접적인 교전을 가능한 만큼 피하려 합니다.",
+    "stage": 1,
+    "context": "personalities.csv row 0001\n[original data]\n{'id': 'timid',\n 'name': 'Timid',\n 'desc': 'In combat, this officer will attempt to avoid direct engagements if '\n         'at all possible, even if commanding a combat vessel.',\n 'bravery': '5',\n 'CAPTURE': '0.5',\n 'PATROL': '0.5',\n 'INTERCEPT': '0.1',\n 'ASSAULT': '0',\n 'DEFEND': '1',\n 'STRIKE': '0',\n 'HARASS': '0',\n 'FIRE_SUPPORT': '3',\n 'CARRIER_GROUP': '3',\n 'CIVILIAN_CRAFT': '3',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#cautious$name",
+    "original": "Cautious",
+    "translation": "신중",
+    "stage": 1,
+    "context": "personalities.csv row 0002\n[original data]\n{'id': 'cautious',\n 'name': 'Cautious',\n 'desc': 'In combat, this officer will prefer to stay out of enemy range, only '\n         'occasionally moving in if out-ranged by the enemy.',\n 'bravery': '5',\n 'CAPTURE': '1',\n 'PATROL': '0.7',\n 'INTERCEPT': '0.3',\n 'ASSAULT': '0.3',\n 'DEFEND': '2',\n 'STRIKE': '0.3',\n 'HARASS': '0.3',\n 'FIRE_SUPPORT': '2',\n 'CARRIER_GROUP': '2',\n 'CIVILIAN_CRAFT': '2',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#cautious$desc",
+    "original": "In combat, this officer will prefer to stay out of enemy range, only occasionally moving in if out-ranged by the enemy.",
+    "translation": "전투 중에, 이 장교는 적의 사거리 밖에 머무는 것을 선호하며 적의 사거리가 더 길 때만 접근합니다.",
+    "stage": 1,
+    "context": "personalities.csv row 0002\n[original data]\n{'id': 'cautious',\n 'name': 'Cautious',\n 'desc': 'In combat, this officer will prefer to stay out of enemy range, only '\n         'occasionally moving in if out-ranged by the enemy.',\n 'bravery': '5',\n 'CAPTURE': '1',\n 'PATROL': '0.7',\n 'INTERCEPT': '0.3',\n 'ASSAULT': '0.3',\n 'DEFEND': '2',\n 'STRIKE': '0.3',\n 'HARASS': '0.3',\n 'FIRE_SUPPORT': '2',\n 'CARRIER_GROUP': '2',\n 'CIVILIAN_CRAFT': '2',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#steady$name",
+    "original": "Steady",
+    "translation": "침착",
+    "stage": 1,
+    "context": "personalities.csv row 0003\n[original data]\n{'id': 'steady',\n 'name': 'Steady',\n 'desc': 'In combat, this officer will favor a balanced approach with tactics '\n         'matching the current situation.',\n 'bravery': '5',\n 'CAPTURE': '1',\n 'PATROL': '1',\n 'INTERCEPT': '1',\n 'ASSAULT': '1',\n 'DEFEND': '1',\n 'STRIKE': '1',\n 'HARASS': '1',\n 'FIRE_SUPPORT': '1',\n 'CARRIER_GROUP': '1',\n 'CIVILIAN_CRAFT': '1',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#steady$desc",
+    "original": "In combat, this officer will favor a balanced approach with tactics matching the current situation.",
+    "translation": "전투 중에, 이 장교는 현 상황에 어울리는 전술로 균형 잡힌 접근법을 선호합니다.",
+    "stage": 1,
+    "context": "personalities.csv row 0003\n[original data]\n{'id': 'steady',\n 'name': 'Steady',\n 'desc': 'In combat, this officer will favor a balanced approach with tactics '\n         'matching the current situation.',\n 'bravery': '5',\n 'CAPTURE': '1',\n 'PATROL': '1',\n 'INTERCEPT': '1',\n 'ASSAULT': '1',\n 'DEFEND': '1',\n 'STRIKE': '1',\n 'HARASS': '1',\n 'FIRE_SUPPORT': '1',\n 'CARRIER_GROUP': '1',\n 'CIVILIAN_CRAFT': '1',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '1',\n 'DESTROYER_ESCORT': '1'}"
+  },
+  {
+    "key": "personalities.csv#aggressive$name",
+    "original": "Aggressive",
+    "translation": "호전",
+    "stage": 1,
+    "context": "personalities.csv row 0004\n[original data]\n{'id': 'aggressive',\n 'name': 'Aggressive',\n 'desc': 'In combat, this officer will prefer to engage at a range that allows '\n         \"the use of all of their ship's weapons, will pilot civilian ships as \"\n         'if they were combat ships, and will employ any fighters under their '\n         'command aggressively.',\n 'bravery': '5',\n 'CAPTURE': '1.5',\n 'PATROL': '1',\n 'INTERCEPT': '2',\n 'ASSAULT': '2',\n 'DEFEND': '0.5',\n 'STRIKE': '2',\n 'HARASS': '2',\n 'FIRE_SUPPORT': '0.5',\n 'CARRIER_GROUP': '0.5',\n 'CIVILIAN_CRAFT': '0.5',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '0.5',\n 'DESTROYER_ESCORT': '0.5'}"
+  },
+  {
+    "key": "personalities.csv#aggressive$desc",
+    "original": "In combat, this officer will prefer to engage at a range that allows the use of all of their ship's weapons, will pilot civilian ships as if they were combat ships, and will employ any fighters under their command aggressively.",
+    "translation": "전투 중에, 이 장교는 함선의 모든 무기를 사용할 수 있는 거리에서 교전하는 것을 선호하며,  민간함을 전투함인 것처럼 조종하고, 지휘하는 모든 전투기를 공격적으로 활용합니다.",
+    "stage": 1,
+    "context": "personalities.csv row 0004\n[original data]\n{'id': 'aggressive',\n 'name': 'Aggressive',\n 'desc': 'In combat, this officer will prefer to engage at a range that allows '\n         \"the use of all of their ship's weapons, will pilot civilian ships as \"\n         'if they were combat ships, and will employ any fighters under their '\n         'command aggressively.',\n 'bravery': '5',\n 'CAPTURE': '1.5',\n 'PATROL': '1',\n 'INTERCEPT': '2',\n 'ASSAULT': '2',\n 'DEFEND': '0.5',\n 'STRIKE': '2',\n 'HARASS': '2',\n 'FIRE_SUPPORT': '0.5',\n 'CARRIER_GROUP': '0.5',\n 'CIVILIAN_CRAFT': '0.5',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '0.5',\n 'DESTROYER_ESCORT': '0.5'}"
+  },
+  {
+    "key": "personalities.csv#reckless$name",
+    "original": "Reckless",
+    "translation": "무모",
+    "stage": 1,
+    "context": "personalities.csv row 0005\n[original data]\n{'id': 'reckless',\n 'name': 'Reckless',\n 'desc': 'In combat, this officer is aggressive to a fault, often disregarding '\n         'the safety of their ship entirely in an effort to engage the enemy.',\n 'bravery': '5',\n 'CAPTURE': '1.5',\n 'PATROL': '1',\n 'INTERCEPT': '2',\n 'ASSAULT': '2',\n 'DEFEND': '0.5',\n 'STRIKE': '2',\n 'HARASS': '2',\n 'FIRE_SUPPORT': '0.5',\n 'CARRIER_GROUP': '0.5',\n 'CIVILIAN_CRAFT': '0.5',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '0.5',\n 'DESTROYER_ESCORT': '0.5'}"
+  },
+  {
+    "key": "personalities.csv#reckless$desc",
+    "original": "In combat, this officer is aggressive to a fault, often disregarding the safety of their ship entirely in an effort to engage the enemy.",
+    "translation": "전투 중에, 이 장교는 지나치게 공격적이며 오로지 적과 교전하기 위해 함선의 안전을 곧잘 경시합니다.",
+    "stage": 1,
+    "context": "personalities.csv row 0005\n[original data]\n{'id': 'reckless',\n 'name': 'Reckless',\n 'desc': 'In combat, this officer is aggressive to a fault, often disregarding '\n         'the safety of their ship entirely in an effort to engage the enemy.',\n 'bravery': '5',\n 'CAPTURE': '1.5',\n 'PATROL': '1',\n 'INTERCEPT': '2',\n 'ASSAULT': '2',\n 'DEFEND': '0.5',\n 'STRIKE': '2',\n 'HARASS': '2',\n 'FIRE_SUPPORT': '0.5',\n 'CARRIER_GROUP': '0.5',\n 'CIVILIAN_CRAFT': '0.5',\n 'STRIKE_FORCE': '1',\n 'LIGHT_ESCORT': '0.5',\n 'DESTROYER_ESCORT': '0.5'}"
+  }
+]
